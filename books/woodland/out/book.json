@@ -1,0 +1,92 @@
+{
+ "slug": "woodland",
+ "title": "Olive Keeps Watch",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "In the woods, the light turns gold, then pink, then purple. Olive the owl opens one eye.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The rabbits hop home to their burrow, one, two, three, four.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The fox curls up with her tail over her nose.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The hedgehog rolls into a prickly ball under the leaves.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The deer lie down in the long soft grass.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The squirrel tucks his nut away and snuggles into his nest.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The badgers snuffle back into their sett.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The mice creep into the hollow log, tiny tail by tiny tail.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The bear cub yawns a big, big yawn in his den.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The moon floats up above the trees.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Olive spreads her wings and flies softly through the quiet woods.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "\"Sleep well, everyone,\" hoots Olive. \"I'll keep watch till morning.\"",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "slug": "rainforest",
+ "title": "Rainforest Lullaby",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "High in the rainforest, the day is done. Sunny the tree frog sits on his leaf.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The toucan clacks her big bright beak one last time. Then, quiet.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The monkeys chatter and swing and chatter. Then, quiet.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The sloth moves slow, slower, slowest. Then, stop.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The parrots squawk goodnight to each other, all at once.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The jaguar cub curls up on a wide branch and licks her paw.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The butterflies fold their wings under the leaves.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The rain starts, soft as a whisper, drip, drip, drip.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The fireflies blink on, blink off, blink on, blink off.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The moon peeks through the tallest trees.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Sunny closes one eye. Then the other.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "The whole rainforest sleeps under the soft, soft rain. Goodnight, Sunny.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

@@ -2,81 +2,534 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "d3756fc77473",
-    "out": "8af5ab3db292"
+   "image": {
+    "inputs": "622848d837d4",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Sunny on a wide leaf, peach light. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397175,
+    "seconds": 5.3,
+    "stale": false,
+    "at": "2026-10-11T20:46:06.506Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "abbc14363ad7",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "One green tree frog with orange toes and gold eyes sits on a wide leaf in peach light. There is no text in the picture, the panel covers only plain ground and the contrast is fine."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:46:35.653Z"
    }
   },
   "p02": {
-   "write": {
-    "in": "119a62ac445e",
-    "out": "3f01aaf45e75"
+   "image": {
+    "inputs": "935dc7c853cb",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Toucan on a branch, beak closing. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397175,
+    "seconds": 5.1,
+    "stale": false,
+    "at": "2026-10-11T20:46:06.293Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "7c60f22ddd77",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The scene is a toucan on a branch, so the frog is not expected. The picture shows one toucan with a big beak and no writing. The panel covers only the empty lower edge, and the pastel palette will read well on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:46:41.538Z"
    }
   },
   "p03": {
-   "write": {
-    "in": "887f43513bd9",
-    "out": "913fffa485ab"
+   "image": {
+    "inputs": "33d40db2bfea",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Two small monkeys settling on a vine. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339715,
+    "seconds": 5.4,
+    "stale": false,
+    "at": "2026-10-11T20:46:11.688Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "5530b33f4f63",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "Lower corners and edges are fairly dark navy blue, though the center is light enough",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Two sleeping monkeys on a branch match the scene, there is no text, the panel covers only plain foliage and sky, and the dark navy areas are modest, so the page is good to print."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:46:46.807Z"
    }
   },
   "p04": {
-   "write": {
-    "in": "c9f078c922f1",
-    "out": "551be6583418"
+   "image": {
+    "inputs": "353de0364f7e",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Sloth hanging from a branch, eyes closed. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033972,
+    "seconds": 7.1,
+    "stale": false,
+    "at": "2026-10-11T20:46:13.511Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "b8a144324225",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The sloth hangs from the branch with its eyes closed, and Sunny the frog matches the reference sheet. The panel covers only foliage and sky, and the picture has no stray writing and no large dark areas."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:46:54.315Z"
    }
   },
   "p05": {
-   "write": {
-    "in": "58406322116f",
-    "out": "f95efb12da1e"
+   "image": {
+    "inputs": "c8ed43198324",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Three parrots in a row, beaks open. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033972,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T20:46:10.930Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "aebbe0ab9ccf",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "lower third of the sky is deep dark blue, though the parrots and branch read clearly",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Three parrots with open beaks match the scene and words, the frog is not required, the panel sits over plain dark sky, and the dark blue is only moderate."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:46:59.282Z"
    }
   },
   "p06": {
-   "write": {
-    "in": "7b37003068d5",
-    "out": "e8af9234388e"
+   "image": {
+    "inputs": "9c17f937bc6e",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Spotted cub on a thick branch. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397125,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T20:46:15.013Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "3e810a768f1e",
+    "verdict": "proposed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "the words and scene call for a jaguar cub but the picture shows only a green frog on a spotted branch; no cub is visible",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "the branch is covered in leopard-like spots and looks like a jaguar's body, which could confuse a child"
+    },
+    "action": {
+     "do": "edit",
+     "to": "",
+     "crop": [],
+     "instruction": "Add a small jaguar cub with golden fur and black rosettes curled up on the branch, licking its paw, next to the sleeping frog.",
+     "reason": "The scene and text are about a spotted jaguar cub but the picture has no cub; the spotted branch looks like a jaguar body. The frog matches the reference sheet and the rest of the picture is fine, so an edit should be enough."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:47:05.746Z"
    }
   },
   "p07": {
-   "write": {
-    "in": "a63ea85bb89c",
-    "out": "477e94d76707"
+   "image": {
+    "inputs": "746b4f1dde08",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Butterflies under a leaf, wings closed. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339715,
+    "seconds": 3.9,
+    "stale": false,
+    "at": "2026-10-11T20:46:15.649Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "1467ffceb791",
+    "verdict": "proposed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "two butterflies have their wings open, not folded closed under a leaf",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "edit",
+     "to": "",
+     "crop": [],
+     "instruction": "Show both butterflies with their wings folded closed and tucked under a leaf.",
+     "reason": "The scene and words say the butterflies fold their wings under the leaves, but both butterflies are drawn with wings wide open and sitting on top of the foliage."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:47:12.834Z"
    }
   },
   "p08": {
-   "write": {
-    "in": "33a44282daac",
-    "out": "7c8d96b4bcb9"
+   "image": {
+    "inputs": "7b219a4ac8fa",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Rain drops on leaves, Sunny sheltering. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339715,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T20:46:17.980Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "4a8978613959",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Sunny the green tree frog with orange toes and gold eyes shelters under a curled leaf in soft rain; no writing, the panel sits over plain ground, and the lavender sky reads clearly."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:47:17.586Z"
    }
   },
   "p09": {
-   "write": {
-    "in": "77a9e236831f",
-    "out": "d493e274147f"
+   "image": {
+    "inputs": "f5cfc0c38d64",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Small yellow dots among the leaves, purple sky. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033972,
+    "seconds": 6.3,
+    "stale": false,
+    "at": "2026-10-11T20:46:21.378Z",
+    "regens": 1
+   },
+   "edit": {
+    "crop": [
+     0.34,
+     0.1,
+     0.6,
+     0.6
+    ],
+    "text_pos": "top"
+   },
+   "inspect": {
+    "in": "1f23bf9faee8",
+    "verdict": "fixed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "yellow dots are only ochre berries, but fireflies read acceptably; one frog asleep, fine",
+     "panel": "panel covers plain foliage, but a stray repeated strip of the picture sits just above it",
+     "contrast": "ok",
+     "extras": "visible seam near the bottom where the picture repeats and shifts, like a stitched strip"
+    },
+    "action": {
+     "do": "crop",
+     "to": "top",
+     "crop": [
+      0.34,
+      0.1,
+      0.6,
+      0.592
+     ],
+     "instruction": "",
+     "reason": "A glitchy seam and repeated strip appear at the bottom of the picture; cropping above it removes it and tightens the frog, and the panel at the top then sits on plain foliage and sky."
+    },
+    "applied": true,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:52:05.528Z"
    }
   },
   "p10": {
-   "write": {
-    "in": "935d9769bb18",
-    "out": "4310e83ac68f"
+   "image": {
+    "inputs": "707873ecbd80",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Moon between tall trunks. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033971,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T20:46:19.894Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "1af6c94da002",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Sleeping Sunny matches the reference sheet, the crescent moon shows between tall trunks, and the panel covers only plain sky at the top."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:52:10.401Z"
    }
   },
   "p11": {
-   "write": {
-    "in": "820dbb92424d",
-    "out": "e849fa2c0889"
+   "image": {
+    "inputs": "b77fc8315de3",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Close-up of Sunny, one eye open. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397225,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T20:46:22.392Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "245424ec6b82",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "Sunny shows a single eye with the other side hidden in profile, so it reads as a close-up of one open eye; framing is a bit loose but acceptable",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Frog matches the reference, there is no text in the picture, the panel covers only plain pale sky and branches, and contrast is light and clear."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:52:15.144Z"
    }
   },
   "p12": {
-   "write": {
-    "in": "053d99a122b6",
-    "out": "320f15eafdf1"
+   "image": {
+    "inputs": "71cdb83e4471",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Wide view, everyone asleep in the trees, gentle rain. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397275,
+    "seconds": 4.5,
+    "stale": false,
+    "at": "2026-10-11T20:46:24.495Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a13b7dec7b15",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The page shows Sunny asleep on leaves among many sleeping frogs in pine trees in gentle rain. It matches the scene and style, and the panel sits over plain pale misty ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:52:20.634Z"
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "8c31f540a408",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette: indigo, vermilion, ochre, pine green, cream.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Identical colours, markings and proportions in all three.",
+    "cost": 0.0336535,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T20:46:01.103Z",
+    "regens": 1
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "bffe447e5985",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of a Japanese ukiyo-e woodblock print: flat areas of colour with a thin dark key line, a limited palette of indigo, vermilion, ochre, pine green and cream, stylised waves, clouds and leaves as repeating shapes, a soft bokashi gradation allowed only in the sky, visible paper texture, no photorealism. Backgrounds are simple and pale. Dark ink only in the key line and small accents, never large dark areas. Warm, calm, sleepy mood. No cartouches, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): indigo, vermilion, ochre, pine green, cream.. Animals keep their natural colours. Sky and light over the story: pale peach light between leaves → soft purple → pale rainy night. Keep the canopy open and airy, not dense.. Cover illustration for the book 'Rainforest Lullaby'. Scene: Sunny on a big leaf, toucan and moon behind. Main character: Sunny, a small bright-green tree frog with orange toes and big gold eyes. Match the attached character reference exactly. The cover may use the whole image. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+    "cost": 0.033957,
+    "seconds": 5,
+    "stale": false,
+    "at": "2026-10-11T20:46:06.208Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a326f95946a2",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Cover shows Sunny the green tree frog with orange toes and gold eyes on a big leaf, with a single toucan and a moon behind. It has no text and no panel, and the colours are light enough to read on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:46:29.848Z"
    }
   }
  },
- "spend": 0,
+ "spend": 1.0434827500000001,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "28a701c103c3"
+ },
+ "package": {
+  "hash": "ccfc08dcd74d",
+  "at": "2026-10-11T20:52:25.752Z",
+  "pages": 12
  }
 }

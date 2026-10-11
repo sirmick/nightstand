@@ -1,0 +1,92 @@
+{
+ "slug": "dogs",
+ "title": "Goodnight, Dogs",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Down on Bone Street, the lamps come on. Biscuit the corgi puppy trots along to say goodnight.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The old yellow labrador is asleep on the porch. Woof, goodnight.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The dalmatian counts her spots, then curls up in her basket.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The pug snores in his little bed. Snort, snuffle, snore.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The poodle has her curls brushed, then flops on the rug.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The dachshund is so long he needs two pillows.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The husky sleeps outside under the stars, nose in his tail.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The sheepdog dreams of sheep. His paws twitch. Run, run, run.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The greyhound folds herself up small in a big soft chair.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The moon comes up over the roofs of Bone Street.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Biscuit trots home, tired paws going pat, pat, pat.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Biscuit curls up in his basket by the door. Woof, goodnight, everyone.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

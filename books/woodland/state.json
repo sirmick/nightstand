@@ -2,81 +2,534 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "cbce083829a5",
-    "out": "d0f518fa5aeb"
+   "image": {
+    "inputs": "479df90e2b5a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Olive in a hollow, one eye open. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033979,
+    "seconds": 5.4,
+    "stale": false,
+    "at": "2026-10-11T20:43:07.617Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "ef01e29550de",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Olive matches the reference, winks with one eye in a tree hollow, the panel sits over plain bark, and the dark areas fit the night-book linocut style."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:04.441Z"
    }
   },
   "p02": {
-   "write": {
-    "in": "5e9b49703431",
-    "out": "a9ad6d179ce2"
+   "image": {
+    "inputs": "8da9d92d21a3",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Four rabbits at a burrow mouth. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339785,
+    "seconds": 5.3,
+    "stale": false,
+    "at": "2026-10-11T20:43:07.511Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "67826a214120",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Four rabbits are clearly shown at the burrow mouth. Olive is not required in this scene. The panel sits over plain ground and no lettering appears in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:10.012Z"
    }
   },
   "p03": {
-   "write": {
-    "in": "35e945e988cb",
-    "out": "4f4f8aaba178"
+   "image": {
+    "inputs": "283dbfc54007",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Fox curled in a ring under a bush. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033979,
+    "seconds": 5,
+    "stale": false,
+    "at": "2026-10-11T20:43:12.029Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "e58d9c0b945c",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Olive the owl matches the reference sheet and sits on a branch watching, the fox is curled in a ring under the bush, and the panel covers only plain ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:14.824Z"
    }
   },
   "p04": {
-   "write": {
-    "in": "d1836ea63ea7",
-    "out": "5c84fcf4fa96"
+   "image": {
+    "inputs": "85dc128a17c4",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Hedgehog ball in fallen leaves. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397825,
+    "seconds": 7.3,
+    "stale": false,
+    "at": "2026-10-11T20:43:14.911Z",
+    "regens": 1
+   },
+   "edit": {
+    "text_pos": "top",
+    "crop": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "inspect": {
+    "in": "c3138959f36c",
+    "verdict": "fixed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "panel cuts off the top of the owl's head and ear tufts",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "crop",
+     "to": "top",
+     "crop": [
+      0,
+      0.1,
+      1,
+      0.9
+     ],
+     "instruction": "",
+     "reason": "The panel covers the top of the owl's head. A crop is not enough because the owl's head is cut at the picture edge, so the owl would be cut off. Better to crop in from the bottom and shift down so the owl's head is clear below the panel."
+    },
+    "applied": true,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:20.329Z"
    }
   },
   "p05": {
-   "write": {
-    "in": "f711ea5740f5",
-    "out": "6c77573f4175"
+   "image": {
+    "inputs": "ae19a2ae63a9",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Doe and fawn lying in grass, purple sky. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397925,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T20:43:12.089Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "28a672332909",
+    "verdict": "proposed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "small scribble-like mark in the grass at the right edge looks a bit like a signature or letters"
+    },
+    "action": {
+     "do": "edit",
+     "to": "",
+     "crop": [],
+     "instruction": "Remove the small scribble that looks like a signature in the grass on the right edge.",
+     "reason": "A mark resembling writing sits in the grass at the right edge, and no letters or writing are allowed in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:25.702Z"
    }
   },
   "p06": {
-   "write": {
-    "in": "d398abd06901",
-    "out": "bf99b12e63ef"
+   "image": {
+    "inputs": "2a29423178ea",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Squirrel in a leafy nest in a fork of the tree. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397975,
+    "seconds": 5.2,
+    "stale": false,
+    "at": "2026-10-11T20:43:17.327Z",
+    "regens": 2
+   },
+   "edit": {},
+   "inspect": {
+    "in": "c8d2d934a452",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The squirrel sleeps in a leafy nest in the tree fork as the scene asks, the owl is not required on this page, there is no writing in the picture, and the panel covers only plain sky."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:30.324Z"
    }
   },
   "p07": {
-   "write": {
-    "in": "c948ebbf0515",
-    "out": "678819a7892f"
+   "image": {
+    "inputs": "834face6b908",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Two badgers at a hole under tree roots. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397925,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T20:43:16.205Z",
+    "regens": 2
+   },
+   "edit": {},
+   "inspect": {
+    "in": "76024feda6aa",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Two badgers curled up in a hollow under tree roots match the scene and words. The owl is not required here. No text in the picture, and the panel sits over plain dark ground, so nothing needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:36.380Z"
    }
   },
   "p08": {
-   "write": {
-    "in": "198c2a44b7fb",
-    "out": "a21342ec7a2f"
+   "image": {
+    "inputs": "24cf7676bd19",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Line of mice entering a log. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339785,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T20:43:19.767Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "7bcd31428158",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Five mice file toward the hollow log, Olive watches from the branch, no text in the picture, and the panel covers only plain ground at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:41.868Z"
    }
   },
   "p09": {
-   "write": {
-    "in": "41121e627df1",
-    "out": "559b885dc47b"
+   "image": {
+    "inputs": "a33bc5f73f6e",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Bear cub yawning at a den mouth. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397875,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T20:43:20.560Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "7bba3dbc6724",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The bear cub yawns at the den mouth as asked, Olive the owl matches her reference sheet and watches from the branch, the panel covers only plain ground, and the dark night sky is intended for this book's style."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:46.476Z"
    }
   },
   "p10": {
-   "write": {
-    "in": "d9ec89fe1902",
-    "out": "f241445674fe"
+   "image": {
+    "inputs": "211efe723d09",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Moon over treetops, Olive small on a branch. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339795,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T20:43:21.867Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "43de4455015a",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The picture matches the scene and words: one small owl on a branch with the moon above the trees. The owl matches the reference, there is no writing, and the panel sits over plain sky, only just touching the top of the moon."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:49:57.696Z"
    }
   },
   "p11": {
-   "write": {
-    "in": "e799bc5a9f64",
-    "out": "41dddf8cd482"
+   "image": {
+    "inputs": "f18470e69f4d",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Olive in flight between pale trunks. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397875,
+    "seconds": 5.3,
+    "stale": false,
+    "at": "2026-10-11T20:43:25.164Z",
+    "regens": 2
+   },
+   "edit": {},
+   "inspect": {
+    "in": "9b2e8d8cdb1e",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Olive matches the reference, flies between pale trunks as asked, and the panel sits over plain dark ground without covering anything important. The dark night is intended in this style."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:50:02.270Z"
    }
   },
   "p12": {
-   "write": {
-    "in": "0a96a0e8283f",
-    "out": "34db6ae14217"
+   "image": {
+    "inputs": "734806939624",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Olive on a high branch, all the animals asleep below. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03398,
+    "seconds": 4.6,
+    "stale": false,
+    "at": "2026-10-11T20:43:25.232Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "65f630b82f24",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Olive matches the reference on a high branch, the animals sleep below, the panel covers only plain ground, and the dark night sky is intended by the style."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:50:07.340Z"
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "b2e41fbc65ac",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette: lavender, moss green, russet, mustard, warm brown.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Identical colours, markings and proportions in all three.",
+    "cost": 0.03365725,
+    "seconds": 5,
+    "stale": false,
+    "at": "2026-10-11T20:43:02.081Z",
+    "regens": 1
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "e57fa326699e",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, moss green, russet, mustard, warm brown.. Animals keep their natural colours. Sky and light over the story: gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.. Cover illustration for the book 'Olive Keeps Watch'. Scene: Olive on a branch, one eye open, pink sky behind. Main character: Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep. Match the attached character reference exactly. The cover may use the whole image. Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side.",
+    "cost": 0.033964,
+    "seconds": 4.7,
+    "stale": false,
+    "at": "2026-10-11T20:43:06.905Z",
+    "regens": 2
+   },
+   "edit": {},
+   "inspect": {
+    "in": "0734190c14dd",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Olive matches the reference, winks with one eye open on a branch against a pink sky, with no text in the picture. The dark indigo lower sky fits the night-book style."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:48:59.101Z"
    }
   }
  },
- "spend": 0,
+ "spend": 1.86756425,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "84ce677a38d3"
+ },
+ "package": {
+  "hash": "8d2db466d1e9",
+  "at": "2026-10-11T20:52:46.599Z",
+  "pages": 12
  }
 }

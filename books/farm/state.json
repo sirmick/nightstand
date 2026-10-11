@@ -2,17 +2,13 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "590e3fc22d66",
-    "out": "4ccff5d9a98a"
-   },
    "image": {
     "inputs": "df9e43f61c00",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pip at the farmyard gate, peach sky, barn and farmhouse behind. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pip at the farmyard gate, peach sky, barn and farmhouse behind. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.067896,
     "seconds": 9.3,
     "stale": false,
@@ -20,17 +16,13 @@
    }
   },
   "p02": {
-   "write": {
-    "in": "aaa1d9076bc7",
-    "out": "c066c3a2c6a7"
-   },
    "image": {
     "inputs": "8d6ce593a2aa",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Henhouse, three hens on a roost, Pip peeking in. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Henhouse, three hens on a roost, Pip peeking in. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.0678955,
     "seconds": 12.4,
     "stale": false,
@@ -38,17 +30,13 @@
    }
   },
   "p03": {
-   "write": {
-    "in": "8f1aa9b440b3",
-    "out": "1e97ff8dbc76"
-   },
    "image": {
     "inputs": "375f7f7c57f3",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Barn interior, one cow settling in hay. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Barn interior, one cow settling in hay. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.067893,
     "seconds": 9.1,
     "stale": false,
@@ -56,17 +44,13 @@
    }
   },
   "p04": {
-   "write": {
-    "in": "f83cd17b7e66",
-    "out": "63f96f7b8a59"
-   },
    "image": {
     "inputs": "cd0fe9dfe3a5",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pigpen, round pink pig, eyes closed. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pigpen, round pink pig, eyes closed. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.0678935,
     "seconds": 10.5,
     "stale": false,
@@ -74,17 +58,13 @@
    }
   },
   "p05": {
-   "write": {
-    "in": "cfe3c8bce777",
-    "out": "1a6b8d2055c3"
-   },
    "image": {
     "inputs": "119d8641a7df",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): peach, lavender, moss green, straw yellow, warm brown.. Animals keep their natural colours. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Meadow, three fluffy cream-white sheep in a huddle, Pip sitting nearby watching them. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): peach, lavender, moss green, straw yellow, warm brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Meadow, three fluffy cream-white sheep in a huddle, Pip sitting nearby watching them. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.0679055,
     "seconds": 9.1,
     "stale": false,
@@ -92,17 +72,13 @@
    }
   },
   "p06": {
-   "write": {
-    "in": "0cfe3ce76666",
-    "out": "aeb854700e04"
-   },
    "image": {
     "inputs": "03e42af8cc39",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): peach, lavender, moss green, straw yellow, warm brown.. Animals keep their natural colours. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Stable door with a brown horse's head resting on it, Pip looking up from below, lavender sky. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): peach, lavender, moss green, straw yellow, warm brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Stable door with a brown horse's head resting on it, Pip looking up from below, lavender sky. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.067907,
     "seconds": 9.9,
     "stale": false,
@@ -110,17 +86,13 @@
    }
   },
   "p07": {
-   "write": {
-    "in": "8443068c0bc4",
-    "out": "8f965cab28ad"
-   },
    "image": {
     "inputs": "84b45b5ef99a",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pond, four ducks in a line, moon reflected. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pond, four ducks in a line, moon reflected. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.067894,
     "seconds": 8.8,
     "stale": false,
@@ -128,17 +100,13 @@
    }
   },
   "p08": {
-   "write": {
-    "in": "04df7f5a3bf7",
-    "out": "92e1d246e27c"
-   },
    "image": {
     "inputs": "66f552bf2f15",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Old red tractor in an open shed, Pip beside a big wheel. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Old red tractor in an open shed, Pip beside a big wheel. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.0678955,
     "seconds": 9.6,
     "stale": false,
@@ -146,17 +114,13 @@
    }
   },
   "p09": {
-   "write": {
-    "in": "55a9832b9f36",
-    "out": "c6558a3128dc"
-   },
    "image": {
     "inputs": "040564bad7de",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Farmhouse with three glowing windows, deep lavender sky. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Farmhouse with three glowing windows, deep lavender sky. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.067894,
     "seconds": 9.1,
     "stale": false,
@@ -164,17 +128,13 @@
    }
   },
   "p10": {
-   "write": {
-    "in": "fdecdb78d8f9",
-    "out": "03fa76580535"
-   },
    "image": {
     "inputs": "f556a664c191",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Big cream moon over the barn roof, Pip small in the yard. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Big cream moon over the barn roof, Pip small in the yard. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.067896,
     "seconds": 9.4,
     "stale": false,
@@ -182,17 +142,13 @@
    }
   },
   "p11": {
-   "write": {
-    "in": "656702ea9bc3",
-    "out": "6dba61ab65bb"
-   },
    "image": {
     "inputs": "ba8ad2694f03",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Kitchen corner, Pip in a wicker basket with a blanket. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Kitchen corner, Pip in a wicker basket with a blanket. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.067895,
     "seconds": 8.9,
     "stale": false,
@@ -200,17 +156,13 @@
    }
   },
   "p12": {
-   "write": {
-    "in": "d45ac13a005b",
-    "out": "6823ef66ede7"
-   },
    "image": {
     "inputs": "cc163b0920e4",
     "refs": [
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Whole farm from a little way off, every window dark but one, moon and stars. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Whole farm from a little way off, every window dark but one, moon and stars. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
     "cost": 0.067898,
     "seconds": 8.8,
     "stale": false,
@@ -236,7 +188,7 @@
      "char"
     ],
     "model": "google/gemini-3.1-flash-image",
-    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach → lavender → pale night with a big cream moon.. Cover illustration for the book 'Goodnight, Little Farm'. Scene: Pip sitting at the farm gate looking at the setting sun, barn behind. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly. Keep the bottom quarter of the image simple and uncluttered.",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book: peach, lavender, moss green, straw yellow, warm brown.. Sky and light over the story: peach \u2192 lavender \u2192 pale night with a big cream moon.. Cover illustration for the book 'Goodnight, Little Farm'. Scene: Pip sitting at the farm gate looking at the setting sun, barn behind. Main character: Pip, a small brown-and-white puppy with floppy ears and a red collar. Match the attached character reference exactly. Keep the bottom quarter of the image simple and uncluttered.",
     "cost": 0.067875,
     "seconds": 10.5,
     "stale": false,

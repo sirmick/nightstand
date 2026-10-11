@@ -1,0 +1,92 @@
+{
+ "slug": "reef",
+ "title": "Down in the Sleepy Reef",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "The sun sets on the sea. Down below, the reef glows soft and blue.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Coral the clownfish wriggles into her anemone. Sway, sway, sway.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The seahorse wraps his tail around a seagrass stem and closes his eyes.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The turtle drifts by, slow and sleepy, going home.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The crab scuttles into a shell and pulls the door shut.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The parrotfish blows a soft bubble blanket and snuggles inside.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The octopus turns from red to grey and tucks all eight arms in.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The starfish holds on tight to a rock. Goodnight, starfish.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "A school of tiny silver fish flickers past, then goes still.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The moon shines down through the water in silver ripples.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "The reef is quiet. Only the sea says shhh, shhh.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Coral yawns a tiny bubble. Sway, sway, sway. Goodnight, reef.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "slug": "fireflies",
+ "title": "The Firefly's Lantern",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "When the sun goes down, Flick the firefly wakes up. His little lantern blinks on.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The moth flutters to the porch light, then finds a leaf to rest on. Flick lights the way.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The crickets tune up: chirp, chirp, chirp, all along the fence.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The jumping spider in the fence post says goodnight with a wave of two tiny legs. Flick blinks back.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The ladybugs are already asleep under a leaf, a little row of red buttons.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The beetle trundles home along the path. Flick lights the way.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The bees are all inside the hive, humming one low, sleepy hum.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The glow-worms in the bank turn on their tiny lights, one by one.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The katydid sings her last song and goes quiet in the hedge.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The moon comes up. Now the whole garden has a lantern.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Flick's friends blink back at him from the trees: on, off, on, off.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Flick settles on a blade of grass, his lantern fading soft and slow. Goodnight, Flick.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

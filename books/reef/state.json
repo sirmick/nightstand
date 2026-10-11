@@ -5,78 +5,567 @@
    "write": {
     "in": "cc6704706a75",
     "out": "ff3de9708bd0"
+   },
+   "image": {
+    "inputs": "bd67112256a4",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Surface with orange sun above, pale reef below. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396175,
+    "seconds": 7.2,
+    "stale": false,
+    "at": "2026-10-11T20:41:47.981Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "4f53fd48144a",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The picture matches the scene and words, the clownfish matches the reference, and the bottom panel covers only plain water and the base of the coral."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:12.984Z"
    }
   },
   "p02": {
    "write": {
     "in": "81d6ca4e1059",
     "out": "be6618cb1704"
+   },
+   "image": {
+    "inputs": "6bffe37db534",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Coral snug in a pink anemone. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396125,
+    "seconds": 5,
+    "stale": false,
+    "at": "2026-10-11T20:41:45.753Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "29a3a7551c03",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Coral the clownfish is snug in a pink anemone, matching the reference. The panel sits on plain water at the bottom, there is no text in the picture, and the colours are light."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:16.432Z"
    }
   },
   "p03": {
    "write": {
     "in": "930e06c7d657",
     "out": "3115000606f6"
+   },
+   "image": {
+    "inputs": "30887590ee49",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Seahorse on seagrass, Coral watching. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339615,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T20:41:49.189Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "1ee6cbfc0b50",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Seahorse rests on the seagrass with eyes closed, Coral the clownfish watches, and the panel sits over plain sand."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:22.001Z"
    }
   },
   "p04": {
    "write": {
     "in": "27741c054c26",
     "out": "4b0800915012"
+   },
+   "image": {
+    "inputs": "72ae5bd92906",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Green turtle gliding, Coral small below. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396125,
+    "seconds": 4.7,
+    "stale": false,
+    "at": "2026-10-11T20:41:50.515Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "352a97c89509",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The picture has no writing, Coral matches the reference, and the turtle and the clownfish below it match the scene. The panel sits over plain water, and the colours are light enough to read on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:28.849Z"
    }
   },
   "p05": {
    "write": {
     "in": "ddc52b95ef27",
     "out": "2c12e62aee51"
+   },
+   "image": {
+    "inputs": "b0cae415da14",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Hermit crab half inside a spiral shell. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339615,
+    "seconds": 4.7,
+    "stale": false,
+    "at": "2026-10-11T20:41:52.738Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "da32bf236481",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The scene is about a hermit crab, not Coral the clownfish, so the clownfish being absent is fine. The picture shows one hermit crab half inside a spiral shell, there is no text in the picture, the panel sits over plain sand, and the colours are light and clear."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:32.255Z"
    }
   },
   "p06": {
    "write": {
     "in": "e100df971997",
     "out": "72c576a78c8f"
+   },
+   "image": {
+    "inputs": "baac1547b093",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Parrotfish inside a see-through bubble. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339615,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T20:41:53.636Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "6d1bd8561544",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The picture shows one parrotfish in a see-through bubble as the scene and words ask. The panel sits over plain sandy water, the colours are light, and there is no writing in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:39.513Z"
    }
   },
   "p07": {
    "write": {
     "in": "8758129135e4",
     "out": "60c02ea83c29"
+   },
+   "image": {
+    "inputs": "11af586ec293",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Octopus balled up in a rocky nook. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0678545,
+    "seconds": 3.9,
+    "stale": false,
+    "at": "2026-10-11T20:42:48.678Z",
+    "regens": 1,
+    "edited": "Change the octopus's colour from red-orange to soft grey with the same spots and curled arms."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "8df3698094ed",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The scene shows a grey octopus curled up in a rocky nook with its arms tucked in. The clownfish are small background figures, and the octopus is the focus of this page. The panel sits on plain ground and covers nothing important."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:53.021Z"
    }
   },
   "p08": {
    "write": {
     "in": "4b8f99dc1027",
     "out": "28688e6e8b57"
+   },
+   "image": {
+    "inputs": "45545e4a47d6",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Starfish on a rounded rock, Coral beside. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396175,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T20:41:56.773Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "cce30147146b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The picture matches the scene and words: one starfish on a rounded rock with Coral asleep beside it. Coral matches the curled sleeping pose on the reference sheet, and the panel sits over plain sky."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:57.053Z"
    }
   },
   "p09": {
    "write": {
     "in": "b12d2302575b",
     "out": "881f8d45af9c"
+   },
+   "image": {
+    "inputs": "74c10d8df3ea",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Small silver fish in a loose cloud. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396125,
+    "seconds": 3.9,
+    "stale": false,
+    "at": "2026-10-11T20:41:57.625Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "68591ad3785b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The loose cloud of small silver fish matches the scene and words. Coral appears as the curled sleeping pose from the reference sheet. The panel sits on plain water, and nothing needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:43:00.804Z"
    }
   },
   "p10": {
    "write": {
     "in": "e54754841a49",
     "out": "9fb40d9b49cf"
+   },
+   "image": {
+    "inputs": "ba6db1aff542",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Moon seen from below through rippling water. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396175,
+    "seconds": 9.4,
+    "stale": false,
+    "at": "2026-10-11T20:42:03.943Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a6c765544939",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "deep blue area around the moon is fairly dark but the lower water is mid-tone, so it still reads",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The scene shows the moon through rippling water with no character needed, and the panel sits over plain water at the top."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:43:04.294Z"
    }
   },
   "p11": {
    "write": {
     "in": "a364bab24cf1",
     "out": "b8c17092319b"
+   },
+   "image": {
+    "inputs": "8b265108ecb8",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Wide quiet reef, everyone in their places. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396175,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T20:42:01.122Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "93f539c46263",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Wide quiet reef with Coral curled asleep in the coral, other sleepy creatures in place; no writing, panel covers only plain sand and water, and the colors are light and clear."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:43:07.255Z"
    }
   },
   "p12": {
    "write": {
     "in": "9a5178947ff7",
     "out": "d7470e089adc"
+   },
+   "image": {
+    "inputs": "05e14a33cc64",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Coral asleep in the anemone, one small bubble rising. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339625,
+    "seconds": 4.6,
+    "stale": false,
+    "at": "2026-10-11T20:42:02.287Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "2a326c5d9a13",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Sleeping clownfish curled in the anemone matches the reference, one main bubble rises (with a few tiny trailing ones), and the panel sits on plain water with nothing important beneath it."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:43:10.900Z"
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "293f5e90112d",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette: turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Coral, a small orange clownfish with three white stripes and big round eyes. Identical colours, markings and proportions in all three.",
+    "cost": 0.033645,
+    "seconds": 3.9,
+    "stale": false,
+    "at": "2026-10-11T20:41:40.734Z",
+    "regens": 0
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "56ee415133ff",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): turquoise, coral pink, sunny yellow, seagrass green, soft purple.. Animals keep their natural colours. Sky and light over the story: pale turquoise → lavender-blue lit by moon ripples. Never deep dark water.. Cover illustration for the book 'Down in the Sleepy Reef'. Scene: Coral peeking out of her anemone, reef around her. Main character: Coral, a small orange clownfish with three white stripes and big round eyes. Match the attached character reference exactly. The cover may use the whole image. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+    "cost": 0.03394725,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T20:41:45.178Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "045d757f6c06",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Clownfish peeks from the anemone with reef around her, matches the reference, no text in the picture, bright colours with no large dark areas."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:42:07.446Z"
    }
   }
  },
- "spend": 0,
+ "spend": 0.7230735,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "6f2c2e85edac"
+ },
+ "package": {
+  "hash": "8e9cf6483d5e",
+  "at": "2026-10-11T20:43:14.761Z",
+  "pages": 12
  }
 }

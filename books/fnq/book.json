@@ -5,10 +5,10 @@
  "title": "Goodnight, Daintree",
  "character": "Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws.",
  "refrain": "Goodnight from the treetops.",
- "palette": "rainforest green, turquoise, coral, sandy gold, plum.",
+ "palette": "ochre, rust, sand, white, charcoal.",
  "sky": "gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.",
  "cover": "Tilly on a high branch where the rainforest meets the beach and the turquoise reef.",
- "style": "Children's picture-book illustration for ages 3 to 6 in loose watercolour and ink: confident brown-black ink line drawings with soft translucent watercolour washes that do not always stay inside the lines, white paper showing through, a limited palette of five muted colours plus paper white, a little granulation texture, no digital gradients, no photorealism. Backgrounds are light and airy with plenty of untouched paper. Dark tones only in the ink line and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image.",
+ "style": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image.",
  "pages": [
   {
    "n": 1,
@@ -83,5 +83,6 @@
    "text_pos": "bottom"
   }
  ],
- "framing": "Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side."
+ "framing": "Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+ "mask": "masks/earth-soft.png"
 }

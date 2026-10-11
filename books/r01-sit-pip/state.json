@@ -2,10 +2,6 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "74ebadf8b2ac",
-    "out": "1b37c4532cdb"
-   },
    "image": {
     "inputs": "6c7624112ab0",
     "refs": [
@@ -20,10 +16,6 @@
    }
   },
   "p02": {
-   "write": {
-    "in": "9a05e4d2a341",
-    "out": "cd353be64288"
-   },
    "image": {
     "inputs": "359dc2a7e634",
     "refs": [
@@ -38,10 +30,6 @@
    }
   },
   "p03": {
-   "write": {
-    "in": "a88f4b67d338",
-    "out": "c92a71424c6e"
-   },
    "image": {
     "inputs": "d0b38a7a766a",
     "refs": [
@@ -56,10 +44,6 @@
    }
   },
   "p04": {
-   "write": {
-    "in": "14d7300c5c3a",
-    "out": "5b9bdb13dddb"
-   },
    "image": {
     "inputs": "c835a667589d",
     "refs": [
@@ -75,10 +59,6 @@
    }
   },
   "p05": {
-   "write": {
-    "in": "cafac2ed00e8",
-    "out": "11a218f04966"
-   },
    "image": {
     "inputs": "57c15c3eb14c",
     "refs": [
@@ -94,10 +74,6 @@
    }
   },
   "p06": {
-   "write": {
-    "in": "3385bd58b5cd",
-    "out": "3a860c1fa9ec"
-   },
    "image": {
     "inputs": "700ad8df6b96",
     "refs": [
@@ -112,10 +88,6 @@
    }
   },
   "p07": {
-   "write": {
-    "in": "0a5e405ba6f8",
-    "out": "a13f1fb0d188"
-   },
    "image": {
     "inputs": "ed16a10e4b0b",
     "refs": [
@@ -130,10 +102,6 @@
    }
   },
   "p08": {
-   "write": {
-    "in": "1bf52322fce4",
-    "out": "6d6b51896662"
-   },
    "image": {
     "inputs": "ba97dc8a2259",
     "refs": [
@@ -148,10 +116,6 @@
    }
   },
   "p09": {
-   "write": {
-    "in": "2150ac830dca",
-    "out": "30ccfa611811"
-   },
    "image": {
     "inputs": "b9a496677768",
     "refs": [
@@ -166,10 +130,6 @@
    }
   },
   "p10": {
-   "write": {
-    "in": "1c4e34e3eaa6",
-    "out": "d1533a05c5b1"
-   },
    "image": {
     "inputs": "24c3d0d8caed",
     "refs": [
@@ -185,10 +145,6 @@
    }
   },
   "p11": {
-   "write": {
-    "in": "f3509baa5856",
-    "out": "ccf6b94d9ef2"
-   },
    "image": {
     "inputs": "4c7ee4d5c197",
     "refs": [
@@ -204,10 +160,6 @@
    }
   },
   "p12": {
-   "write": {
-    "in": "af50d20e81df",
-    "out": "02e3c39b2ba9"
-   },
    "image": {
     "inputs": "2afa2154f871",
     "refs": [

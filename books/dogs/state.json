@@ -2,81 +2,526 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "4245e543c892",
-    "out": "edb86880fa43"
-   }
+   "image": {
+    "inputs": "9ec5b87979f5",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Biscuit trotting down a street of small houses, gold sky, lamps lit. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip. Avoid this problem seen in a previous attempt: The picture shows two corgis, so Biscuit is duplicated, and it adds a deer and several rabbits that were not asked for. There are also letter-like marks on the buildings. Draw one single corgi puppy Biscuit trotting down the street with no other animals and no writing on the buildings.",
+    "cost": 0.03398825,
+    "seconds": 5.3,
+    "stale": false,
+    "at": "2026-10-11T20:48:31.146Z",
+    "regens": 1
+   },
+   "inspect": {
+    "in": "3724dff9d050",
+    "verdict": "proposed",
+    "checks": {
+     "text": "ok",
+     "character": "colours and markings match, but the puppy is drawn with two heads and no tail",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "puppy has two heads, one facing left and one facing right, on a single body"
+    },
+    "action": {
+     "do": "edit",
+     "to": "",
+     "crop": [],
+     "instruction": "Give the puppy only one head, facing right, and add a fluffy white-tipped tail at the left end of its body.",
+     "reason": "The corgi has a second head and no tail, which would puzzle a child; the rest of the scene is good and should be kept."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:48:42.384Z"
+   },
+   "edit": {}
   },
   "p02": {
-   "write": {
-    "in": "e2520008812a",
-    "out": "3f4bdababfee"
+   "image": {
+    "inputs": "1d15db2d1b7d",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Big yellow labrador asleep on a wooden porch, Biscuit at the steps. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339705,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T20:47:53.632Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "069f705ba6e5",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "Panel sits on plain porch floor but slightly clips Biscuit's lower body at the steps; he is still visible",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Labrador asleep on the porch and small corgi Biscuit at the steps match the scene and reference; no text, bright sky, and the panel leaves both dogs' faces visible."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:48:48.842Z"
    }
   },
   "p03": {
-   "write": {
-    "in": "a6248122b107",
-    "out": "877d01f1402d"
+   "image": {
+    "inputs": "5c070ab25020",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Spotted dalmatian curling into a basket, Biscuit watching at the door. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.06786425,
+    "seconds": 3.9,
+    "stale": false,
+    "at": "2026-10-11T20:50:51.401Z",
+    "regens": 1,
+    "edited": "Remove the writing on the hanging scroll at the top right and fill it with a plain pattern or leave it blank."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "ab86d129e1eb",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The dalmatian curls in her basket and Biscuit the corgi watches from the doorway with his face clear above the panel. The panel sits over plain floor with only his lower body hidden, and the picture matches the style and the words."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:01.056Z"
    }
   },
   "p04": {
-   "write": {
-    "in": "3440bf657a6e",
-    "out": "5933478bd17c"
+   "image": {
+    "inputs": "6622814fa052",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Small wrinkly fawn pug asleep in a tiny bed, Biscuit peeking in a window. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339715,
+    "seconds": 5.2,
+    "stale": false,
+    "at": "2026-10-11T20:47:58.935Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "23010b61b7a8",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Page matches the scene: one sleeping pug in a small bed, Biscuit peeking in at the window, panel covers only plain sky and roof."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:05.215Z"
    }
   },
   "p05": {
-   "write": {
-    "in": "08c13e8b46f4",
-    "out": "857cf2eb5c86"
+   "image": {
+    "inputs": "0abfa30b0ec9",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Curly white poodle flopped on a round rug, a brush beside her, Biscuit in the doorway. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033972,
+    "seconds": 3.8,
+    "stale": false,
+    "at": "2026-10-11T20:47:57.844Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "2cb2e632bc4e",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Poodle on the rug, brush beside her and Biscuit in the doorway all read clearly. The panel sits over plain floor, and the top edge would cover Biscuit, so the bottom is the right place."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:13.368Z"
    }
   },
   "p06": {
-   "write": {
-    "in": "7f58977f8be4",
-    "out": "d81bbf92a737"
+   "image": {
+    "inputs": "509a57ce4b34",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Long brown dachshund stretched over two pillows, Biscuit beside him. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397,
+    "seconds": 4.7,
+    "stale": false,
+    "at": "2026-10-11T20:48:02.450Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "1e35ee6f306f",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The dachshund lies over two stacked pillows with Biscuit curled beside him, the panel covers only plain floor, and the page has no text in the picture and no large dark areas."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:17.599Z"
    }
   },
   "p07": {
-   "write": {
-    "in": "e34e526560fe",
-    "out": "4845bf2ca9c6"
+   "image": {
+    "inputs": "38562e94fbe7",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Grey-and-white husky curled in a yard, lavender sky with stars, Biscuit at the fence. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397225,
+    "seconds": 3.6,
+    "stale": false,
+    "at": "2026-10-11T20:48:01.565Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "da717c965fb1",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "Biscuit is a golden-and-white corgi with big pointy ears and short legs, matching the sheet apart from a faint blaze.",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "Sky and ground are mid-tone blue and teal, not very dark, so it should read on e-ink.",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The page matches the scene and words, the panel sits on plain ground, and nothing needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:22.303Z"
    }
   },
   "p08": {
-   "write": {
-    "in": "c05c31c29cbe",
-    "out": "bf332e150c2d"
+   "image": {
+    "inputs": "9ed6c05678ae",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Shaggy old English sheepdog asleep, small dream sheep above him, Biscuit watching. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397125,
+    "seconds": 4.6,
+    "stale": false,
+    "at": "2026-10-11T20:48:03.639Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "5e6ad3ba0ba3",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The picture shows the sleeping sheepdog, one dream sheep above him and Biscuit watching. Biscuit matches the reference, and the panel covers only plain sky."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:26.976Z"
    }
   },
   "p09": {
-   "write": {
-    "in": "ae48a7489f17",
-    "out": "73c4a596ba4b"
+   "image": {
+    "inputs": "5af58f65d49f",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Slim grey greyhound curled tight in an armchair, Biscuit on the floor. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397075,
+    "seconds": 4.6,
+    "stale": false,
+    "at": "2026-10-11T20:48:06.293Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a7638dbca285",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "No letters in the picture. The corgi matches the reference sheet and his face is clear. One slim grey greyhound is curled in the armchair as the words say. The panel covers only plain floor tiles and the lower part of Biscuit's body. The colours are bright and read well."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:37.716Z"
    }
   },
   "p10": {
-   "write": {
-    "in": "667f5104eec4",
-    "out": "13218cc8c8a4"
+   "image": {
+    "inputs": "0b265e322ee1",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Row of rooftops and chimneys with a big moon, Biscuit small on the pavement. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0678665,
+    "seconds": 5.6,
+    "stale": false,
+    "at": "2026-10-11T20:51:53.954Z",
+    "regens": 1,
+    "edited": "Show one big pale moon fully inside the sky band above the roofs, well below the top edge, and turn the glowing round lamps into plain chimneys."
+   },
+   "edit": {
+    "text_pos": "bottom"
+   },
+   "inspect": {
+    "in": "9917563a89c4",
+    "verdict": "fixed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "panel covers the top of the big moon, which is the main subject of the words",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "text_pos",
+     "to": "bottom",
+     "crop": [],
+     "instruction": "",
+     "reason": "The top panel hides most of the moon, which the words are about. The bottom edge is plain blue pavement, but Biscuit sits there, so a bottom panel could cover him."
+    },
+    "applied": true,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:59.809Z"
    }
   },
   "p11": {
-   "write": {
-    "in": "a4e89bd41899",
-    "out": "364ad9e102f4"
+   "image": {
+    "inputs": "74df0c660c9a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Biscuit walking home under a street lamp, ears drooping. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.06786325,
+    "seconds": 5.4,
+    "stale": false,
+    "at": "2026-10-11T20:52:11.811Z",
+    "regens": 1,
+    "edited": "Make Biscuit's ears droop down and sideways to show he is tired, keeping everything else the same."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "b4fad4f5d189",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Biscuit matches the reference, walks home under a glowing lamp with drooping ears, and the panel sits on plain ground below the action."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:52:17.127Z"
    }
   },
   "p12": {
-   "write": {
-    "in": "c388423a9ec6",
-    "out": "df878925a04a"
+   "image": {
+    "inputs": "59da663e4614",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Biscuit asleep in a basket by a front door, moon through the window. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033971,
+    "seconds": 6.2,
+    "stale": false,
+    "at": "2026-10-11T20:48:12.608Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "e8dd8adb0f10",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Biscuit sleeps curled in a basket by the door with a crescent moon in the window, matches the reference, panel sits over plain floor and covers nothing important."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:52:22.155Z"
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "54f70709e757",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette: minhwa red, cobalt blue, mustard yellow, jade green, cream.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Identical colours, markings and proportions in all three.",
+    "cost": 0.033654,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T20:47:48.765Z",
+    "regens": 0
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "81fe5389853a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Korean minhwa folk painting: bold flat mineral colours (red, blue, yellow, green) on cream paper, thin dark outlines, decorative patterns on fur, feathers and flowers, flattened perspective with things stacked up the page, friendly animals with big round expressive eyes, a limited palette of five colours plus cream, no photorealism, no gradients. Dark colours only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): minhwa red, cobalt blue, mustard yellow, jade green, cream.. Animals keep their natural colours. Sky and light over the story: gold → coral → lavender, round street lamps glowing.. Cover illustration for the book 'Goodnight, Dogs'. Scene: Biscuit sitting on a doorstep on a street of small friendly houses, lamps coming on. Main character: Biscuit, a small corgi puppy with a golden-and-white coat, big pointy ears, short legs and a white blaze down his nose. Match the attached character reference exactly. The cover may use the whole image. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+    "cost": 0.0339555,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T20:47:53.650Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "10af0165a4c8",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Biscuit the corgi matches the reference sheet and sits on a doorstep on a street of friendly houses with glowing lamps. The sky is light enough to read on e-ink, and there is no text. The rabbits and cats are background neighbours, not extra dogs. The cover has no text panel."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:48:19.171Z"
    }
   }
  },
- "spend": 0,
+ "spend": 0.903178,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "6eb7f2386c5c"
+ },
+ "package": {
+  "hash": "32ded3828c22",
+  "at": "2026-10-11T20:52:27.103Z",
+  "pages": 12
  }
 }

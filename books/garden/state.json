@@ -2,81 +2,521 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "8a8ec330c881",
-    "out": "f2faf05a68a1"
+   "image": {
+    "inputs": "cd3f27de5b99",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Dot on a leaf tip, flowers behind, golden light. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033968,
+    "seconds": 4.2,
+    "stale": false,
+    "at": "2026-10-11T20:44:19.157Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "cb498f24401d",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Dot sits on a leaf tip with flowers behind and golden light; the panel covers only plain ground at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:47.455Z"
    }
   },
   "p02": {
-   "write": {
-    "in": "61e1ae089cd1",
-    "out": "c9fa1dbfb911"
+   "image": {
+    "inputs": "af1435995577",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Round fuzzy bumblebee inside a big pink flower, Dot on a nearby leaf. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033969,
+    "seconds": 5,
+    "stale": false,
+    "at": "2026-10-11T20:44:19.861Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "68caf11dbf36",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The page matches the scene: a fuzzy bumblebee sits in a big pink flower and Dot the ladybug is on a nearby leaf. Dot matches the reference. The panel covers only plain ground, and the picture is light and clear."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:53.645Z"
    }
   },
   "p03": {
-   "write": {
-    "in": "2b0e1c1b0634",
-    "out": "e9b111cbf805"
+   "image": {
+    "inputs": "f8cd6ce408ee",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Friendly smiling orb-weaver spider in a neat round web with dew, Dot watching. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396925,
+    "seconds": 4.9,
+    "stale": false,
+    "at": "2026-10-11T20:44:24.102Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "2db9c07221c2",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The page matches the scene: one smiling spider in the middle of a dewy round web, Dot the ladybug watching from a grass blade, no writing in the picture, and the panel sits over plain ground at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:58.427Z"
    }
   },
   "p04": {
-   "write": {
-    "in": "9c0b3996c203",
-    "out": "cc072237b10b"
+   "image": {
+    "inputs": "a00b1ee66004",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Snail with a spiral shell under leaves, Dot beside him. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396825,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T20:44:24.645Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "4c42784bd53e",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "Dot's shell shows only about six spots, but the shape, colours and friendly face match the reference",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The snail and Dot sit side by side under a leaf, and the panel covers only plain ground at the bottom, so nothing needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:03.885Z"
    }
   },
   "p05": {
-   "write": {
-    "in": "65961783d843",
-    "out": "3ec772be70b8"
+   "image": {
+    "inputs": "c4957f79d4ee",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Line of ants entering an anthill, Dot on a stone. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396825,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T20:44:24.242Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "0438cfc82192",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "top sky is a fairly dark indigo band, but the rest is light; acceptable",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Dot sits on a stone beside the anthill, ants march in a line into the hill, and the panel covers only plain pale ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:09.436Z"
    }
   },
   "p06": {
-   "write": {
-    "in": "0ed19ce5155f",
-    "out": "af308f30ad35"
+   "image": {
+    "inputs": "046104f5b503",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Striped caterpillar curled on a big leaf, Dot nearby. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033968,
+    "seconds": 5,
+    "stale": false,
+    "at": "2026-10-11T20:44:29.164Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "304a07fb9c6b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The picture shows a green striped caterpillar curled on a leaf with Dot the ladybug nearby, and the top panel sits over plain empty background."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:14.174Z"
    }
   },
   "p07": {
-   "write": {
-    "in": "424a78f98055",
-    "out": "5a7f2d5d3cba"
+   "image": {
+    "inputs": "1659132d70fa",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Dragonfly on a reed over a small pond, Dot on a lily pad. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396875,
+    "seconds": 5.8,
+    "stale": false,
+    "at": "2026-10-11T20:44:30.108Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "dfad3372903a",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The dragonfly on the reed and Dot on the lily pad match the scene, there is no writing in the picture, and the panel covers only plain water and sky."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:18.937Z"
    }
   },
   "p08": {
-   "write": {
-    "in": "03518a1566dc",
-    "out": "7cc34c7f7dab"
+   "image": {
+    "inputs": "10e99b175a7c",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Green grasshopper in tall grass, peach sky, Dot on a blade. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396875,
+    "seconds": 7.2,
+    "stale": false,
+    "at": "2026-10-11T20:44:31.886Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "c43cf2b874ce",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "dark grey-purple cloud band along the top edge, but it is a modest area",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Dot and the grasshopper are on a blade, the sky is peach, and the panel sits over plain pale ground with nothing important under it. The dark cloud band at the top is thin enough to read on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:25.658Z"
    }
   },
   "p09": {
-   "write": {
-    "in": "fe7a3d475663",
-    "out": "7caeb6d6ea7a"
+   "image": {
+    "inputs": "8f3b4c942390",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Butterfly with closed wings under a rose, Dot on the stem. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396825,
+    "seconds": 4.2,
+    "stale": false,
+    "at": "2026-10-11T20:44:33.393Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "8020490d2fd9",
+    "verdict": "proposed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "butterfly has open wings and is not under a rose petal; scene asks for closed wings under the rose",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "edit",
+     "to": "",
+     "crop": [],
+     "instruction": "Draw the butterfly with its wings folded closed and tucked under a rose petal, keeping Dot on the stem and everything else the same.",
+     "reason": "The butterfly's wings are wide open and it sits beside the rose instead of folding its wings under a petal, so the picture does not match the words or scene."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:30.344Z"
    }
   },
   "p10": {
-   "write": {
-    "in": "2e144654c5b9",
-    "out": "ac6c33379e30"
+   "image": {
+    "inputs": "e550b4144d1f",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Cross-section of soft brown soil with a smiling worm, grass on top and Dot alone on a blade of grass, only one ladybug. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339725,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T20:44:34.519Z",
+    "regens": 2
+   },
+   "edit": {},
+   "inspect": {
+    "in": "e3252c16d8c4",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The page matches the scene and words: one smiling worm in the soil cross-section, grass above, and Dot alone on a blade of grass. The panel sits over plain sky, so nothing is covered. The picture has no writing, no large dark areas and no oddities."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:35.380Z"
    }
   },
   "p11": {
-   "write": {
-    "in": "b162a3083014",
-    "out": "69b36afd1fdf"
+   "image": {
+    "inputs": "dd1bde040475",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Close-up of Dot with round dew drops on leaves, lavender sky. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033969,
+    "seconds": 4.5,
+    "stale": false,
+    "at": "2026-10-11T20:44:36.493Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "06ee00165647",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "no web visible although the words mention a web, but dew drops, leaves and Dot are shown",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Dot matches the reference, the dew drops and lavender sky are present, and the panel sits over plain sky and faded leaves. The missing web is a minor mismatch and not worth a redraw."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:42.490Z"
    }
   },
   "p12": {
-   "write": {
-    "in": "5ade19665bb0",
-    "out": "7cb86316f567"
+   "image": {
+    "inputs": "3019fd309fc2",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Dot asleep on her leaf, the quiet garden around her, first stars. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033969,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T20:44:37.574Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "e8301a9dfe9a",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Dot is asleep on her leaf with a quiet garden and first stars, and the panel sits on plain ground at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:52.611Z"
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "5d7249418b6a",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette: cream paper, soft grey ink, vermilion, indigo, ochre.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Identical colours, markings and proportions in all three.",
+    "cost": 0.0336525,
+    "seconds": 3.5,
+    "stale": false,
+    "at": "2026-10-11T20:44:14.839Z",
+    "regens": 1
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "6c6426a267e1",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of East Asian ink-wash painting: soft black brush strokes of varying wetness, grey washes, large areas of untouched cream paper, calm empty space, and a few muted colour accents (vermilion, indigo, ochre) laid in thin washes. Animals and plants drawn with a few confident strokes, friendly and simple. No photorealism, no digital gradients. Dark ink only in strokes and small accents, never as large solid areas. No seal stamps, calligraphy, text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): cream paper, soft grey ink, vermilion, indigo, ochre.. Animals keep their natural colours. Sky and light over the story: golden afternoon → peach dusk → lavender evening.. Cover illustration for the book 'Goodnight, Little Garden'. Scene: Dot on the tip of a big leaf in a garden full of flowers. Main character: Dot, a small round red ladybug with seven black spots, a shiny shell and a friendly face. Match the attached character reference exactly. The cover may use the whole image. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+    "cost": 0.03395325,
+    "seconds": 4.9,
+    "stale": false,
+    "at": "2026-10-11T20:44:19.780Z",
+    "regens": 1
+   },
+   "edit": {},
+   "inspect": {
+    "in": "42669c44d1d4",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Single ladybug on a leaf in a flower garden, matches reference, no text, soft pastel colours with no large dark areas."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:42.793Z"
    }
   }
  },
- "spend": 0,
+ "spend": 1.39275425,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "fa614e254f56"
+ },
+ "package": {
+  "hash": "f391c4c7fbfe",
+  "at": "2026-10-11T20:45:56.958Z",
+  "pages": 12
  }
 }

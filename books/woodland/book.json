@@ -6,9 +6,9 @@
  "character": "Olive, a small round tawny owl with big amber eyes. She is waking up while everyone else goes to sleep.",
  "refrain": "none; the twist is that Olive stays awake to keep watch.",
  "palette": "lavender, moss green, russet, mustard, warm brown.",
- "sky": "gold → pink → purple → pale night, moon above the trees.",
+ "sky": "gold → pink → deep violet dusk → a truly dark indigo night with a big cream moon; the later pages are genuinely dark, lit only by the moon and the owl's amber eyes.",
  "cover": "Olive on a branch, one eye open, pink sky behind.",
- "style": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. Backgrounds are mostly cream paper with a flat pale sky. Dark ink only in outlines, hatching and small accents, never as large solid dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image.",
+ "style": "Children's picture-book illustration for ages 3 to 6 in the style of a hand-pulled linocut block print: bold carved black outlines with slightly uneven hand-cut edges, flat ink colours in a limited palette of five muted colours on cream paper, visible carving texture in larger areas (fine parallel hatching lines instead of gradients), no photorealism, no digital gradients, no soft shading. This is a night book: the sky and deep shadows may be solid black or dark indigo ink, with the animals, moon and foreground picked out in the pale colours so they stay clearly readable. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image.",
  "pages": [
   {
    "n": 1,
@@ -83,5 +83,6 @@
    "text_pos": "bottom"
   }
  ],
- "framing": "Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side."
+ "framing": "Composition: the picture fills the whole frame edge to edge like a photograph, and the dark ink runs right off every edge: no border, no margin, no frame line, no paper edge, and no blank or plain strip on any side.",
+ "mask": "masks/black-soft.png"
 }

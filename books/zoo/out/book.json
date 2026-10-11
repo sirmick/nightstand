@@ -1,0 +1,92 @@
+{
+ "slug": "zoo",
+ "title": "The Zoo Goes to Sleep",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "The zoo gates close with a click. Milo the meerkat stands up tall to look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The elephants sway and hum a low, slow song. Shh. Sleepy time.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The giraffes fold their long, long legs. Shh. Sleepy time.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The lions yawn big, gold yawns. Then they flop down in a heap.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The penguins huddle close, close, close.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The monkeys stop swinging. They hang in the tree, quiet at last.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The hippo sinks into the warm water until only two ears show.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The parrots tuck their bright feathers away.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The tortoise pulls his head in. Goodnight, tortoise.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The night lamps glow along the empty path.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Milo scurries home to his burrow and his brothers and sisters.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Everyone in the zoo is asleep. Shh. Sleepy time, Milo.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

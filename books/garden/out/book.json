@@ -1,0 +1,92 @@
+{
+ "slug": "garden",
+ "title": "Goodnight, Little Garden",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "The garden is warm and gold. Dot the ladybug climbs to the very top of a leaf.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The bumblebee drops into a flower, buzzing slower and slower. Goodnight, little friend.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The garden spider finishes her web, sits in the middle and folds her legs. She is gentle, and very proud of her web.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The snail slides home under the mint leaves, carrying his house on his back.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The ants march in a line back into their hill, the very last one carrying a crumb.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The caterpillar curls up on a cabbage leaf, full and sleepy.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The dragonfly lands on the pond reed and rests her four wings.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The grasshopper does one last hop, then sits still in the grass.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The butterfly folds her wings under a rose petal.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The earthworm wriggles down into the cool soft soil. Goodnight, little friend.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Dew drops settle on the web, on the leaves, on Dot.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Dot tucks her wings under her shell and sleeps on her leaf. Goodnight, little garden.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

@@ -2,81 +2,523 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "a9f7e73c1240",
-    "out": "9768bc5bf464"
+   "image": {
+    "inputs": "e4e4f0d730ff",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Flick on a blade of grass, tail glowing, peach sky. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339725,
+    "seconds": 6.9,
+    "stale": false,
+    "at": "2026-10-11T20:38:03.838Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "1066d791ee01",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference, sits on a grass blade with his tail glowing against a peach sky, and the panel covers only plain pink ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:38:29.997Z"
    }
   },
   "p02": {
-   "write": {
-    "in": "d367921e08d2",
-    "out": "4f6e1c267130"
+   "image": {
+    "inputs": "5cda6978c186",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Soft brown moth settling on a leaf near a glowing porch lamp, Flick beside it. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339735,
+    "seconds": 5.2,
+    "stale": false,
+    "at": "2026-10-11T20:38:02.156Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "4982880d9c03",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference, the moth rests on a leaf near the glowing porch lamp as asked, the panel covers only plain ground, and the soft colours will read well on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:38:33.123Z"
    }
   },
   "p03": {
-   "write": {
-    "in": "44e09c8268cd",
-    "out": "baa6309dc990"
+   "image": {
+    "inputs": "ea4059c6cf4a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Three crickets on a wooden fence rail, Flick hovering. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397225,
+    "seconds": 5.5,
+    "stale": false,
+    "at": "2026-10-11T20:38:07.425Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "908d52778b79",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference, three crickets sit on the fence rail, no letters in the picture, and the panel covers only plain sky and fence at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:38:36.542Z"
    }
   },
   "p04": {
-   "write": {
-    "in": "fe9ad4e9e602",
-    "out": "7918874a8a98"
+   "image": {
+    "inputs": "fb2f4dd197ee",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Cute fuzzy jumping spider with big round eyes waving from a knot hole, Flick glowing nearby. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397375,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T20:38:06.282Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a7a1dd715d94",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "Spider is in a tree trunk hole rather than a fence post, but the scene asked for a knot hole; one spider waving, Flick nearby, matches",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference, there is one waving spider, no text in the picture, and the panel sits over plain blue ground with nothing important hidden."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:38:40.385Z"
    }
   },
   "p05": {
-   "write": {
-    "in": "16e3fe6f9412",
-    "out": "e5bc68015409"
+   "image": {
+    "inputs": "a6cb47e65057",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Row of ladybugs under a leaf, Flick's glow lighting them. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.06786675,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T20:38:50.106Z",
+    "regens": 1,
+    "edited": "Close the ladybugs' eyes so they look peacefully asleep, with calm sleeping faces, and keep everything else the same."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "390d07593e1c",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "No letters in the picture. Flick matches the reference sheet and glows softly. Four ladybugs sleep under the leaf, lit by his glow. The panel sits over plain sky, and the picture is bright enough for e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:38:53.100Z"
    }
   },
   "p06": {
-   "write": {
-    "in": "fac90aa31121",
-    "out": "e52666d23ab7"
+   "image": {
+    "inputs": "2a233f98608a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Round beetle on a garden path, Flick flying ahead with his light. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397275,
+    "seconds": 6.8,
+    "stale": false,
+    "at": "2026-10-11T20:38:13.158Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "f291ce9c0966",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference sheet and flies ahead of the round beetle on the path. The panel sits on the plain white area below the picture and covers nothing. The sky is light and no text appears in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:38:57.986Z"
    }
   },
   "p07": {
-   "write": {
-    "in": "19f778d3bb9f",
-    "out": "9a90113fa0d1"
+   "image": {
+    "inputs": "5273f5b08a65",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Wooden beehive with a few bees at the door, Flick outside, lavender sky. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.06786824999999999,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T20:39:06.060Z",
+    "regens": 1,
+    "edited": "Remove the bees on the landing board and flying around the hive door so all the bees are inside the hive, leaving the hive entrance empty."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "72c956c46b52",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference, the hive is empty as the words say, the panel sits on plain grass, and the lavender sky reads well."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:39:10.997Z"
    }
   },
   "p08": {
-   "write": {
-    "in": "f6da8ce8d36e",
-    "out": "ec28b66374a7"
+   "image": {
+    "inputs": "782986cf8893",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Mossy bank with small pale green glows, Flick above. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397225,
+    "seconds": 6.6,
+    "stale": false,
+    "at": "2026-10-11T20:38:14.663Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a0f3f1323744",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference, the mossy bank has small pale green glows, and the panel sits over plain dark ground without covering anything important. The sky is light enough to read on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:39:13.688Z"
    }
   },
   "p09": {
-   "write": {
-    "in": "7afb890cd6a0",
-    "out": "c04eb1131c1f"
+   "image": {
+    "inputs": "85836c06e001",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Leaf-green katydid on a hedge leaf, Flick beside her. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033973,
+    "seconds": 4.2,
+    "stale": false,
+    "at": "2026-10-11T20:38:16.124Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "db898548566c",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference sheet and stands beside one katydid on a hedge leaf. There is no writing in the picture. The panel sits over plain leaves and covers nothing that matters."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:39:18.723Z"
    }
   },
   "p10": {
-   "write": {
-    "in": "7a19a078099d",
-    "out": "4961ffde94b7"
+   "image": {
+    "inputs": "9840fe0c1bff",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Big moon over the garden, Flick small in the middle. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339725,
+    "seconds": 5,
+    "stale": false,
+    "at": "2026-10-11T20:38:18.211Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "5fd59640e8b9",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "panel just touches the bottom of the moon's glow but covers nothing important",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The page matches the scene and words, Flick matches the reference sheet, and the panel sits over plain sky."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:39:22.009Z"
    }
   },
   "p11": {
-   "write": {
-    "in": "abbb8e868045",
-    "out": "2ab5d18d7bc7"
+   "image": {
+    "inputs": "3de1d3a80fc7",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Several fireflies as soft yellow dots among tree leaves, Flick in front. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397325,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T20:38:18.875Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "78fec425201b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference, glowing yellow dots fill the leaves around him, and the panel sits over plain ground and leaves without covering anything important."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:39:24.915Z"
    }
   },
   "p12": {
-   "write": {
-    "in": "b2e467e3242e",
-    "out": "71c04e9915f5"
+   "image": {
+    "inputs": "4973e29c4c52",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Flick asleep on a grass blade, faint glow, pale lavender night. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033973,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T20:38:20.286Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "9d3d1bd52e3e",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference sleeping pose, rests on a grass blade with a faint glow in a pale lavender night. The panel sits over plain white space and covers nothing, there is no text in the picture, and the contrast is light."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:39:27.839Z"
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "8a940da8233e",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette: lavender, dusky blue, glow yellow, moss green, soft brown.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Identical colours, markings and proportions in all three.",
+    "cost": 0.0336535,
+    "seconds": 3.7,
+    "stale": false,
+    "at": "2026-10-11T20:37:56.916Z",
+    "regens": 0
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "8acf0c0caa7a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in soft coloured pencil: visible pencil strokes and gentle hatching, rounded shapes, warm paper grain showing through, thin dark-brown pencil outlines, a limited palette of five muted colours plus cream, no digital gradients, no photorealism. Backgrounds are pale lavender or cream, never black or navy, even at night; glowing things are drawn as pale yellow halos on a light sky. Dark tones only in outlines and small accents, never large dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, dusky blue, glow yellow, moss green, soft brown.. Animals keep their natural colours. Sky and light over the story: peach \u2192 lavender \u2192 dusky blue. The sky is never black or navy; night is shown as pale lavender.. Cover illustration for the book 'The Firefly's Lantern'. Scene: Flick glowing above a pond at twilight, his light reflected in the water. Main character: Flick, a small firefly with a brown body, big kind eyes and a soft yellow glow at the tip of his tail. Match the attached character reference exactly. The cover may use the whole image. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+    "cost": 0.03395775,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T20:38:01.807Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "c200d02e2be4",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Flick matches the reference (purple face, blue cap, brown body, wings, yellow tail glow), glows above the pond at twilight with his light reflected in the water; no text, soft pastel colours, nothing odd."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:38:26.122Z"
    }
   }
  },
- "spend": 0,
+ "spend": 0.7992675,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "24f7e55bf151"
+ },
+ "package": {
+  "hash": "7cf747332bba",
+  "at": "2026-10-11T20:39:33.085Z",
+  "pages": 12
  }
 }

@@ -1,0 +1,92 @@
+{
+ "slug": "fnq",
+ "title": "Goodnight, Daintree",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Where the rainforest runs right down to the sea, the day is ending. Tilly the tree-kangaroo yawns high in her tree.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The cassowary walks her chicks home through the ferns, one slow step at a time.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The kookaburras have one last laugh. Then, quiet.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The green tree frogs sit in a row on a big leaf, plump and still.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The flying foxes wake up! They stretch their wings and flap off to find fruit.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The turtle crawls up the beach to dig her nest in the warm sand.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The blue Ulysses butterfly folds his bright wings shut and looks just like a brown leaf.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The possum peeks out of her hollow, ready for a night of climbing.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "Down on the reef, the little fish snuggle into their coral for the night.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Tilly climbs down, and down, and down to her sleeping branch.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "The rain comes, warm and soft, tapping on a million leaves.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Goodnight, rainforest. Goodnight, reef. Goodnight, Tilly.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

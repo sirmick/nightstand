@@ -2,81 +2,524 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "59f94754c469",
-    "out": "8c6b65908419"
+   "image": {
+    "inputs": "95e8afe49dec",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Tilly on a branch, sea and reef beyond, gold sky. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397325,
+    "seconds": 5.5,
+    "stale": false,
+    "at": "2026-10-11T20:43:55.015Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "d95c418c4a37",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tilly matches the reference (reddish-brown dotted coat, black face and paws, long tail), sits on a branch with sea beyond and a gold sky, and the panel covers only plain brown ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:24.086Z"
    }
   },
   "p02": {
-   "write": {
-    "in": "403355a0733a",
-    "out": "8fbb09adb81c"
+   "image": {
+    "inputs": "f0ab91105800",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Tall cassowary with three striped chicks among ferns, Tilly watching from above. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033974,
+    "seconds": 5.9,
+    "stale": false,
+    "at": "2026-10-11T20:43:55.454Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "7b2829bfff74",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Page matches the scene: a cassowary with three striped chicks among ferns, Tilly watching from a branch above, no writing in the picture, and the panel sits over plain leaf-litter ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:29.220Z"
    }
   },
   "p03": {
-   "write": {
-    "in": "fa4edefd2155",
-    "out": "fbaa6437f910"
+   "image": {
+    "inputs": "ce95ad46617b",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Two kookaburras on a branch, beaks open, Tilly beside them. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339745,
+    "seconds": 4.2,
+    "stale": false,
+    "at": "2026-10-11T20:43:59.305Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a64f4a88e5a2",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Two kookaburras with open beaks sit on a branch beside Tilly, who matches the reference. The panel covers only plain patterned ground, and nothing in the picture needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:34.298Z"
    }
   },
   "p04": {
-   "write": {
-    "in": "fdf27b3d9ad5",
-    "out": "f0d186e838f4"
+   "image": {
+    "inputs": "e19de4626634",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Three plump green frogs on one leaf, Tilly peeking over. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397325,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T20:43:59.797Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a9b174c40a30",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "Three frogs on one leaf with Tilly peeking over, but they are huddled together in a cluster instead of sitting in a row",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The picture has no text, Tilly matches the reference, and the three frogs are on one leaf. The panel sits over plain sky and leaves Tilly and the frogs clear. The frogs overlap rather than sitting in a strict row, but that is close enough for the scene."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:40.603Z"
    }
   },
   "p05": {
-   "write": {
-    "in": "6c06dee28df0",
-    "out": "7b66ef7aa961"
-   }
+   "image": {
+    "inputs": "d1be68b72879",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Fruit bats leaving a fig tree against a pink sky, Tilly below. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip. Avoid this problem seen in a previous attempt: Tilly does not match the reference sheet: she looks like a slim rodent with a pointed snout, small ears and a thin tail, not a Lumholtz's tree-kangaroo with a thick tail, round ears and a black face and paws. Redraw the scene with Tilly matching the reference: stocky reddish-brown body, round ears, black face and paws, long thick tail. Keep the bats leaving the fig tree against the pink sky and the plain ground at the bottom for the panel.",
+    "cost": 0.03400075,
+    "seconds": 4.6,
+    "stale": false,
+    "at": "2026-10-11T20:44:51.708Z",
+    "regens": 1
+   },
+   "inspect": {
+    "in": "3aef65deac35",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "Tilly is mostly right (orange dotted coat, black face and paws, round ears) but her tail is hidden behind the tree and her body is partly cut off by the panel",
+     "content": "Fruit bats leaving a fig tree against a pink sky match the scene and words; Tilly is below",
+     "panel": "Panel covers the lower part of Tilly's body and the ground, though her face and paws stay visible",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The page matches the scene, there is no text in the picture, Tilly's face and paws are visible above the panel, and the pink sky keeps contrast good."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:57.189Z"
+   },
+   "edit": {}
   },
   "p06": {
-   "write": {
-    "in": "badf4d7d5506",
-    "out": "6ff51e984f59"
+   "image": {
+    "inputs": "81ddb98f9087",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Sea turtle on pale sand, moon over the water. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397275,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T20:44:03.378Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "6996d23e1e1c",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The scene shows a single sea turtle on pale sand with a moon over the water. Tilly is not in the scene, so her absence is fine. The text panel sits over plain sand and the colours are light enough to read on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:02.478Z"
    }
   },
   "p07": {
-   "write": {
-    "in": "fefadcbf6b7f",
-    "out": "31c360853402"
+   "image": {
+    "inputs": "794374170001",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Big blue butterfly closing its wings on a branch next to Tilly. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.06786600000000001,
+    "seconds": 4.2,
+    "stale": false,
+    "at": "2026-10-11T20:45:13.344Z",
+    "regens": 1,
+    "edited": "Show the blue butterfly with its wings folded shut, so only the brown underside shows like a leaf."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "0ca2f4f53b02",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tilly matches the reference, one butterfly sits folded and leaf-brown beside her on the branch, the panel covers only plain ground, and the pink sky is light with no writing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:18.270Z"
    }
   },
   "p08": {
-   "write": {
-    "in": "3a30a6d8009d",
-    "out": "64841f736219"
+   "image": {
+    "inputs": "0b57b7fe94d6",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Possum in a tree hollow, Tilly on the branch outside. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0678665,
+    "seconds": 4.9,
+    "stale": false,
+    "at": "2026-10-11T20:45:30.129Z",
+    "regens": 1,
+    "edited": "Make the possum in the hollow awake with her eyes open and her head peeking out of the hollow."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a2b844528c9b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tilly on the branch matches the reference sheet, the possum peeks from the hollow as the words say, and the panel sits over plain sky and the tree tops without covering anything important."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:35.443Z"
    }
   },
   "p09": {
-   "write": {
-    "in": "f532e8bbf497",
-    "out": "b079fbb53a85"
+   "image": {
+    "inputs": "5e39db7de9b5",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pale reef seen from the shore, small fish among coral, moon above. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0678655,
+    "seconds": 4.7,
+    "stale": false,
+    "at": "2026-10-11T20:45:47.566Z",
+    "regens": 1,
+    "edited": "Turn the sun into a pale moon by removing the rays around the glowing disc."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "d128a0b026ab",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The reef scene shows many small fish among coral with the moon above, matching the words. Tilly is curled up asleep on the shore, matching the reference. The panel covers only plain pale water, and the picture is bright with no letters or odd extras."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:52.039Z"
    }
   },
   "p10": {
-   "write": {
-    "in": "c5929a652137",
-    "out": "c0857d47b059"
+   "image": {
+    "inputs": "48d861d096c5",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Tilly climbing down a tall trunk, moon between the leaves. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397325,
+    "seconds": 5.1,
+    "stale": false,
+    "at": "2026-10-11T20:44:09.236Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "d4da7985a464",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "moon between the leaves is barely visible, hidden by the text panel; otherwise Tilly climbing down the trunk matches",
+     "panel": "panel covers the top of the tail and the moon area, but Tilly's face and body are clear",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tilly matches the reference, one animal, climbing down the trunk, panel leaves her face and body clear, no text, light enough for e-ink; moon is minor."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:45:58.205Z"
    }
   },
   "p11": {
-   "write": {
-    "in": "2562449b34f3",
-    "out": "f2843f4a425a"
+   "image": {
+    "inputs": "ec947f0bb95a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Tilly curled under a big leaf, gentle rain. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397275,
+    "seconds": 4.9,
+    "stale": false,
+    "at": "2026-10-11T20:44:10.557Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "8b1e33036c2b",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "dark night areas in the lower half and the dark trunk and ground read heavy, but the bright moon, sea and orange Tilly still stand out",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tilly is curled under a big leaf in gentle rain, matching the reference and the words. The panel sits over plain dark ground, not the character, and the dark areas are small enough to read on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:46:04.954Z"
    }
   },
   "p12": {
-   "write": {
-    "in": "66507eca07bb",
-    "out": "608f07d74b50"
+   "image": {
+    "inputs": "afe2042c9313",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Wide view from the treetops down to the beach and reef, Tilly asleep on her branch. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03397475,
+    "seconds": 5.3,
+    "stale": false,
+    "at": "2026-10-11T20:44:13.529Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "98228306ae6c",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tilly is curled asleep in the branches, the view runs down to the beach and reef, and the panel sits over plain dotted sand without covering anything important."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:46:09.758Z"
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "a8a2e780416c",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette: ochre, rust, sand, white, charcoal.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Identical colours, markings and proportions in all three.",
+    "cost": 0.03365525,
+    "seconds": 4.6,
+    "stale": false,
+    "at": "2026-10-11T20:43:49.430Z",
+    "regens": 0
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "24a88dbfe3ff",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the manner of Australian desert dot painting: every shape and background built from concentric rings, arcs and travelling lines of fine dots in ochre, rust, sand, white and charcoal on a warm earth-coloured ground, animals as simple bold silhouettes filled with dot patterns and a few white dot outlines, big simple shapes, no outlines drawn as lines, no gradients, no photorealism. Dark colours only in small accents and the ground tone, never large flat dark areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): ochre, rust, sand, white, charcoal.. Animals keep their natural colours. Sky and light over the story: gold tropical sunset → coral pink → warm lavender night with a big moon over the sea.. Cover illustration for the book 'Goodnight, Daintree'. Scene: Tilly on a high branch where the rainforest meets the beach and the turquoise reef. Main character: Tilly, a small Lumholtz's tree-kangaroo with a reddish-brown coat, a long thick tail, round ears and a black face and paws. Match the attached character reference exactly. The cover may use the whole image. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+    "cost": 0.03395875,
+    "seconds": 5.7,
+    "stale": false,
+    "at": "2026-10-11T20:43:55.249Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "4a359fa1a828",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tilly is curled up in the branch in the same pose as the reference sheet and matches it. The picture has no letters. The beach and reef are visible. The sky is light and the picture would read on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:44:18.889Z"
    }
   }
  },
- "spend": 0,
+ "spend": 0.9248745000000002,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "decd74ec5e86"
+ },
+ "package": {
+  "hash": "54780682c94e",
+  "at": "2026-10-11T20:46:16.485Z",
+  "pages": 12
  }
 }

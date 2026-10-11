@@ -2,81 +2,539 @@
  "v": 1,
  "pages": {
   "p01": {
-   "write": {
-    "in": "5afde54685e8",
-    "out": "a5830279826a"
+   "image": {
+    "inputs": "52355610eddc",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Iron gate closing, Milo on a rock, sand-gold sky. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339625,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T20:39:43.588Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "41308019c835",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Milo matches the reference, the gate and rock are shown, and the panel sits on plain ground with nothing important beneath it."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:07.540Z"
    }
   },
   "p02": {
-   "write": {
-    "in": "df7c5c2fff5f",
-    "out": "b3b7beaccabd"
+   "image": {
+    "inputs": "d1bf95a1360a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Two elephants leaning together, trunks curled. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033961,
+    "seconds": 3.6,
+    "stale": false,
+    "at": "2026-10-11T20:39:42.785Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "b367a2237de6",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "small glowing lamp-like dots at the horizon look slightly odd but are minor"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Two elephants lean together with trunks curled, matching the words; the meerkat is not required in this scene, and the bottom panel sits over plain ground, not covering the elephants."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:11.389Z"
    }
   },
   "p03": {
-   "write": {
-    "in": "6fcef014392c",
-    "out": "e3f6be48b966"
+   "image": {
+    "inputs": "83f52c0220d7",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Two giraffes sitting down, necks curved. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396125,
+    "seconds": 3.8,
+    "stale": false,
+    "at": "2026-10-11T20:39:46.594Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "31c4b4e6fd09",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Two giraffes sit with folded legs and curved necks, matching the scene and words. The meerkat is not needed on this page. The panel covers only plain sky and no text appears in the picture. The colours are light and clear."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:14.717Z"
    }
   },
   "p04": {
-   "write": {
-    "in": "035e6187edce",
-    "out": "5c51461573ac"
+   "image": {
+    "inputs": "997ab375cbc1",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Lion family in a pile on a warm rock. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.067854,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T20:40:22.741Z",
+    "regens": 1,
+    "edited": "Remove the glowing lamp-like red post and light in the background and leave plain pale savanna."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "68d502120946",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "Lions are asleep, not yawning, but they are in a heap on a rock as asked; the family is one male, one lioness and two cubs",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Lion family in a heap on a warm rock; the panel sits over plain ground and covers nothing important. Milo is not required in this scene."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:25.983Z"
    }
   },
   "p05": {
-   "write": {
-    "in": "0a0dc195867d",
-    "out": "9742e1fe53bf"
+   "image": {
+    "inputs": "d504ed23b0c2",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Cluster of penguins, teal pool behind. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.033961,
+    "seconds": 4.2,
+    "stale": false,
+    "at": "2026-10-11T20:39:48.609Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "1a23982f0cef",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The penguins are clustered by the teal pool, Milo matches the reference sheet, the panel sits on plain ground, and nothing needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:28.890Z"
    }
   },
   "p06": {
-   "write": {
-    "in": "4bd4c4564c99",
-    "out": "44bb19cf159c"
+   "image": {
+    "inputs": "fda022c1f94a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Three monkeys still in a tree, ropes hanging. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the top quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0339615,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T20:39:51.493Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "0e51a30f6e38",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Three monkeys are resting in the tree with ropes hanging, as the scene asks. The panel sits over plain sky, there is no text in the picture, and the picture reads clearly. Milo is not in the scene, so the reference sheet does not apply."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:32.080Z"
    }
   },
   "p07": {
-   "write": {
-    "in": "4f64c4c64bd0",
-    "out": "e85f42d123f2"
+   "image": {
+    "inputs": "3aa665ef2a88",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pool, two hippo ears and eyes above the surface. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.06785525,
+    "seconds": 4.2,
+    "stale": false,
+    "at": "2026-10-11T20:40:39.509Z",
+    "regens": 1,
+    "edited": "Make the dark navy band at the top of the sky the same pale lavender as the rest of the sky."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "8ca3db5ebcb5",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "The hippo's two ears and closed eyes show above the pool as the scene and words describe. Milo matches the reference sheet. The panel covers only plain sand and pool edge, and there is no text in the picture and no large dark areas."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:42.445Z"
    }
   },
   "p08": {
-   "write": {
-    "in": "09bd9821070e",
-    "out": "da21016a05a8"
+   "image": {
+    "inputs": "12db2b173150",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Row of parrots on a perch, heads under wings. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396175,
+    "seconds": 3.8,
+    "stale": false,
+    "at": "2026-10-11T20:39:52.415Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "42b9769cbef0",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Five sleeping parrots sit on a perch with eyes closed and wings tucked up to their faces. The panel sits on plain sky at the bottom, the colours are soft, and there is no text. Milo is not needed in this scene."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:48.166Z"
    }
   },
   "p09": {
-   "write": {
-    "in": "5effd5cef375",
-    "out": "c8758f817720"
+   "image": {
+    "inputs": "d6febaa8ef32",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: One big tortoise, head half inside the shell, Milo beside. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.03396225,
+    "seconds": 8.9,
+    "stale": false,
+    "at": "2026-10-11T20:40:00.464Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "124c8b0bc4ea",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "Night sky is a fairly large mid-dark blue area, but it is a lighter indigo with a bright lamp and moon, so it should still read",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Milo matches the reference, one tortoise with head half in its shell, the panel sits on plain ground, and there is no text in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:51.627Z"
    }
   },
   "p10": {
-   "write": {
-    "in": "95e015222c7c",
-    "out": "f4c57d04f6fd"
+   "image": {
+    "inputs": "58de484f3e07",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Curving zoo path, round lamps, lavender night, Milo walking. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.0678535,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T20:40:58.711Z",
+    "regens": 1,
+    "edited": "Make the night sky a pale lavender instead of dark navy."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "06bf4860a8b4",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "No letters in the picture. Milo matches the reference sheet and is walking the curving path among round lamps in a lavender night. The panel covers only plain ground and bushes, and the picture is light enough for e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:41:02.170Z"
    }
   },
   "p11": {
-   "write": {
-    "in": "06631ce078b5",
-    "out": "8e99004f9be1"
+   "image": {
+    "inputs": "759a3f883b28",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Meerkat burrow entrance, sleepy meerkat faces peeking out. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.06785325,
+    "seconds": 4.5,
+    "stale": false,
+    "at": "2026-10-11T20:41:19.940Z",
+    "regens": 1,
+    "edited": "Add Milo's teal and orange bandana around his neck."
+   },
+   "edit": {
+    "crop": [
+     0,
+     0,
+     0.96,
+     0.96
+    ],
+    "text_pos": "bottom"
+   },
+   "inspect": {
+    "in": "cbe3cc07e9dc",
+    "verdict": "fixed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "stray yellow shape poking in at the right edge beside the text panel"
+    },
+    "action": {
+     "do": "crop",
+     "to": "bottom",
+     "crop": [
+      0,
+      0,
+      0.96,
+      0.95
+     ],
+     "instruction": "",
+     "reason": "A stray yellow shape intrudes at the right edge near the panel. Cropping slightly in from the right and bottom removes it and keeps Milo and the burrow intact."
+    },
+    "applied": true,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:26.936Z"
    }
   },
   "p12": {
-   "write": {
-    "in": "75c1a3216329",
-    "out": "b6abf2027b7a"
+   "image": {
+    "inputs": "83e8b19aa44b",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Milo curled up in the burrow, moon through the entrance. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side. An opaque text panel will be drawn over the bottom quarter of the picture, so put nothing important there: that quarter holds only simple background (sky, ground or water) that continues the scene, never a blank strip.",
+    "cost": 0.06785525,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T20:51:43.704Z",
+    "regens": 1,
+    "edited": "Remove all the crescent moons from the sky outside the arch and keep only the full moon in the entrance."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "82d213df97bb",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Milo matches the reference sheet and sleeps curled up in the burrow with the moon in view. The panel sits over plain sand and the picture has no writing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:51:48.748Z"
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "ff693e22ce98",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette: lavender, sand yellow, teal, terracotta, warm grey.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Identical colours, markings and proportions in all three.",
+    "cost": 0.03364475,
+    "seconds": 6,
+    "stale": false,
+    "at": "2026-10-11T20:39:39.155Z",
+    "regens": 0
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "da5124c05dfd",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6. Flat, hand-drawn look with soft, confident black outlines and gentle rounded shapes. Limited palette of five muted colours plus cream. Flat fills, no gradients, no shading, no texture, no photorealism. Backgrounds are pale and mostly empty. Dark colours only in outlines and small accents, never as large areas. Warm, calm, sleepy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): lavender, sand yellow, teal, terracotta, warm grey.. Animals keep their natural colours. Sky and light over the story: sand-gold dusk → lavender → soft night, round lamps along the paths.. Cover illustration for the book 'The Zoo Goes to Sleep'. Scene: Milo standing tall on a rock in front of the closed zoo gate. Main character: Milo, a small meerkat with a dark eye-mask and a curious upright stance. Match the attached character reference exactly. The cover may use the whole image. Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+    "cost": 0.033947,
+    "seconds": 5.1,
+    "stale": false,
+    "at": "2026-10-11T20:39:44.334Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "c97635d9535e",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Milo stands upright on a rock in front of the closed, chained zoo gate, matching the reference and the scene. There is no writing, the sky is a light dusk, and nothing is odd."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T20:40:04.117Z"
    }
   }
  },
- "spend": 0,
+ "spend": 0.7299872499999998,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "781357d576ff"
+ },
+ "package": {
+  "hash": "e06955035c0c",
+  "at": "2026-10-11T20:51:52.415Z",
+  "pages": 12
  }
 }
