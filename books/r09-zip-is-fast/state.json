@@ -1,22 +1,537 @@
 {
  "v": 1,
  "pages": {
-  "p01": {},
-  "p02": {},
-  "p03": {},
-  "p04": {},
-  "p05": {},
-  "p06": {},
-  "p07": {},
-  "p08": {},
-  "p09": {},
-  "p10": {},
-  "p11": {},
-  "p12": {}
+  "p01": {
+   "image": {
+    "inputs": "340b01dc9abc",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip the greyhound. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.0339505,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T21:54:18.083Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "76694449635b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Single greyhound matches the reference sheet, nothing else in the picture, and the text panel sits on plain background below the dog."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:54:43.196Z"
+   }
+  },
+  "p02": {
+   "image": {
+    "inputs": "1cec7caf3811",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip in profile, very slim. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.033951,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T21:54:17.931Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "f4971a64cc49",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip is shown in profile, slim, matching the reference; there is no text in the picture, and the panel sits over plain background at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:54:45.734Z"
+   }
+  },
+  "p03": {
+   "image": {
+    "inputs": "715c478d149b",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip stretched out, long legs and nose. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.0339515,
+    "seconds": 5.5,
+    "stale": false,
+    "at": "2026-10-11T21:54:23.466Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "adad15f8d62b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip is stretched out long, matches the reference, no text in the picture, and the panel sits on plain ground at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:54:48.942Z"
+   }
+  },
+  "p04": {
+   "image": {
+    "inputs": "93b5fba72928",
+    "refs": [
+     "Jack",
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Jack, Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip streaking past Jack. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.0342355,
+    "seconds": 3,
+    "stale": false,
+    "at": "2026-10-11T21:54:21.140Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "f9e56ab10beb",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Jack and Zip match the reference sheets, Zip is shown running past Jack, there is no text in the picture, and the panel sits on plain background."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:54:53.951Z"
+   }
+  },
+  "p05": {
+   "image": {
+    "inputs": "6aca6472189d",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip crossing a finish ribbon. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.03395075,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T21:54:22.714Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "84acc2cfe00f",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip the grey whippet with orange patches matches the reference, runs through a green finish ribbon on a plain background, and the bottom panel covers only empty space."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:54:56.845Z"
+   }
+  },
+  "p06": {
+   "image": {
+    "inputs": "29f375ccd339",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip grinning widely. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.03395025,
+    "seconds": 4.9,
+    "stale": false,
+    "at": "2026-10-11T21:54:26.116Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "34185526769b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip is a single greyhound matching the reference, grinning widely, on a plain background with the text panel over empty space at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:54:59.501Z"
+   }
+  },
+  "p07": {
+   "image": {
+    "inputs": "4c3d5469e572",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip panting, tongue out. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.033951,
+    "seconds": 5.7,
+    "stale": false,
+    "at": "2026-10-11T21:54:28.465Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "5a16d3af7eb3",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip matches the reference and is panting with tongue out, the panel sits on plain ground below the dog, and nothing else needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:55:02.275Z"
+   }
+  },
+  "p08": {
+   "image": {
+    "inputs": "f7702edda32e",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip drinking from a bowl. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.03395075,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T21:54:27.838Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "cc5424ac3d47",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip the greyhound matches the reference sheet and is drinking from one bowl. The panel sits on plain ground at the bottom, and there is no text in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:55:05.862Z"
+   }
+  },
+  "p09": {
+   "image": {
+    "inputs": "b3a13cc850ba",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip flopped flat on a rug. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.03395125,
+    "seconds": 3.6,
+    "stale": false,
+    "at": "2026-10-11T21:54:29.784Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "b37f104175b6",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip the grey whippet with orange patches and blue collar lies flat on a green rug. The picture shows what the words say, with no text in the art, and the panel sits over plain empty background."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:55:08.775Z"
+   }
+  },
+  "p10": {
+   "image": {
+    "inputs": "9b8e2606287c",
+    "refs": [
+     "Jack",
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Jack, Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip running across grass, Jack far behind. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.03423625,
+    "seconds": 3.5,
+    "stale": false,
+    "at": "2026-10-11T21:54:31.347Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "73b614c8e63d",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip the greyhound matches the reference, Jack the small dog is far behind, the panel sits on plain ground, and there is no text or odd detail in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:55:11.658Z"
+   }
+  },
+  "p11": {
+   "image": {
+    "inputs": "2d652f8c6e03",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip grinning with the ribbon. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.067843,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T21:55:21.832Z",
+    "regens": 1,
+    "edited": "Make the collar blue like the reference sheet, and keep the ribbon red in her mouth."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "d72c58eeacf5",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip matches the reference, grins with the ribbon in his mouth, the panel sits on plain ground at the bottom, and there is no text or extra animal."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:55:24.934Z"
+   }
+  },
+  "p12": {
+   "image": {
+    "inputs": "a653d4c5d797",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip asleep on the rug, legs twitching. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.03395175,
+    "seconds": 3.7,
+    "stale": false,
+    "at": "2026-10-11T21:54:33.531Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "d94e1b55ac28",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Zip matches the reference, curled asleep on the rug with twitch marks, and the panel sits on plain cream ground at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:55:27.588Z"
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "be7756a72f9d",
+    "refs": [
+     "Zip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Zip, a slim grey greyhound with a long nose. The attached images are character references, in this order: Zip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Zip the greyhound. Big, simple and friendly. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.033952,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T21:54:18.560Z",
+    "regens": 0
+   },
+   "edit": {
+    "crop": [
+     0.16,
+     0.02,
+     0.7,
+     0.7
+    ]
+   },
+   "inspect": {
+    "in": "d8438dcf4511",
+    "verdict": "fixed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "crop",
+     "to": "",
+     "crop": [
+      0.16,
+      0.02,
+      0.7,
+      0.69
+     ],
+     "instruction": "",
+     "reason": "Zip matches the reference and the picture is clean, but he is small with a lot of empty space below. The brief asks for big, so zoom in to make him fill the cover."
+    },
+    "applied": true,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:54:40.378Z"
+   }
+  }
  },
- "spend": 0,
+ "spend": 0.7028277500000002,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "9fe5dad1c77a"
+ },
+ "package": {
+  "hash": "3f576e3418a1",
+  "at": "2026-10-11T21:55:30.792Z",
+  "pages": 12
  }
 }

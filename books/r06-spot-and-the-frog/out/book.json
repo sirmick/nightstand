@@ -1,0 +1,92 @@
+{
+ "slug": "r06-spot-and-the-frog",
+ "title": "Spot and the Frog",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Spot.",
+   "text_pos": "bottom",
+   "word": "Spot"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Spot has a spot.",
+   "text_pos": "bottom",
+   "word": "spot"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "A frog!",
+   "text_pos": "bottom",
+   "word": "frog"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Jump, frog, jump.",
+   "text_pos": "bottom",
+   "word": "jump"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The frog is in the pond.",
+   "text_pos": "bottom",
+   "word": "pond"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Drip, drip, drip.",
+   "text_pos": "bottom",
+   "word": "drip"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Tip sat in the nest.",
+   "text_pos": "bottom",
+   "word": "nest"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Milk! Tip ran to the milk.",
+   "text_pos": "bottom",
+   "word": "milk"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "Mim sat on the lamp.",
+   "text_pos": "bottom",
+   "word": "lamp"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Spot is in the sand.",
+   "text_pos": "bottom",
+   "word": "sand"
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Spot has a spot. She is in the pond. Drip, drip.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Nap, Spot. Nap in the sand.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

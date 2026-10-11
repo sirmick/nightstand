@@ -16,6 +16,71 @@
    "cost": 0,
    "imported": true,
    "stale": false
+  },
+  "Mim": {
+   "inputs": "da3b5dc6287d",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's learn-to-read picture book. Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Show the same character three times on a plain cream background: sitting facing the viewer, standing side view, and curled up asleep. The character: Mim, a small grey tabby kitten with dark stripes, white paws and green eyes. Identical colours, markings and proportions in all three.",
+   "cost": 0.033648,
+   "seconds": 4.5,
+   "at": "2026-10-11T21:40:23.265Z"
+  },
+  "Sam": {
+   "inputs": "411b57bc540f",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's learn-to-read picture book. Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Show the same character three times on a plain cream background: sitting facing the viewer, standing side view, and curled up asleep. The character: Sam, a very big shaggy grey-and-white old English sheepdog with hair over his eyes. Identical colours, markings and proportions in all three.",
+   "cost": 0.03364925,
+   "seconds": 3.3,
+   "at": "2026-10-11T21:42:50.770Z"
+  },
+  "Bob": {
+   "inputs": "eea948a82577",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's learn-to-read picture book. Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Show the same character three times on a plain cream background: sitting facing the viewer, standing side view, and curled up asleep. The character: Bob, a stocky wrinkly tan bulldog with a black nose. Identical colours, markings and proportions in all three.",
+   "cost": 0.03364725,
+   "seconds": 4,
+   "at": "2026-10-11T21:44:38.365Z"
+  },
+  "Chip": {
+   "inputs": "3a417738b5a2",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's learn-to-read picture book. Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Show the same character three times on a plain cream background: sitting facing the viewer, standing side view, and curled up asleep. The character: Chip, a tiny tan chihuahua with huge ears. Identical colours, markings and proportions in all three.",
+   "cost": 0.03364625,
+   "seconds": 3.9,
+   "at": "2026-10-11T21:46:32.954Z"
+  },
+  "Spot": {
+   "inputs": "622bc82f2fb3",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's learn-to-read picture book. Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Show the same character three times on a plain cream background: sitting facing the viewer, standing side view, and curled up asleep. The character: Spot, a white dalmatian with black spots. Identical colours, markings and proportions in all three.",
+   "cost": 0.0336465,
+   "seconds": 7.3,
+   "at": "2026-10-11T21:48:14.159Z"
+  },
+  "Jack": {
+   "inputs": "925a8d10d7c8",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's learn-to-read picture book. Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Show the same character three times on a plain cream background: sitting facing the viewer, standing side view, and curled up asleep. The character: Jack, a small white jack russell terrier with a brown patch over one eye. Identical colours, markings and proportions in all three.",
+   "cost": 0.033648,
+   "seconds": 4.5,
+   "at": "2026-10-11T21:49:47.150Z"
+  },
+  "Max": {
+   "inputs": "735541ba6664",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's learn-to-read picture book. Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Show the same character three times on a plain cream background: sitting facing the viewer, standing side view, and curled up asleep. The character: Max, a fawn pug with a black face and curly tail. Identical colours, markings and proportions in all three.",
+   "cost": 0.033647,
+   "seconds": 3.3,
+   "at": "2026-10-11T21:52:08.600Z"
+  },
+  "Zip": {
+   "inputs": "52ccf5e81690",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's learn-to-read picture book. Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Show the same character three times on a plain cream background: sitting facing the viewer, standing side view, and curled up asleep. The character: Zip, a slim grey greyhound with a long nose. Identical colours, markings and proportions in all three.",
+   "cost": 0.03364675,
+   "seconds": 3.3,
+   "at": "2026-10-11T21:54:13.748Z"
   }
- }
+ },
+ "spend": 0.26917899999999995
 }

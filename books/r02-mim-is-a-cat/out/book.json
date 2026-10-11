@@ -1,0 +1,92 @@
+{
+ "slug": "r02-mim-is-a-cat",
+ "title": "Mim Is a Cat",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Mim.",
+   "text_pos": "bottom",
+   "word": "Mim"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Mim is a cat.",
+   "text_pos": "bottom",
+   "word": "cat"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Mim sat on a mat.",
+   "text_pos": "bottom",
+   "word": "mat"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "A hat.",
+   "text_pos": "bottom",
+   "word": "hat"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Tip sat on a red hat.",
+   "text_pos": "bottom",
+   "word": "red"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Pip and a cap.",
+   "text_pos": "bottom",
+   "word": "cap"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Ham! Pip sat and sat.",
+   "text_pos": "bottom",
+   "word": "ham"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Tip hid.",
+   "text_pos": "bottom",
+   "word": "hid"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "A rat!",
+   "text_pos": "bottom",
+   "word": "rat"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Mim ran and ran.",
+   "text_pos": "bottom",
+   "word": "ran"
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Pip sat. Tip sat. Mim sat.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Nap, Mim. Nap, nap, nap.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

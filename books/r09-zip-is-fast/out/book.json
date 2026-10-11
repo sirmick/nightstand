@@ -1,0 +1,92 @@
+{
+ "slug": "r09-zip-is-fast",
+ "title": "Zip Is Fast",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Zip.",
+   "text_pos": "bottom",
+   "word": "Zip"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Zip is thin.",
+   "text_pos": "bottom",
+   "word": "thin"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Zip is long.",
+   "text_pos": "bottom",
+   "word": "long"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Zip ran past Jack.",
+   "text_pos": "bottom",
+   "word": "past"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Zip can win.",
+   "text_pos": "bottom",
+   "word": "win"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Zip has a big grin.",
+   "text_pos": "bottom",
+   "word": "grin"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Pant, pant, pant.",
+   "text_pos": "bottom",
+   "word": "pant"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Drink, Zip, drink.",
+   "text_pos": "bottom",
+   "word": "drink"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "Flop! Zip is on the rug.",
+   "text_pos": "bottom",
+   "word": "flop"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Go, Zip, go! Zip ran fast.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Zip can win. Zip has a big grin.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Nap, Zip. Zip is a fast dog.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "slug": "r10-the-big-nap",
+ "title": "The Big Nap",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "The sun.",
+   "text_pos": "bottom",
+   "word": "sun"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The sun is hot.",
+   "text_pos": "bottom",
+   "word": "hot"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Pip is in the shed.",
+   "text_pos": "bottom",
+   "word": "shed"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Mim and the fan.",
+   "text_pos": "bottom",
+   "word": "fan"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Spot can swim.",
+   "text_pos": "bottom",
+   "word": "swim"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Splash!",
+   "text_pos": "bottom",
+   "word": "splash"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Jack is wet. Spot is wet.",
+   "text_pos": "bottom",
+   "word": "wet"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Dusk. The sun is not hot.",
+   "text_pos": "bottom",
+   "word": "dusk"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "All sat. Sam, Bob, Chip, Spot, Jack, Max, Zip and Pip.",
+   "text_pos": "bottom",
+   "word": "all"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Still, still, still.",
+   "text_pos": "bottom",
+   "word": "still"
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Tip is on Sam. Mim is on Bob. Pip is on the rug.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Nap, all. Nap in the dusk.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

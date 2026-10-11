@@ -1,0 +1,92 @@
+{
+ "slug": "r07-jack-can-run",
+ "title": "Jack Can Run",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Jack.",
+   "text_pos": "bottom",
+   "word": "Jack"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Jack can jump.",
+   "text_pos": "bottom",
+   "word": "can"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Run, Jack, run.",
+   "text_pos": "bottom",
+   "word": "run"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Jack is fast.",
+   "text_pos": "bottom",
+   "word": "fast"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Stop, Jack, stop!",
+   "text_pos": "bottom",
+   "word": "stop"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Jack has a stick.",
+   "text_pos": "bottom",
+   "word": "stick"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Drop the stick, Jack.",
+   "text_pos": "bottom",
+   "word": "drop"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Grab the stick, Pip.",
+   "text_pos": "bottom",
+   "word": "grab"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "Tug, tug, tug.",
+   "text_pos": "bottom",
+   "word": "tug"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Snap!",
+   "text_pos": "bottom",
+   "word": "snap"
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Jack has a stick. Pip has a stick.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Nap, Jack. Nap, Pip.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

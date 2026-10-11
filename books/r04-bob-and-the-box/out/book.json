@@ -1,0 +1,92 @@
+{
+ "slug": "r04-bob-and-the-box",
+ "title": "Bob and the Box",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Bob.",
+   "text_pos": "bottom",
+   "word": "Bob"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "A big box.",
+   "text_pos": "bottom",
+   "word": "box"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Get in the box, Bob.",
+   "text_pos": "bottom",
+   "word": "get"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Fit, Bob, fit!",
+   "text_pos": "bottom",
+   "word": "fit"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Yes! Bob is in the box.",
+   "text_pos": "bottom",
+   "word": "yes"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Wag, wag, wag.",
+   "text_pos": "bottom",
+   "word": "wag"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Jam on Pip.",
+   "text_pos": "bottom",
+   "word": "jam"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Hop, Tip, hop.",
+   "text_pos": "bottom",
+   "word": "hop"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "Tip is on the top of the box.",
+   "text_pos": "bottom",
+   "word": "top"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Pip ran to the box.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Bob is in the box. Tip is on the top. Pip sat.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Nap, Bob. Nap in the box.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

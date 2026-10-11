@@ -1,0 +1,92 @@
+{
+ "slug": "r08-max-is-not-big",
+ "title": "Max Is Not Big",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Max.",
+   "text_pos": "bottom",
+   "word": "Max"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Max is not big.",
+   "text_pos": "bottom",
+   "word": "not"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Max has a bed.",
+   "text_pos": "bottom",
+   "word": "bed"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The bed is soft.",
+   "text_pos": "bottom",
+   "word": "soft"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Rest, Max, rest.",
+   "text_pos": "bottom",
+   "word": "rest"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Max is snug in the bed.",
+   "text_pos": "bottom",
+   "word": "snug"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Bump! Bob is on the bed.",
+   "text_pos": "bottom",
+   "word": "bump"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Then Tip. Then Mim. Then Pip.",
+   "text_pos": "bottom",
+   "word": "then"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "Shift, Bob, shift.",
+   "text_pos": "bottom",
+   "word": "shift"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "We fit! Yes, we fit.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "The bed is soft. Max is snug.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Nap, Max. Nap, Bob, Tip, Mim and Pip.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

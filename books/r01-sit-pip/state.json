@@ -11,8 +11,31 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. The attached images are character references, in this order: Pip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Pip the beagle pup sitting, looking at the reader. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.0678685,
     "seconds": 9.4,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "f589471a14c2",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "covers only the paws; face and body are clear",
+     "contrast": "ok",
+     "extras": "small odd grey stripe between the front legs, but it does not confuse the picture"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "One beagle pup sits facing the reader and matches the reference sheet. There is no text in the picture, and the panel only hides the paws."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:38:14.760Z"
    }
   },
   "p02": {
@@ -25,8 +48,31 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Tip, a small ginger kitten with white paws and big round eyes. The attached images are character references, in this order: Tip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Tip the ginger kitten sitting. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.0678635,
     "seconds": 9.3,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "b48cce60087b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Single ginger kitten sitting matches the reference, no stray text in the picture, and the panel sits on plain ground below the cat."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:38:18.721Z"
    }
   },
   "p03": {
@@ -39,8 +85,31 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. The attached images are character references, in this order: Pip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Pip sitting up straight and proud. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.0678665,
     "seconds": 8.9,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "76f210663a28",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Pip sits up straight and proud, matches the reference, no text in the picture, and the panel sits on plain ground below the dog."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:38:21.856Z"
    }
   },
   "p04": {
@@ -54,8 +123,31 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Tip, a small ginger kitten with white paws and big round eyes. The attached images are character references, in this order: Pip, Tip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Tip sitting down beside Pip. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.068434,
     "seconds": 9.7,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "745dd5d123d0",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Both Pip the cat and Tip the beagle match their reference sheets, sit side by side, and the panel sits on plain cream ground without covering either animal."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:38:25.664Z"
    }
   },
   "p05": {
@@ -69,8 +161,31 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Tip, a small ginger kitten with white paws and big round eyes. The attached images are character references, in this order: Pip, Tip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Tip patting Pip's head with one paw. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.0684365,
     "seconds": 10.4,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "d37b14181e3e",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "panel covers the bottom paws of both animals slightly but nothing important",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tip the cat pats Pip the beagle's head with one paw, both match their reference sheets, no text in the picture, and the panel sits on plain ground below the action."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:38:30.584Z"
    }
   },
   "p06": {
@@ -83,8 +198,31 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. The attached images are character references, in this order: Pip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Pip tapping the floor with a paw, small motion marks. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.067869,
     "seconds": 9.3,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "8f27c589a652",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Pip matches the reference, is tapping a front paw with small motion marks, and the panel sits on plain empty space below."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:38:33.576Z"
    }
   },
   "p07": {
@@ -95,10 +233,37 @@
     ],
     "model": "google/gemini-3.1-flash-image",
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. The attached images are character references, in this order: Pip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Pip lying down with eyes closed. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
-    "cost": 0.0678665,
+    "cost": 0.10175825,
     "seconds": 9,
-    "stale": false,
-    "imported": true
+    "stale": true,
+    "imported": true,
+    "edited": "Change the dog's collar from blue to red to match the reference sheet.",
+    "regens": 1,
+    "at": "2026-10-11T21:40:52.297Z"
+   },
+   "edit": {},
+   "inspect": {
+    "in": "963096206a36",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Pip matches the reference, is lying down with eyes closed, the panel sits on plain ground below him, and there is no text in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:40:57.448Z"
    }
   },
   "p08": {
@@ -111,8 +276,32 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. The attached images are character references, in this order: Pip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: A tin of food on the floor, Pip sniffing it. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.067869,
     "seconds": 9,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "835b8741b40a",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Pip matches the reference, sniffs one tin, no writing, and the panel sits over plain cream ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:41:00.355Z"
    }
   },
   "p09": {
@@ -125,8 +314,32 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Tip, a small ginger kitten with white paws and big round eyes. The attached images are character references, in this order: Tip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Tip sipping from a saucer. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.0678635,
     "seconds": 9.2,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "628c0d101317",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Tip the orange kitten with blue collar and green tag is licking water from a single saucer, with no text, plain background, and the panel sits over empty cream space."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:41:04.308Z"
    }
   },
   "p10": {
@@ -140,8 +353,32 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Tip, a small ginger kitten with white paws and big round eyes. The attached images are character references, in this order: Pip, Tip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Pip and Tip sitting side by side. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.068435,
     "seconds": 10.6,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "6f9ffed6920a",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Pip the beagle and Tip the cat both sit side by side, match their reference sheets, and the text panel sits on plain cream ground at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:41:08.034Z"
    }
   },
   "p11": {
@@ -155,8 +392,32 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Tip, a small ginger kitten with white paws and big round eyes. The attached images are character references, in this order: Pip, Tip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Both lying down, eyes closing. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.0684345,
     "seconds": 9.5,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "03ab0a526c54",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Beagle and orange kitten both lie down with eyes closing, match the reference sheets, no text in the picture, and the panel sits over plain cream ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:41:11.807Z"
    }
   },
   "p12": {
@@ -170,8 +431,32 @@
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Tip, a small ginger kitten with white paws and big round eyes. The attached images are character references, in this order: Pip, Tip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Both asleep, curled together. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
     "cost": 0.068434,
     "seconds": 10.8,
-    "stale": false,
+    "stale": true,
     "imported": true
+   },
+   "edit": {},
+   "inspect": {
+    "in": "8d84dd0d98f8",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Beagle Pip and orange cat Tip both asleep and curled together, matching the references, no text, plain cream ground under the bottom panel."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:41:15.494Z"
    }
   },
   "cover": {
@@ -182,21 +467,47 @@
     ],
     "model": "google/gemini-3.1-flash-image",
     "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green.. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. The attached images are character references, in this order: Pip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background. Scene: Pip the beagle pup sitting, looking at the reader. Big, simple and friendly. Keep the bottom third of the image plain cream because a large text panel will be drawn there.",
-    "cost": 0.0678715,
+    "cost": 0.1017635,
     "seconds": 9.3,
-    "stale": false,
-    "imported": true
+    "stale": true,
+    "imported": true,
+    "edited": "Change the blue eyes and the blue nose to dark brown, like the reference sheet.",
+    "regens": 1,
+    "at": "2026-10-11T21:38:00.974Z"
+   },
+   "edit": {},
+   "inspect": {
+    "in": "38d63cce32e3",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Pip matches the reference sheet, sits and looks at the reader on a plain cream background, with no text, extra animals or dark areas."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:38:06.666Z"
    }
   }
  },
- "spend": 0,
+ "spend": 0.2022255,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "848b7ac1a3d5"
  },
  "package": {
-  "hash": "e4ed223ab7f6",
-  "at": "2026-10-11T20:11:05.329Z",
+  "hash": "fbee7d0b3e04",
+  "at": "2026-10-11T21:41:18.820Z",
   "pages": 12
  }
 }

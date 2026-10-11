@@ -1,0 +1,92 @@
+{
+ "slug": "r05-chip-the-pup",
+ "title": "Chip the Pup",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Chip.",
+   "text_pos": "bottom",
+   "word": "Chip"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Chip is a pup.",
+   "text_pos": "bottom",
+   "word": "pup"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "A ship in the tub.",
+   "text_pos": "bottom",
+   "word": "ship"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "A fish!",
+   "text_pos": "bottom",
+   "word": "fish"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "A duck in the tub.",
+   "text_pos": "bottom",
+   "word": "duck"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Kick, Pip, kick.",
+   "text_pos": "bottom",
+   "word": "kick"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Sing, Tip, sing.",
+   "text_pos": "bottom",
+   "word": "sing"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Bath! Chip is in the bath.",
+   "text_pos": "bottom",
+   "word": "bath"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "Chip is on the rug.",
+   "text_pos": "bottom",
+   "word": "rug"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "A sock on Chip.",
+   "text_pos": "bottom",
+   "word": "sock"
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "See Chip. He is a pup. He is on the rug.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Nap, Chip. Nap in the sock.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

@@ -1,22 +1,544 @@
 {
  "v": 1,
  "pages": {
-  "p01": {},
-  "p02": {},
-  "p03": {},
-  "p04": {},
-  "p05": {},
-  "p06": {},
-  "p07": {},
-  "p08": {},
-  "p09": {},
-  "p10": {},
-  "p11": {},
-  "p12": {}
+  "p01": {
+   "image": {
+    "inputs": "ee856c7e4a19",
+    "refs": [
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Jack the jack russell terrier. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it. Avoid this problem seen in a previous attempt: The picture reproduces the whole character reference sheet with three poses of Jack instead of a single Jack. Draw one Jack only, for example sitting and facing the reader, on plain cream with nothing else, leaving the bottom of the picture plain for the text panel.",
+    "cost": 0.03396725,
+    "seconds": 4.1,
+    "stale": false,
+    "at": "2026-10-11T21:50:26.542Z",
+    "regens": 1
+   },
+   "inspect": {
+    "in": "b3b62829c5c7",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Single Jack matches the reference sheet, plain background, and the panel sits on empty space below him."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:50:30.006Z"
+   },
+   "edit": {}
+  },
+  "p02": {
+   "image": {
+    "inputs": "091b366cd583",
+    "refs": [
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Jack leaping high. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.0339515,
+    "seconds": 4.9,
+    "stale": false,
+    "at": "2026-10-11T21:49:52.120Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "bdbbdbc9f282",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Jack matches the reference and is leaping high, the panel sits on plain background at the bottom, and nothing else needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:50:33.014Z"
+   }
+  },
+  "p03": {
+   "image": {
+    "inputs": "fc25765defdc",
+    "refs": [
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Jack running flat out. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.03395175,
+    "seconds": 6.4,
+    "stale": false,
+    "at": "2026-10-11T21:49:58.560Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "9b0b4c3de6f3",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Jack is a single dog leaping flat out, matching the reference, with plain background and the panel sitting on empty space at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:50:36.317Z"
+   }
+  },
+  "p04": {
+   "image": {
+    "inputs": "2e1c2b47a704",
+    "refs": [
+     "Sam",
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Sam, a very big shaggy grey-and-white old English sheepdog with hair over his eyes. Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Sam, Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Jack running very fast past Sam, speed lines behind Jack, both fully visible. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.0342405,
+    "seconds": 7.6,
+    "stale": false,
+    "at": "2026-10-11T21:49:59.904Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "7fc393abaaad",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "Sam's body looks cut off and merged with speed lines, and Jack's tail overlaps Sam awkwardly, but nothing is seriously wrong",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Both dogs match their reference sheets, Jack is running past Sam with speed lines, there is no text in the picture, and the panel sits over plain empty background."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:50:40.687Z"
+   }
+  },
+  "p05": {
+   "image": {
+    "inputs": "d7d57744e1a5",
+    "refs": [
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Jack skidding to a halt, a puff of dust. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it. Avoid this problem seen in a previous attempt: Jack does not match the reference sheet in several ways: ears should be white, not orange; the collar should be orange with a small grey tag, not a grey collar with a green tag; and he needs the orange patch on his back. Keep the skidding pose and the dust puff, and keep the empty space at the bottom for the text panel.",
+    "cost": 0.03397375,
+    "seconds": 4.9,
+    "stale": false,
+    "at": "2026-10-11T21:50:52.197Z",
+    "regens": 1
+   },
+   "inspect": {
+    "in": "c7172c746ae4",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Jack matches the reference, skids with a dust puff, no text in the picture, and the panel sits on plain background at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:50:54.492Z"
+   },
+   "edit": {}
+  },
+  "p06": {
+   "image": {
+    "inputs": "70da23f97f21",
+    "refs": [
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Jack with a stick in his mouth. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.06784525,
+    "seconds": 4,
+    "stale": false,
+    "at": "2026-10-11T21:51:03.986Z",
+    "regens": 1,
+    "edited": "Change the brown patch around Jack's eye to the same orange as the patch on his body."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "c9cc02153115",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Jack matches the reference, holds a stick in his mouth, and the panel sits on plain ground below him."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:51:07.116Z"
+   }
+  },
+  "p07": {
+   "image": {
+    "inputs": "9b9563298000",
+    "refs": [
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Jack dropping the stick on the ground. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.0678435,
+    "seconds": 3.8,
+    "stale": false,
+    "at": "2026-10-11T21:51:14.696Z",
+    "regens": 1,
+    "edited": "Change the collar from blue to orange to match the character reference."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "f555246910d1",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Jack matches the reference, one dog and one stick on the ground, no text in the picture, and the panel covers only plain background."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:51:17.869Z"
+   }
+  },
+  "p08": {
+   "image": {
+    "inputs": "dd983b636926",
+    "refs": [
+     "Pip"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. The attached images are character references, in this order: Pip. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Pip grabbing the stick. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.06784525,
+    "seconds": 3.7,
+    "stale": false,
+    "at": "2026-10-11T21:51:26.048Z",
+    "regens": 1,
+    "edited": "Change the blue collar to red like the reference sheet and give Pip soft friendly eyes instead of angry eyebrows."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "8b13e6e0c899",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Pip the beagle matches the reference and holds the stick in his mouth, the panel sits on plain background, and nothing odd is in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:51:28.870Z"
+   }
+  },
+  "p09": {
+   "image": {
+    "inputs": "3b18ccc340c7",
+    "refs": [
+     "Pip",
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Pip, Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Pip and Jack tugging the stick from both ends. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.0342385,
+    "seconds": 6.2,
+    "stale": false,
+    "at": "2026-10-11T21:50:08.926Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "4246febe59b8",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Both dogs match their reference sheets and tug the stick from both ends, there is no stray writing, and the panel sits on plain ground at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:51:31.707Z"
+   }
+  },
+  "p10": {
+   "image": {
+    "inputs": "4514e5781bb1",
+    "refs": [
+     "Pip",
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Pip, Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: The stick broken in two, both dogs surprised. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.06813274999999999,
+    "seconds": 4.8,
+    "stale": false,
+    "at": "2026-10-11T21:51:40.900Z",
+    "regens": 1,
+    "edited": "Make the pale blue parts of the white dog's tail, back leg and body plain white with thin outlines, matching the reference."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "bc7700d0474b",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Both dogs match their reference sheets, each holds half of a broken stick and looks surprised, there is no text in the picture, and the panel sits on plain background at the bottom."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:51:44.168Z"
+   }
+  },
+  "p11": {
+   "image": {
+    "inputs": "6fa760a77c1e",
+    "refs": [
+     "Pip",
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Pip, Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Each dog holding half a stick. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.0681305,
+    "seconds": 5.1,
+    "stale": false,
+    "at": "2026-10-11T21:51:54.783Z",
+    "regens": 1,
+    "edited": "Make Pip's eye patch orange like the reference and add his orange collar with a small round tag."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "d259f1739af9",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Both dogs match their reference sheets, each holds half of a broken stick, there is no text in the picture, and the panel sits on plain ground below them."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:51:57.699Z"
+   }
+  },
+  "p12": {
+   "image": {
+    "inputs": "c4296743f4e8",
+    "refs": [
+     "Pip",
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Pip, a small brown-and-white beagle puppy with floppy ears and a red collar. Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Pip, Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Both asleep with their halves of the stick. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.034238,
+    "seconds": 6,
+    "stale": false,
+    "at": "2026-10-11T21:50:13.923Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "40ffbe3ba5f2",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "instruction": "",
+     "reason": "Both dogs match their reference sheets, each sleeps with half of the stick, there is no text in the picture, and the panel sits over plain empty ground."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:52:01.389Z"
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "8c041338fc0e",
+    "refs": [
+     "Jack"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image. Palette: cream, warm grey, ginger orange, soft blue, grass green. Animals keep their natural colours. Characters in this picture: Jack, a small white jack russell terrier with a brown patch over one eye. The attached images are character references, in this order: Jack. Draw each character exactly as in its reference (same colours, markings, proportions). Show only what the scene describes, on a plain cream background, with the characters large and centred in the upper part of the picture. Scene: Jack the jack russell terrier. Big, simple and friendly. Composition: the plain cream background fills the whole frame edge to edge, the same cream on every page, with no border, frame line, margin, vignette or shadow; the only things in the picture are the characters and, at most, the one prop the sentence names. Keep the lower 40% of the image plain cream with nothing drawn there, because a large text panel will be drawn over it.",
+    "cost": 0.03395375,
+    "seconds": 5,
+    "stale": false,
+    "at": "2026-10-11T21:49:52.202Z",
+    "regens": 0
+   },
+   "edit": {
+    "crop": [
+     0.15,
+     0.1,
+     0.7,
+     0.7
+    ]
+   },
+   "inspect": {
+    "in": "d4943851df23",
+    "verdict": "fixed",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok",
+     "edges": "ok"
+    },
+    "action": {
+     "do": "crop",
+     "to": "bottom",
+     "crop": [
+      0.15,
+      0.1,
+      0.7,
+      0.5
+     ],
+     "instruction": "",
+     "reason": "Jack is small and sits in the upper middle with a large empty area below; zooming in makes him big and friendly as asked, and the plain space left can hold the title."
+    },
+    "applied": true,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T21:50:18.470Z"
+   }
+  }
  },
- "spend": 0,
+ "spend": 1.13692225,
  "plan": {
   "in": "0537f0a38e6b",
   "out": "fcbf0881188b"
+ },
+ "package": {
+  "hash": "0d8e8332b4da",
+  "at": "2026-10-11T21:52:05.219Z",
+  "pages": 12
  }
 }

@@ -1,0 +1,92 @@
+{
+ "slug": "r03-sam-the-dog",
+ "title": "Sam the Dog",
+ "set": "reading",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Sam.",
+   "text_pos": "bottom",
+   "word": "Sam"
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Sam is a dog.",
+   "text_pos": "bottom",
+   "word": "dog"
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Sam is big.",
+   "text_pos": "bottom",
+   "word": "big"
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Sam sat on the log.",
+   "text_pos": "bottom",
+   "word": "log"
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Dig, Pip, dig.",
+   "text_pos": "bottom",
+   "word": "dig"
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Mud on Pip.",
+   "text_pos": "bottom",
+   "word": "mud"
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Pip is in the tub.",
+   "text_pos": "bottom",
+   "word": "tub"
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Rub, rub, rub.",
+   "text_pos": "bottom",
+   "word": "rub"
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "A bug on Tip.",
+   "text_pos": "bottom",
+   "word": "bug"
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Fun, fun, fun!",
+   "text_pos": "bottom",
+   "word": "fun"
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Sam is big. Pip is in the tub.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Sam, Pip and Tip nap on the mat.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}
