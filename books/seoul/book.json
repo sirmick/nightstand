@@ -1,0 +1,88 @@
+{
+ "slug": "seoul",
+ "series": "cities",
+ "set": "bedtime",
+ "title": "Pocket Goes to Seoul",
+ "character": "",
+ "refrain": "\"Hello, Seoul,\" says Pocket. Look and look.",
+ "palette": "blossom pink, palace red, jade green, hanbok blue, honey gold",
+ "sky": "fresh pale blue morning with blossom → warm honey-gold afternoon → coral and pink sunset → soft lavender dusk with twinkling lights",
+ "cover": "Pocket sits on a stone wall in front of the Gyeongbokgung palace gate, with pink cherry blossom branches overhead.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Pocket peeks out of the backpack. Pink blossom drifts down like soft snow. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "beat": "Pocket on a stone railing seen from behind, under a cherry tree. Pink petals drift down. Fresh pale blue morning sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 2,
+   "text": "Two guards stand very still at the palace gate. Their robes are red and blue and gold. Pocket stands still, too.",
+   "beat": "Pocket small on a stone wall at left. Two guards in red and blue robes with tall hats by a red palace gate. Morning light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 3,
+   "text": "Skip, skip, skip! Three children in hanbok skip by. Pink, blue and yellow sleeves swing. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "beat": "Pocket on a low palace wall. Three children in pink, blue and yellow hanbok skip past, backs to us. Bright morning, blossom.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 4,
+   "text": "Pocket peeks over the roofs of the old hanok houses. The tiles curve up like gentle waves.",
+   "beat": "Pocket peeking over a wall at the bottom of the frame. Rows of grey curved-tile hanok roofs below pale sky. Late morning.",
+   "text_pos": "top"
+  },
+  {
+   "n": 5,
+   "text": "The Han River sparkles and sparkles in the warm afternoon sun. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "beat": "Pocket on a riverside bench seen from behind. Wide river glittering with honey-gold light, a long bridge in the distance.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 6,
+   "text": "Mmm! Pocket smells tteokbokki. Warm, red and chewy, it bubbles in a big pan. Puff, puff, goes the steam.",
+   "beat": "Pocket on a street stall counter beside a wide pan of red rice cakes, steam rising. Warm gold afternoon light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 7,
+   "text": "Whoosh! The subway train hums along, quiet and smooth. Pocket sits on a seat and rocks, rocks, rocks.",
+   "beat": "Pocket on a blue subway seat by a window. Few passengers, calm carriage. Soft gold light through the window.",
+   "text_pos": "top"
+  },
+  {
+   "n": 8,
+   "text": "Up the hill, up the hill, the sky turns coral and pink. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "beat": "Pocket on a railing on a hillside path, back to us. Coral and pink sunset sky, a slim tower far away.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 9,
+   "text": "A magpie sits on a branch, black and white and round. He tucks in his tail. Pocket tucks in an ear.",
+   "beat": "One black and white magpie on a blossom branch. Pocket on a nearby railing. Pink and coral sunset glow.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 10,
+   "text": "N Seoul Tower begins to glow on its hill. Lights come on, one by one. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "beat": "Pocket on a hotel windowsill, seen from behind, facing a glowing tower on a hill and tiny lights. Soft lavender dusk.",
+   "text_pos": "top"
+  },
+  {
+   "n": 11,
+   "text": "The lights twinkle and twinkle. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "beat": "Pocket small and sleepy on the windowsill, ears drooping. Twinkling city lights and the tower far away. Pale lavender sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 12,
+   "text": "Pocket is tucked up in the hotel room, fast asleep. Goodnight, Pocket. Goodnight, Seoul.",
+   "beat": "Pocket asleep on a cream pillow in a hotel bed. The window shows twinkling city lights and a glowing tower in lavender dusk.",
+   "text_pos": "bottom"
+  }
+ ],
+ "synopsis": "Pocket arrives in Seoul on a bright spring morning, with cherry blossom drifting down. Perched on a palace wall, Pocket watches guards in colourful robes at Gyeongbokgung and children in hanbok skipping by. Pocket peeks over the roofs of the hanok houses in Bukchon, sees the Han River sparkle, and smells warm tteokbokki at a street food stall. A quiet subway ride follows, and then N Seoul Tower glows on its hill. At bedtime Pocket falls asleep in the hotel room with the city lights twinkling outside.",
+ "setting": "Seoul: Gyeongbokgung palace with guards in colourful robes, children in hanbok, N Seoul Tower on the hill, the Han River, cherry blossom, hanok houses in Bukchon, tteokbokki and street food, the subway"
+}

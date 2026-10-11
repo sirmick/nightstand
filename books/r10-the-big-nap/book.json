@@ -1,0 +1,109 @@
+{
+ "slug": "r10-the-big-nap",
+ "series": "reading",
+ "set": "reading",
+ "title": "The Big Nap",
+ "cast": [
+  "Pip",
+  "Tip",
+  "Mim",
+  "Sam",
+  "Bob",
+  "Chip",
+  "Spot",
+  "Jack",
+  "Max",
+  "Zip"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "A big sun over a garden, Pip and Tip small below. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "The sun.",
+   "beat": "A big sun over a garden, Pip and Tip small below.",
+   "text_pos": "bottom",
+   "word": "sun"
+  },
+  {
+   "n": 2,
+   "text": "The sun is hot.",
+   "beat": "Pip panting under the sun.",
+   "text_pos": "bottom",
+   "word": "hot"
+  },
+  {
+   "n": 3,
+   "text": "Pip is in the shed.",
+   "beat": "Pip lying in the shade of a shed doorway.",
+   "text_pos": "bottom",
+   "word": "shed"
+  },
+  {
+   "n": 4,
+   "text": "Mim and the fan.",
+   "beat": "Mim in front of a small fan, fur blowing.",
+   "text_pos": "bottom",
+   "word": "fan"
+  },
+  {
+   "n": 5,
+   "text": "Spot can swim.",
+   "beat": "Spot swimming in the pond.",
+   "text_pos": "bottom",
+   "word": "swim"
+  },
+  {
+   "n": 6,
+   "text": "Splash!",
+   "beat": "Jack jumping into the pond, big splash.",
+   "text_pos": "bottom",
+   "word": "splash"
+  },
+  {
+   "n": 7,
+   "text": "Jack is wet. Spot is wet.",
+   "beat": "Both dripping at the pond edge.",
+   "text_pos": "bottom",
+   "word": "wet"
+  },
+  {
+   "n": 8,
+   "text": "Dusk. The sun is not hot.",
+   "beat": "Low sun, lavender sky, the garden.",
+   "text_pos": "bottom",
+   "word": "dusk"
+  },
+  {
+   "n": 9,
+   "text": "All sat. Sam, Bob, Chip, Spot, Jack, Max, Zip and Pip.",
+   "beat": "Eight dogs in a row on the grass.",
+   "text_pos": "bottom",
+   "word": "all"
+  },
+  {
+   "n": 10,
+   "text": "Still, still, still.",
+   "beat": "Sam, Bob, Spot and Jack lying still on the grass, Tip and Mim curled among them.",
+   "text_pos": "bottom",
+   "word": "still"
+  },
+  {
+   "n": 11,
+   "text": "Tip is on Sam. Mim is on Bob. Pip is on the rug.",
+   "beat": "The cats asleep on the dogs.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Nap, all. Nap in the dusk.",
+   "beat": "Sam, Bob, Chip, Spot, Jack, Max, Zip, Pip, Tip and Mim all asleep together on the grass at dusk.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

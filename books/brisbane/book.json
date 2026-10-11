@@ -1,0 +1,88 @@
+{
+ "slug": "brisbane",
+ "series": "cities",
+ "set": "bedtime",
+ "title": "Pocket Goes to Brisbane",
+ "character": "",
+ "refrain": "\"Hello, Brisbane,\" says Pocket. Look and look.",
+ "palette": "jacaranda purple, river aqua, sunshine yellow, gum green, roof red",
+ "sky": "bright clear yellow-blue morning → warm golden afternoon → orange and pink sunset → soft lilac dusk with twinkling lights",
+ "cover": "Pocket sits on a riverside railing under a purple jacaranda tree, with a CityCat ferry and the Story Bridge across the river.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Pocket peeks out of the backpack. The river sparkles in the morning sun. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "beat": "Pocket on a riverside railing seen from behind, under a purple jacaranda. Aqua river, CityCat and Story Bridge far off. Bright yellow-blue morning.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 2,
+   "text": "Toot, toot! Pocket rides the CityCat ferry. The aqua water swishes and swooshes, and the wind tickles one bent ear.",
+   "beat": "Pocket on a ferry seat by the open window, facing the river. Sleek white-and-aqua ferry deck, bright morning light, plain sky above.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 3,
+   "text": "Up above, the great Story Bridge stretches across the river. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "beat": "Pocket small on the ferry rail at left, looking up at the grey-green steel Story Bridge arching over aqua water. Clear blue morning.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 4,
+   "text": "Splash, splash, splash! The lagoon at South Bank is shallow and cool, with sand like a real beach. Pocket watches the sparkles.",
+   "beat": "Pocket on a low railing at frame bottom beside a sandy lagoon beach with shallow aqua water, tiny far-off swimmers. Bright yellow sunshine.",
+   "text_pos": "top"
+  },
+  {
+   "n": 5,
+   "text": "Purple jacaranda flowers drift down, soft as feathers. One lands on Pocket's ear. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "beat": "Pocket on a park bench under a jacaranda tree, a purple petal on its ear. Petals drifting, purple carpet on grass. Warm golden light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 6,
+   "text": "Tip-toe, tip-toe, tip-toe. Three white ibis birds strut past the bench on their long, thin legs.",
+   "beat": "Pocket on a bench at right. Three white ibis with curved dark beaks and thin legs walk across green grass. Golden afternoon light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 7,
+   "text": "At the sanctuary, a koala hugs a gum tree. He is very, very sleepy, and he does not move at all.",
+   "beat": "One grey koala asleep in the fork of a gum tree, Pocket on a fence rail nearby. Gum green leaves, warm golden light, plain lower area.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 8,
+   "text": "Hop, hop, hop! Four kangaroos bounce across the grass. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "beat": "Four tan kangaroos hopping across low grass, Pocket on a fence rail at left edge. Sky is orange-gold with gentle late sun.",
+   "text_pos": "top"
+  },
+  {
+   "n": 9,
+   "text": "A tall Queenslander house stands on its stilts, with a red roof and a wide, cool porch. The sky turns orange and pink.",
+   "beat": "Pocket on a garden gate post, small, facing a white wooden house on tall stilts with red roof and porch. Orange and pink sunset sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 10,
+   "text": "The sky turns lilac, and the city lights come on, one by one. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "beat": "Pocket on a hotel windowsill, seen from behind, looking at the river with tiny lights and a distant bridge. Soft lilac dusk.",
+   "text_pos": "top"
+  },
+  {
+   "n": 11,
+   "text": "The lights twinkle on the river. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "beat": "Pocket small and sleepy on the windowsill, ears drooping. Twinkling lights reflected on pale lilac river, calm dusk sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 12,
+   "text": "Pocket is tucked up in the hotel room, fast asleep. Goodnight, Pocket. Goodnight, Brisbane.",
+   "beat": "Pocket asleep on a cream pillow in a hotel bed. Window shows twinkling city lights on the river and soft lilac sky.",
+   "text_pos": "bottom"
+  }
+ ],
+ "synopsis": "Pocket wakes up in a warm, sunny Brisbane morning beside the river. Perched on a ferry seat, Pocket rides a CityCat past the Story Bridge, then splashes along with the eyes at the South Bank lagoon beach. Purple jacaranda trees drop soft petals, white ibis birds strut past a bench, and at the sanctuary Pocket meets a sleepy koala and a few hopping kangaroos. A Queenslander house stands tall on its stilts. When the warm evening comes, Pocket is tucked up asleep in the hotel room, with the city lights twinkling on the river outside.",
+ "setting": "Brisbane: the river with CityCat ferries, the Story Bridge, the South Bank lagoon beach, purple jacaranda trees, a koala and kangaroos at a sanctuary, white ibis birds, Queenslander houses on stilts, a warm evening"
+}

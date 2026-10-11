@@ -1,0 +1,102 @@
+{
+ "slug": "r07-jack-can-run",
+ "series": "reading",
+ "set": "reading",
+ "title": "Jack Can Run",
+ "cast": [
+  "Pip",
+  "Sam",
+  "Jack"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "Jack the jack russell terrier. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Jack.",
+   "beat": "Jack the jack russell terrier.",
+   "text_pos": "bottom",
+   "word": "Jack"
+  },
+  {
+   "n": 2,
+   "text": "Jack can jump.",
+   "beat": "Jack leaping high.",
+   "text_pos": "bottom",
+   "word": "can"
+  },
+  {
+   "n": 3,
+   "text": "Run, Jack, run.",
+   "beat": "Jack running flat out.",
+   "text_pos": "bottom",
+   "word": "run"
+  },
+  {
+   "n": 4,
+   "text": "Jack is fast.",
+   "beat": "Jack running very fast past Sam, speed lines behind Jack, both fully visible.",
+   "text_pos": "bottom",
+   "word": "fast"
+  },
+  {
+   "n": 5,
+   "text": "Stop, Jack, stop!",
+   "beat": "Jack skidding to a halt, a puff of dust.",
+   "text_pos": "bottom",
+   "word": "stop"
+  },
+  {
+   "n": 6,
+   "text": "Jack has a stick.",
+   "beat": "Jack with a stick in his mouth.",
+   "text_pos": "bottom",
+   "word": "stick"
+  },
+  {
+   "n": 7,
+   "text": "Drop the stick, Jack.",
+   "beat": "Jack dropping the stick on the ground.",
+   "text_pos": "bottom",
+   "word": "drop"
+  },
+  {
+   "n": 8,
+   "text": "Grab the stick, Pip.",
+   "beat": "Pip grabbing the stick.",
+   "text_pos": "bottom",
+   "word": "grab"
+  },
+  {
+   "n": 9,
+   "text": "Tug, tug, tug.",
+   "beat": "Pip and Jack tugging the stick from both ends.",
+   "text_pos": "bottom",
+   "word": "tug"
+  },
+  {
+   "n": 10,
+   "text": "Snap!",
+   "beat": "The stick broken in two, both dogs surprised.",
+   "text_pos": "bottom",
+   "word": "snap"
+  },
+  {
+   "n": 11,
+   "text": "Jack has a stick. Pip has a stick.",
+   "beat": "Each dog holding half a stick.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Nap, Jack. Nap, Pip.",
+   "beat": "Both asleep with their halves of the stick.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

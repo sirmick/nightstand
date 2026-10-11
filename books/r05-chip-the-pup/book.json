@@ -1,0 +1,104 @@
+{
+ "slug": "r05-chip-the-pup",
+ "series": "reading",
+ "set": "reading",
+ "title": "Chip the Pup",
+ "cast": [
+  "Pip",
+  "Tip",
+  "Mim",
+  "Sam",
+  "Chip"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "Chip the tiny chihuahua. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Chip.",
+   "beat": "Chip the tiny chihuahua.",
+   "text_pos": "bottom",
+   "word": "Chip"
+  },
+  {
+   "n": 2,
+   "text": "Chip is a pup.",
+   "beat": "Chip beside big Sam for scale.",
+   "text_pos": "bottom",
+   "word": "pup"
+  },
+  {
+   "n": 3,
+   "text": "A ship in the tub.",
+   "beat": "A toy sailing ship floating in the tub, Chip looking in.",
+   "text_pos": "bottom",
+   "word": "ship"
+  },
+  {
+   "n": 4,
+   "text": "A fish!",
+   "beat": "A goldfish in a round bowl, Mim watching.",
+   "text_pos": "bottom",
+   "word": "fish"
+  },
+  {
+   "n": 5,
+   "text": "A duck in the tub.",
+   "beat": "A yellow rubber duck in the tub, Chip beside it.",
+   "text_pos": "bottom",
+   "word": "duck"
+  },
+  {
+   "n": 6,
+   "text": "Kick, Pip, kick.",
+   "beat": "Pip kicking a ball.",
+   "text_pos": "bottom",
+   "word": "kick"
+  },
+  {
+   "n": 7,
+   "text": "Sing, Tip, sing.",
+   "beat": "Tip on a fence, mouth open, moon above.",
+   "text_pos": "bottom",
+   "word": "sing"
+  },
+  {
+   "n": 8,
+   "text": "Bath! Chip is in the bath.",
+   "beat": "Chip in a small bath with bubbles, his huge upright chihuahua ears sticking out.",
+   "text_pos": "bottom",
+   "word": "bath"
+  },
+  {
+   "n": 9,
+   "text": "Chip is on the rug.",
+   "beat": "Chip on a striped rug wrapped in a towel.",
+   "text_pos": "bottom",
+   "word": "rug"
+  },
+  {
+   "n": 10,
+   "text": "A sock on Chip.",
+   "beat": "Chip wearing a sock like a jumper.",
+   "text_pos": "bottom",
+   "word": "sock"
+  },
+  {
+   "n": 11,
+   "text": "See Chip. He is a pup. He is on the rug.",
+   "beat": "Chip sitting on the rug.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Nap, Chip. Nap in the sock.",
+   "beat": "Chip asleep inside a big sock.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

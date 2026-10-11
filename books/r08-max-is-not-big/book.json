@@ -1,0 +1,105 @@
+{
+ "slug": "r08-max-is-not-big",
+ "series": "reading",
+ "set": "reading",
+ "title": "Max Is Not Big",
+ "cast": [
+  "Pip",
+  "Tip",
+  "Mim",
+  "Sam",
+  "Bob",
+  "Max"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "Max the pug. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Max.",
+   "beat": "Max the pug.",
+   "text_pos": "bottom",
+   "word": "Max"
+  },
+  {
+   "n": 2,
+   "text": "Max is not big.",
+   "beat": "Max next to huge Sam.",
+   "text_pos": "bottom",
+   "word": "not"
+  },
+  {
+   "n": 3,
+   "text": "Max has a bed.",
+   "beat": "Max beside a small round dog bed.",
+   "text_pos": "bottom",
+   "word": "bed"
+  },
+  {
+   "n": 4,
+   "text": "The bed is soft.",
+   "beat": "Max sinking into the bed, blissful.",
+   "text_pos": "bottom",
+   "word": "soft"
+  },
+  {
+   "n": 5,
+   "text": "Rest, Max, rest.",
+   "beat": "Max lying in the bed.",
+   "text_pos": "bottom",
+   "word": "rest"
+  },
+  {
+   "n": 6,
+   "text": "Max is snug in the bed.",
+   "beat": "Max tucked in with a blanket.",
+   "text_pos": "bottom",
+   "word": "snug"
+  },
+  {
+   "n": 7,
+   "text": "Bump! Bob is on the bed.",
+   "beat": "Bob landing on the bed, Max squashed.",
+   "text_pos": "bottom",
+   "word": "bump"
+  },
+  {
+   "n": 8,
+   "text": "Then Tip. Then Mim. Then Pip.",
+   "beat": "Tip, Mim and Pip piling onto the bed.",
+   "text_pos": "bottom",
+   "word": "then"
+  },
+  {
+   "n": 9,
+   "text": "Shift, Bob, shift.",
+   "beat": "Bob shuffling over on the bed to make room, Max, Tip, Mim and Pip squeezed beside him.",
+   "text_pos": "bottom",
+   "word": "shift"
+  },
+  {
+   "n": 10,
+   "text": "We fit! Yes, we fit.",
+   "beat": "Max, Bob, Tip, Mim and Pip all together on one bed, squashed and happy.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "text": "The bed is soft. Max is snug.",
+   "beat": "Bob, Tip, Mim and Pip piled on the bed, Max at the bottom smiling.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Nap, Max. Nap, Bob, Tip, Mim and Pip.",
+   "beat": "All asleep in a heap on the bed.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

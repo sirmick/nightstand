@@ -1,0 +1,88 @@
+{
+ "slug": "san-francisco",
+ "series": "cities",
+ "set": "bedtime",
+ "title": "Pocket Goes to San Francisco",
+ "character": "",
+ "refrain": "\"Hello, San Francisco,\" says Pocket. Look and look.",
+ "palette": "bridge orange, fog blue, sea-lion brown, painted-lady pink, bay teal",
+ "sky": "pale misty grey-blue morning → warm gold afternoon → peach and rose sunset → soft lavender dusk with drifting fog and twinkling lights",
+ "cover": "Pocket sits on a railing looking out at the Golden Gate Bridge with its towers rising out of soft morning fog.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Pocket peeks out of the backpack. The Golden Gate Bridge peeks out of the fog, too. \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "beat": "Pocket on a railing seen from behind, facing orange bridge towers rising from pale blue-grey fog. Misty morning light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 2,
+   "text": "The fog lifts a little. Three white seagulls glide past the big orange towers, calling and calling.",
+   "beat": "Pocket small on a railing at left. Three white seagulls fly past the bridge towers. Pale grey-blue morning sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 3,
+   "text": "Ding, ding! Pocket rides the cable car up a very steep street. Up, up, up! \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "beat": "Pocket perched on a wooden seat of an open cable car climbing a steep street of small houses. Soft morning light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 4,
+   "text": "Bark, bark, bark! The sea lions flop and wriggle on the wooden pier, sunning their sleek brown backs.",
+   "beat": "Five brown sea lions piled on wooden floating docks, low in frame. Pocket on a railing at the edge. Warm gold light.",
+   "text_pos": "top"
+  },
+  {
+   "n": 5,
+   "text": "Pocket smells warm sourdough bread. Round, crusty loaves sit in the bakery window. \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "beat": "Pocket on a bakery windowsill beside three round golden sourdough loaves. Warm gold afternoon light, plain wall above.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 6,
+   "text": "One, two, three, four, five painted houses stand in a row. Pink, blue, and cream. Pocket counts them all.",
+   "beat": "Pocket on a park bench before a green hill. Five tall painted houses in pink, blue and cream stand in a row.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 7,
+   "text": "Out on the bay, little sailboats dot the teal water. Pocket counts six white sails, bobbing, bobbing.",
+   "beat": "Pocket on a harbour railing at the bottom of the frame. Six white sailboats on teal water. Peachy gold light.",
+   "text_pos": "top"
+  },
+  {
+   "n": 8,
+   "text": "The ferry hums across the bay as the sky turns peach and rose. \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "beat": "Pocket on a ferry seat by the rail, facing the water. Peach and rose sunset sky, orange bridge small in the distance.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 9,
+   "text": "A brown pelican sits on a post by the water. He folds his big wings and settles down.",
+   "beat": "One brown pelican on a wooden post, wings folded. Pocket on a nearby railing. Rose and peach glow on the water.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 10,
+   "text": "Soft fog rolls over the hills, and the lights come on, one by one. \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "beat": "Pocket on a hotel windowsill, seen from behind, looking out at hills of tiny lit windows and drifting fog. Lavender dusk.",
+   "text_pos": "top"
+  },
+  {
+   "n": 11,
+   "text": "The lights twinkle. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "beat": "Pocket on the windowsill, small and sleepy, ears drooping. Far-off bridge lights twinkling through pale lavender fog.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 12,
+   "text": "Pocket is tucked up in the hotel room, fast asleep. Goodnight, Pocket. Goodnight, San Francisco.",
+   "beat": "Pocket asleep on a cream pillow in a hotel bed. A window shows twinkling city lights and soft lavender fog.",
+   "text_pos": "bottom"
+  }
+ ],
+ "synopsis": "Pocket wakes in a backpack as the Golden Gate Bridge peeks out of the morning fog. Perched on railings, seats and windowsills, Pocket rides a cable car up a steep street, watches sea lions bark and flop at the pier, and counts the painted ladies houses in a row. Pocket smells warm sourdough bread and sees sailboats dotting the bay. As the fog rolls in soft and slow, Pocket is tucked up in the hotel room, asleep, with the city lights twinkling outside.",
+ "setting": "San Francisco: the Golden Gate Bridge in morning fog, cable cars on steep streets, sea lions at the pier, painted ladies houses, sourdough bread, the bay with sailboats, fog rolling in at night"
+}

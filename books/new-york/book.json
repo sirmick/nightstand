@@ -1,0 +1,88 @@
+{
+ "slug": "new-york",
+ "series": "cities",
+ "set": "bedtime",
+ "title": "Pocket Goes to New York",
+ "character": "",
+ "refrain": "\"Hello, New York,\" says Pocket. Look and look.",
+ "palette": "taxi yellow, brick red, harbour blue, park green, pretzel brown",
+ "sky": "clear bright blue morning → warm golden afternoon → orange and pink sunset → soft lavender dusk with twinkling lights",
+ "cover": "Pocket sits on a park bench with a yellow taxi passing and the Empire State Building rising behind the trees.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Pocket peeks out of the backpack. Yellow taxis hum down the street, beep, beep. \"Hello, New York,\" says Pocket. Look and look.",
+   "beat": "Pocket's head and ears poking from a backpack top, seen from behind. Four yellow taxis on a street, tall brick buildings, clear bright blue sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 2,
+   "text": "Rumble, rumble, whoosh! The subway train sweeps into the station. Pocket hops onto a seat and holds on tight.",
+   "beat": "Pocket sitting on an orange subway seat, small, facing a window. Brick red tiled station wall passing outside. Bright cool morning light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 3,
+   "text": "Pocket sits on a bench in Central Park. The trees are green and the path is wide. \"Hello, New York,\" says Pocket. Look and look.",
+   "beat": "Pocket on a park bench seen from behind, facing green trees and a winding path. Skyscrapers peek over treetops. Sunny blue sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 4,
+   "text": "Round and round goes the carousel. Up and down go the painted horses, white and red and gold.",
+   "beat": "A carousel with six painted horses low in frame, striped canopy. Pocket on a bench at the edge, watching. Warm golden light.",
+   "text_pos": "top"
+  },
+  {
+   "n": 5,
+   "text": "Coo, coo! Four grey pigeons bob along the path, pecking and strutting. Bob, bob, bob go their little heads.",
+   "beat": "Four grey pigeons with green-purple necks walking on a pale path. Pocket on a nearby bench, small. Warm golden afternoon light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 6,
+   "text": "Pocket sniffs a warm, salty pretzel from the cart. Twisty and brown. \"Hello, New York,\" says Pocket. Look and look.",
+   "beat": "A street cart with a striped umbrella and a stack of brown pretzels. Pocket perched on the cart's edge. Golden afternoon light, plain sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 7,
+   "text": "The ferry sails across the harbour, splash, splash. There is the Statue of Liberty, tall and green, holding up her torch.",
+   "beat": "Pocket on a ferry railing at the left, facing the water. Green Statue of Liberty small on an island. Harbour blue water, golden light.",
+   "text_pos": "top"
+  },
+  {
+   "n": 8,
+   "text": "The Brooklyn Bridge stretches across the water, arch after arch. The sky glows orange. \"Hello, New York,\" says Pocket. Look and look.",
+   "beat": "Pocket on a riverside railing seen from behind, facing the stone-arched Brooklyn Bridge. Orange and pink sunset sky, calm water.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 9,
+   "text": "The Empire State Building stands tall as the sun goes down. Its windows glow pink and gold, up and up and up.",
+   "beat": "Empire State Building tall on the right, glowing pink-gold. Pocket small on a low wall at left, far away. Orange-pink sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 10,
+   "text": "Back at the hotel, the sky turns soft lavender. One by one, the lights come on. \"Hello, New York,\" says Pocket. Look and look.",
+   "beat": "Pocket on a hotel windowsill seen from behind, looking at skyscrapers with tiny lit windows. Soft lavender dusk sky.",
+   "text_pos": "top"
+  },
+  {
+   "n": 11,
+   "text": "The lights twinkle. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "beat": "Pocket small and sleepy on the windowsill, ears drooping. Distant skyscraper lights twinkling in pale lavender dusk.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 12,
+   "text": "Pocket is tucked up in the hotel room, fast asleep. Goodnight, Pocket. Goodnight, New York.",
+   "beat": "Pocket asleep on a cream pillow in a hotel bed. A window shows twinkling skyscraper lights and a lavender sky.",
+   "text_pos": "bottom"
+  }
+ ],
+ "synopsis": "Pocket peeks out of the backpack as yellow taxis hum by on a sunny New York morning. Perched on a bench in Central Park, Pocket watches the carousel go round and round and the pigeons bob along the path. Pocket sniffs a warm pretzel from a cart, sails on a ferry past the Statue of Liberty, and gazes at the Brooklyn Bridge. The Empire State Building stands tall as the sun goes down. Pocket falls asleep in the hotel room, with the skyscrapers twinkling outside.",
+ "setting": "New York: yellow taxis, Central Park with a carousel, the Statue of Liberty from a ferry, the Brooklyn Bridge, a pretzel cart, the subway, pigeons, the Empire State Building, skyscrapers lit up at night"
+}

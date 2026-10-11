@@ -1,0 +1,92 @@
+{
+ "slug": "new-york",
+ "title": "Pocket Goes to New York",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Pocket peeks out of the backpack. Yellow taxis hum down the street, beep, beep. \"Hello, New York,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Rumble, rumble, whoosh! The subway train sweeps into the station. Pocket hops onto a seat and holds on tight.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Pocket sits on a bench in Central Park. The trees are green and the path is wide. \"Hello, New York,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Round and round goes the carousel. Up and down go the painted horses, white and red and gold.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Coo, coo! Four grey pigeons bob along the path, pecking and strutting. Bob, bob, bob go their little heads.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Pocket sniffs a warm, salty pretzel from the cart. Twisty and brown. \"Hello, New York,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The ferry sails across the harbour, splash, splash. There is the Statue of Liberty, tall and green, holding up her torch.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The Brooklyn Bridge stretches across the water, arch after arch. The sky glows orange. \"Hello, New York,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The Empire State Building stands tall as the sun goes down. Its windows glow pink and gold, up and up and up.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Back at the hotel, the sky turns soft lavender. One by one, the lights come on. \"Hello, New York,\" says Pocket. Look and look.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "The lights twinkle. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Pocket is tucked up in the hotel room, fast asleep. Goodnight, Pocket. Goodnight, New York.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "slug": "r04-bob-and-the-box",
+ "series": "reading",
+ "set": "reading",
+ "title": "Bob and the Box",
+ "cast": [
+  "Pip",
+  "Tip",
+  "Bob"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "Bob the wrinkly bulldog. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Bob.",
+   "beat": "Bob the wrinkly bulldog.",
+   "text_pos": "bottom",
+   "word": "Bob"
+  },
+  {
+   "n": 2,
+   "text": "A big box.",
+   "beat": "Bob beside a big cardboard box.",
+   "text_pos": "bottom",
+   "word": "box"
+  },
+  {
+   "n": 3,
+   "text": "Get in the box, Bob.",
+   "beat": "Bob with his front paws in the box.",
+   "text_pos": "bottom",
+   "word": "get"
+  },
+  {
+   "n": 4,
+   "text": "Fit, Bob, fit!",
+   "beat": "Bob squeezing into the box, bottom sticking out.",
+   "text_pos": "bottom",
+   "word": "fit"
+  },
+  {
+   "n": 5,
+   "text": "Yes! Bob is in the box.",
+   "beat": "Bob sitting in the box, delighted.",
+   "text_pos": "bottom",
+   "word": "yes"
+  },
+  {
+   "n": 6,
+   "text": "Wag, wag, wag.",
+   "beat": "Bob's tail wagging above the edge of the box.",
+   "text_pos": "bottom",
+   "word": "wag"
+  },
+  {
+   "n": 7,
+   "text": "Jam on Pip.",
+   "beat": "Pip with red jam on his nose, a jar beside him.",
+   "text_pos": "bottom",
+   "word": "jam"
+  },
+  {
+   "n": 8,
+   "text": "Hop, Tip, hop.",
+   "beat": "Tip hopping toward the box.",
+   "text_pos": "bottom",
+   "word": "hop"
+  },
+  {
+   "n": 9,
+   "text": "Tip is on the top of the box.",
+   "beat": "Tip perched on the box flap.",
+   "text_pos": "bottom",
+   "word": "top"
+  },
+  {
+   "n": 10,
+   "text": "Pip ran to the box.",
+   "beat": "Pip running to the box, jam still on his nose.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "text": "Bob is in the box. Tip is on the top. Pip sat.",
+   "beat": "All three at the box.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Nap, Bob. Nap in the box.",
+   "beat": "Bob asleep in the box, Tip asleep on top.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

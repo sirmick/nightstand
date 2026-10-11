@@ -1,0 +1,92 @@
+{
+ "slug": "seattle",
+ "title": "Pocket Goes to Seattle",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Pocket peeks out of the backpack. The Space Needle pokes up into the soft grey clouds. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Whoosh! At Pike Place Market, a shiny silver fish flies through the air. The fishmonger catches it. Pocket's ears wiggle.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Buckets and buckets of flowers! Pink, yellow, and red. Pocket sniffs and sniffs. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Pocket spots a coffee cup on a bench. Steam curls up from the lid, up and up, into the drizzle.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Pitter, patter, pitter, patter. Umbrellas bloom along the street, red, yellow, and green. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "A big green ferry glides across Puget Sound. Pocket watches it go, slow and steady, across the shining water.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The rain stops. The clouds part, and there is Mount Rainier, big and quiet, with a snowy white top.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Puff! Far out on the water, an orca rises, black and white and gentle. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "Whirr, whirr. Pocket rides the monorail high over the street. Rooftops glow pink and gold below.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The lights come on, one by one. The Space Needle twinkles. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "The lights twinkle. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Pocket is tucked up on the windowsill bed, fast asleep. Goodnight, Pocket. Goodnight, Seattle.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

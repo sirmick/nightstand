@@ -1,0 +1,92 @@
+{
+ "slug": "san-francisco",
+ "title": "Pocket Goes to San Francisco",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Pocket peeks out of the backpack. The Golden Gate Bridge peeks out of the fog, too. \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "The fog lifts a little. Three white seagulls glide past the big orange towers, calling and calling.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Ding, ding! Pocket rides the cable car up a very steep street. Up, up, up! \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Bark, bark, bark! The sea lions flop and wriggle on the wooden pier, sunning their sleek brown backs.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Pocket smells warm sourdough bread. Round, crusty loaves sit in the bakery window. \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "One, two, three, four, five painted houses stand in a row. Pink, blue, and cream. Pocket counts them all.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Out on the bay, little sailboats dot the teal water. Pocket counts six white sails, bobbing, bobbing.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "The ferry hums across the bay as the sky turns peach and rose. \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "A brown pelican sits on a post by the water. He folds his big wings and settles down.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "Soft fog rolls over the hills, and the lights come on, one by one. \"Hello, San Francisco,\" says Pocket. Look and look.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "The lights twinkle. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Pocket is tucked up in the hotel room, fast asleep. Goodnight, Pocket. Goodnight, San Francisco.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

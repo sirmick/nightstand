@@ -1,0 +1,102 @@
+{
+ "slug": "r02-mim-is-a-cat",
+ "series": "reading",
+ "set": "reading",
+ "title": "Mim Is a Cat",
+ "cast": [
+  "Pip",
+  "Tip",
+  "Mim"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "Mim the grey tabby kitten sitting. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Mim.",
+   "beat": "Mim the grey tabby kitten sitting.",
+   "text_pos": "bottom",
+   "word": "Mim"
+  },
+  {
+   "n": 2,
+   "text": "Mim is a cat.",
+   "beat": "Mim standing proudly.",
+   "text_pos": "bottom",
+   "word": "cat"
+  },
+  {
+   "n": 3,
+   "text": "Mim sat on a mat.",
+   "beat": "Mim on a small round mat.",
+   "text_pos": "bottom",
+   "word": "mat"
+  },
+  {
+   "n": 4,
+   "text": "A hat.",
+   "beat": "A red floppy hat on the floor, Tip peeking at it.",
+   "text_pos": "bottom",
+   "word": "hat"
+  },
+  {
+   "n": 5,
+   "text": "Tip sat on a red hat.",
+   "beat": "Tip sitting on the red hat, squashing it.",
+   "text_pos": "bottom",
+   "word": "red"
+  },
+  {
+   "n": 6,
+   "text": "Pip and a cap.",
+   "beat": "Pip wearing a cap.",
+   "text_pos": "bottom",
+   "word": "cap"
+  },
+  {
+   "n": 7,
+   "text": "Ham! Pip sat and sat.",
+   "beat": "Pip staring at a slice of ham on a plate.",
+   "text_pos": "bottom",
+   "word": "ham"
+  },
+  {
+   "n": 8,
+   "text": "Tip hid.",
+   "beat": "Tip hiding under the red floppy hat, only her ginger tail showing.",
+   "text_pos": "bottom",
+   "word": "hid"
+  },
+  {
+   "n": 9,
+   "text": "A rat!",
+   "beat": "A grey toy rat on the floor, Mim wide-eyed.",
+   "text_pos": "bottom",
+   "word": "rat"
+  },
+  {
+   "n": 10,
+   "text": "Mim ran and ran.",
+   "beat": "Mim running after the toy rat.",
+   "text_pos": "bottom",
+   "word": "ran"
+  },
+  {
+   "n": 11,
+   "text": "Pip sat. Tip sat. Mim sat.",
+   "beat": "The three in a row.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Nap, Mim. Nap, nap, nap.",
+   "beat": "Mim asleep on the mat, Tip and Pip asleep beside her.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

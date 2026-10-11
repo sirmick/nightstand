@@ -1,0 +1,92 @@
+{
+ "slug": "farm",
+ "title": "Goodnight, Little Farm",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "The sun slips low over the farm. Pip the puppy has one last job to do.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "\"Goodnight, hens,\" says Pip. The hens tuck their heads under their wings.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "\"Goodnight, cow,\" says Pip. The cow lies down in the sweet soft hay.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "\"Goodnight, pig,\" says Pip. The pig snuggles into the mud with a happy sigh.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "\"Goodnight, sheep.\" One sheep, two sheep, three sheep, all curled up close.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "\"Goodnight, horse,\" says Pip. The horse gives a soft, sleepy snort.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "\"Goodnight, ducks.\" The ducks float home across the still, quiet pond.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "\"Goodnight, tractor,\" says Pip. The tractor is asleep already.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The farmhouse lights go on, one, two, three.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The moon comes up big and round over the barn.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Pip pads home and curls into his basket.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "\"Goodnight, farm,\" whispers Pip. And the farm says goodnight back.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

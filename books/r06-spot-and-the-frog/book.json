@@ -1,0 +1,102 @@
+{
+ "slug": "r06-spot-and-the-frog",
+ "series": "reading",
+ "set": "reading",
+ "title": "Spot and the Frog",
+ "cast": [
+  "Tip",
+  "Mim",
+  "Spot"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "Spot the dalmatian. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Spot.",
+   "beat": "Spot the dalmatian.",
+   "text_pos": "bottom",
+   "word": "Spot"
+  },
+  {
+   "n": 2,
+   "text": "Spot has a spot.",
+   "beat": "Spot looking at one big round spot on her leg.",
+   "text_pos": "bottom",
+   "word": "spot"
+  },
+  {
+   "n": 3,
+   "text": "A frog!",
+   "beat": "A green frog on a lily pad, Spot surprised.",
+   "text_pos": "bottom",
+   "word": "frog"
+  },
+  {
+   "n": 4,
+   "text": "Jump, frog, jump.",
+   "beat": "The frog mid-leap.",
+   "text_pos": "bottom",
+   "word": "jump"
+  },
+  {
+   "n": 5,
+   "text": "The frog is in the pond.",
+   "beat": "A small pond, frog's head above the water, Spot at the edge.",
+   "text_pos": "bottom",
+   "word": "pond"
+  },
+  {
+   "n": 6,
+   "text": "Drip, drip, drip.",
+   "beat": "Spot soaked and dripping after jumping in.",
+   "text_pos": "bottom",
+   "word": "drip"
+  },
+  {
+   "n": 7,
+   "text": "Tip sat in the nest.",
+   "beat": "Tip curled in an empty bird's nest on a low branch.",
+   "text_pos": "bottom",
+   "word": "nest"
+  },
+  {
+   "n": 8,
+   "text": "Milk! Tip ran to the milk.",
+   "beat": "Tip running to a saucer of milk.",
+   "text_pos": "bottom",
+   "word": "milk"
+  },
+  {
+   "n": 9,
+   "text": "Mim sat on the lamp.",
+   "beat": "Mim perched on top of a lampshade.",
+   "text_pos": "bottom",
+   "word": "lamp"
+  },
+  {
+   "n": 10,
+   "text": "Spot is in the sand.",
+   "beat": "Spot digging in a sandpit, sand flying.",
+   "text_pos": "bottom",
+   "word": "sand"
+  },
+  {
+   "n": 11,
+   "text": "Spot has a spot. She is in the pond. Drip, drip.",
+   "beat": "Spot standing in the pond.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Nap, Spot. Nap in the sand.",
+   "beat": "Spot asleep in the sand, the frog asleep on a rock.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

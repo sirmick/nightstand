@@ -1,0 +1,92 @@
+{
+ "slug": "brisbane",
+ "title": "Pocket Goes to Brisbane",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Pocket peeks out of the backpack. The river sparkles in the morning sun. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Toot, toot! Pocket rides the CityCat ferry. The aqua water swishes and swooshes, and the wind tickles one bent ear.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Up above, the great Story Bridge stretches across the river. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Splash, splash, splash! The lagoon at South Bank is shallow and cool, with sand like a real beach. Pocket watches the sparkles.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "Purple jacaranda flowers drift down, soft as feathers. One lands on Pocket's ear. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Tip-toe, tip-toe, tip-toe. Three white ibis birds strut past the bench on their long, thin legs.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "At the sanctuary, a koala hugs a gum tree. He is very, very sleepy, and he does not move at all.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Hop, hop, hop! Four kangaroos bounce across the grass. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "A tall Queenslander house stands on its stilts, with a red roof and a wide, cool porch. The sky turns orange and pink.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The sky turns lilac, and the city lights come on, one by one. \"Hello, Brisbane,\" says Pocket. Look and look.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "The lights twinkle on the river. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Pocket is tucked up in the hotel room, fast asleep. Goodnight, Pocket. Goodnight, Brisbane.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

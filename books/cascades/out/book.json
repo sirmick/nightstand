@@ -1,0 +1,92 @@
+{
+ "slug": "cascades",
+ "title": "Goodnight, Mountain",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "The sun slides behind the mountain, and the snowy peak glows pink. Marlo the marmot stands up on his rock to look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "\"Time for bed!\" whistles Marlo. The whistle bounces off the mountain and comes back.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "The black bear and her cub amble back to their den under the roots.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "The mountain goats settle on a high ledge, white against the grey rock.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The pika stacks his last pile of grass and squeaks goodnight.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "The elk lie down in the meadow, antlers tall against the sky.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "The chipmunks scurry into their burrow with cheeks full of seeds.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Down in the creek, the salmon rest in the quiet pools.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "The grey jay tucks her head under her wing in the fir tree.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "The stars come out over the peak, more and more and more.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "Marlo squeezes into the burrow with all his brothers and sisters.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "The whole mountain sleeps under the snow-topped peak. Goodnight, Marlo.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

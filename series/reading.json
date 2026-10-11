@@ -1,0 +1,96 @@
+{
+ "name": "reading",
+ "title": "Learning to read",
+ "set": "reading",
+ "brief": "Ten staged learn-to-read books with a shared cast of dogs and cats. Each page teaches one new word, shown big above a sentence that uses only words taught so far.",
+ "style": "Very simple, bold, clean picture-book illustration for a child learning to read: flat colours, thick soft black outlines, big rounded shapes, plain cream background with at most one prop, nothing in the picture that is not in the sentence, no scenery, no gradients, no texture, no photorealism. Limited palette of five muted colours plus cream. Dark colours only in outlines and small accents. Friendly, calm mood. No text, letters or numbers anywhere in the image.",
+ "palette": "cream, warm grey, ginger orange, soft blue, grass green.",
+ "cast": {
+  "Pip": "Pip, a small brown-and-white beagle puppy with floppy ears and a red collar",
+  "Tip": "Tip, a small ginger kitten with white paws and big round eyes",
+  "Mim": "Mim, a small grey tabby kitten with dark stripes, white paws and green eyes",
+  "Sam": "Sam, a very big shaggy grey-and-white old English sheepdog with hair over his eyes",
+  "Bob": "Bob, a stocky wrinkly tan bulldog with a black nose",
+  "Chip": "Chip, a tiny tan chihuahua with huge ears",
+  "Spot": "Spot, a white dalmatian with black spots",
+  "Jack": "Jack, a small white jack russell terrier with a brown patch over one eye",
+  "Max": "Max, a fawn pug with a black face and curly tail",
+  "Zip": "Zip, a slim grey greyhound with a long nose"
+ },
+ "progression": {
+  "r01-sit-pip": {
+   "letters": "s a t p i n",
+   "sight": [
+    "a"
+   ]
+  },
+  "r02-mim-is-a-cat": {
+   "letters": "c k e h r m d",
+   "sight": [
+    "is",
+    "on",
+    "and"
+   ]
+  },
+  "r03-sam-the-dog": {
+   "letters": "g o u l f b",
+   "sight": [
+    "the",
+    "in"
+   ]
+  },
+  "r04-bob-and-the-box": {
+   "letters": "j v w x y z",
+   "sight": [
+    "to",
+    "of"
+   ]
+  },
+  "r05-chip-the-pup": {
+   "letters": "sh ch th ng ck",
+   "sight": [
+    "he",
+    "see"
+   ]
+  },
+  "r06-spot-and-the-frog": {
+   "letters": "blends (sp, fr, mp, nd, dr, st, lk)",
+   "sight": [
+    "she",
+    "has"
+   ]
+  },
+  "r07-jack-can-run": {
+   "letters": "blends (st, gr, sn, tr)",
+   "sight": []
+  },
+  "r08-max-is-not-big": {
+   "letters": "blends (ft, mp, sn), th",
+   "sight": [
+    "we"
+   ]
+  },
+  "r09-zip-is-fast": {
+   "letters": "blends (nk, gr, fl), th, ng",
+   "sight": [
+    "go"
+   ]
+  },
+  "r10-the-big-nap": {
+   "letters": "review, plus splash",
+   "sight": []
+  }
+ },
+ "books": [
+  "r01-sit-pip",
+  "r02-mim-is-a-cat",
+  "r03-sam-the-dog",
+  "r04-bob-and-the-box",
+  "r05-chip-the-pup",
+  "r06-spot-and-the-frog",
+  "r07-jack-can-run",
+  "r08-max-is-not-big",
+  "r09-zip-is-fast",
+  "r10-the-big-nap"
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "slug": "r09-zip-is-fast",
+ "series": "reading",
+ "set": "reading",
+ "title": "Zip Is Fast",
+ "cast": [
+  "Jack",
+  "Zip"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "Zip the greyhound. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Zip.",
+   "beat": "Zip the greyhound.",
+   "text_pos": "bottom",
+   "word": "Zip"
+  },
+  {
+   "n": 2,
+   "text": "Zip is thin.",
+   "beat": "Zip in profile, very slim.",
+   "text_pos": "bottom",
+   "word": "thin"
+  },
+  {
+   "n": 3,
+   "text": "Zip is long.",
+   "beat": "Zip stretched out, long legs and nose.",
+   "text_pos": "bottom",
+   "word": "long"
+  },
+  {
+   "n": 4,
+   "text": "Zip ran past Jack.",
+   "beat": "Zip streaking past Jack.",
+   "text_pos": "bottom",
+   "word": "past"
+  },
+  {
+   "n": 5,
+   "text": "Zip can win.",
+   "beat": "Zip crossing a finish ribbon.",
+   "text_pos": "bottom",
+   "word": "win"
+  },
+  {
+   "n": 6,
+   "text": "Zip has a big grin.",
+   "beat": "Zip grinning widely.",
+   "text_pos": "bottom",
+   "word": "grin"
+  },
+  {
+   "n": 7,
+   "text": "Pant, pant, pant.",
+   "beat": "Zip panting, tongue out.",
+   "text_pos": "bottom",
+   "word": "pant"
+  },
+  {
+   "n": 8,
+   "text": "Drink, Zip, drink.",
+   "beat": "Zip drinking from a bowl.",
+   "text_pos": "bottom",
+   "word": "drink"
+  },
+  {
+   "n": 9,
+   "text": "Flop! Zip is on the rug.",
+   "beat": "Zip flopped flat on a rug.",
+   "text_pos": "bottom",
+   "word": "flop"
+  },
+  {
+   "n": 10,
+   "text": "Go, Zip, go! Zip ran fast.",
+   "beat": "Zip running across grass, Jack far behind.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "text": "Zip can win. Zip has a big grin.",
+   "beat": "Zip grinning with the ribbon.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Nap, Zip. Zip is a fast dog.",
+   "beat": "Zip asleep on the rug, legs twitching.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

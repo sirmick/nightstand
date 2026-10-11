@@ -1,0 +1,597 @@
+{
+ "v": 1,
+ "pages": {
+  "p01": {
+   "write": {
+    "in": "389cebb27429",
+    "out": "b744ff19883e",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "027c35053f47",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 1 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on a railing seen from behind, facing the Space Needle rising into low clouds. Silver-blue drizzly morning light. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.0339745,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T19:41:51.978Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "9cf2376156c2",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Pocket sits on the railing seen from behind facing the Space Needle in soft grey-blue drizzle, with no letters in the picture. The panel covers only the plain railing base."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:06.101Z"
+   }
+  },
+  "p02": {
+   "write": {
+    "in": "b09525f3ac33",
+    "out": "85cec8e8f8a7",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "7a832c03092e",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 2 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on a market rail at left. A silver fish arcs between two men in green aprons over an ice-filled stall. Drizzly light. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.033976,
+    "seconds": 4.6,
+    "stale": false,
+    "at": "2026-10-11T19:41:52.161Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "48ecd5080b24",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Pocket matches the reference sheet, the fish arcs between two men in green aprons over the stall, the panel sits on plain ground, and the light is pale and drizzly with no text."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:09.041Z"
+   }
+  },
+  "p03": {
+   "write": {
+    "in": "94d374a9d795",
+    "out": "3525998ad0f3",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "0b64561f4261",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 3 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on a market shelf beside many buckets of pink, yellow and red flowers, low in frame. Soft silver-blue light, plain wall above. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.03397575,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T19:41:56.291Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "8211b6f56aad",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Pocket matches the reference, the flowers and shelf match the scene, the panel sits over plain pale wall, and there is no text in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:11.804Z"
+   }
+  },
+  "p04": {
+   "write": {
+    "in": "408f7a87b13c",
+    "out": "44cf89e77439",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "58895bc30c94",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 4 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket sits on a wooden bench beside one brown paper coffee cup with a curl of steam. Grey-blue drizzly light. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.0339745,
+    "seconds": 4.6,
+    "stale": false,
+    "at": "2026-10-11T19:41:56.844Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "ad0228933fd2",
+    "verdict": "noted",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "sky is bright turquoise, not grey-blue drizzly; no drizzle visible, but one rabbit and one cup are correct",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Character matches the reference, one cup with steam on the bench, no text, panel covers only plain dark ground at the bottom; the sky is brighter than requested but reads well on e-ink."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:15.197Z"
+   }
+  },
+  "p05": {
+   "write": {
+    "in": "86885c204c13",
+    "out": "4065a6690189",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "68a631597eb6",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 5 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on a lamppost ledge above a street of five bobbing umbrellas, red, yellow and green. Light turning pale gold. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.033975,
+    "seconds": 4.2,
+    "stale": false,
+    "at": "2026-10-11T19:41:58.134Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "338c93e9038a",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "No text in the picture, Pocket matches the reference, the scene is bright and readable, and the panel sits on plain cream below the art."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:24.307Z"
+   }
+  },
+  "p06": {
+   "write": {
+    "in": "4f381a1d7118",
+    "out": "1ffd6baf26bb",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "e8cf912aa2e5",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 6 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on a pier rail at the bottom of the frame. One green and white ferry on pale gold water. Breaking clouds. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.0339745,
+    "seconds": 4.9,
+    "stale": false,
+    "at": "2026-10-11T19:42:01.289Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "f3f910acd770",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Pocket matches the reference, one green and white ferry is on pale gold water, and clouds are breaking. The panel covers only plain sky, and there is no text in the picture."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:27.013Z"
+   }
+  },
+  "p07": {
+   "write": {
+    "in": "55b7b50182c6",
+    "out": "042dbf685706",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "7ba4777f2ea9",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 7 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on a hilltop bench, small, facing a far-off snowy Mount Rainier above gentle clouds. Pale gold light, plain sky. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.033975,
+    "seconds": 3.8,
+    "stale": false,
+    "at": "2026-10-11T19:42:00.674Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "a25247dbf42a",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Pocket is small on a bench facing a snowy mountain above clouds, with a plain pale gold sky and no writing. The panel sits below the picture and covers nothing important."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:34.040Z"
+   }
+  },
+  "p08": {
+   "write": {
+    "in": "9f5aa5702d49",
+    "out": "80532b002e81",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "02adfb394797",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 8 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket small on a waterfront railing. One distant orca with a little spout on calm water. Peach and rose sunset. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.03397425,
+    "seconds": 3.9,
+    "stale": false,
+    "at": "2026-10-11T19:42:02.096Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "0a8b8acd7815",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Pocket matches the reference, one distant orca with a spout is on calm water, the sunset is peach and rose, and the panel covers only plain sky."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:36.932Z"
+   }
+  },
+  "p09": {
+   "write": {
+    "in": "df79cd70cf5c",
+    "out": "3b8826a9f545",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "9181752a859b",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 9 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on a window seat inside a monorail car, looking out at rooftops. Rose and peach sunset glow. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.033974,
+    "seconds": 4.5,
+    "stale": false,
+    "at": "2026-10-11T19:42:05.257Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "ce54265ec292",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Page matches the scene and words, Pocket matches the reference, the panel sits on plain ground, and nothing needs fixing."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:39.771Z"
+   }
+  },
+  "p10": {
+   "write": {
+    "in": "0dada5f94c32",
+    "out": "6b70ff2f95a9",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "f999fcd3bfe5",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 10 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on a hotel windowsill seen from behind, facing the lit Space Needle and tiny city lights. Lavender dusk. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.033974,
+    "seconds": 4.3,
+    "stale": false,
+    "at": "2026-10-11T19:42:05.611Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "957a99214f6e",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Pocket is seen from behind and faces the lit Space Needle at lavender dusk. The panel sits over plain sky, and the picture has no text or odd extras."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:42.440Z"
+   }
+  },
+  "p11": {
+   "write": {
+    "in": "21e00f5fb327",
+    "out": "24349ed4f9ce",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "85bda3bd1d05",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 11 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket on the windowsill, small and sleepy, ears drooping. Soft twinkling lights through pale lavender dusk. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there. Avoid this problem seen in a previous attempt: Several things are wrong at once: the dusk sky is dark indigo with a near-black tree instead of pale lavender, Pocket looks alert with one ear straight up instead of sleepy with drooping ears and a yawn, and the eyes are misplaced black dots at the edge of the face. Draw again with a pale lavender sky, a light tree, Pocket sleepy with both ears drooping, and properly placed eyes.",
+    "cost": 0.03399575,
+    "seconds": 6,
+    "stale": false,
+    "at": "2026-10-11T19:45:52.013Z",
+    "regens": 1
+   },
+   "inspect": {
+    "in": "794c3ba5a80f",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Pocket sits sleepy on the sill with drooping ears and twinkling lights in lavender dusk; the panel covers only plain wall."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:58.468Z"
+   },
+   "edit": {}
+  },
+  "p12": {
+   "write": {
+    "in": "8947d1639940",
+    "out": "4a928f05b79a",
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:38:48.215Z"
+   },
+   "image": {
+    "inputs": "3a2d3b755d4f",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. This is page 12 of 12; pick the sky and light for that point in the day, from morning to bedtime. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Pocket asleep on a cream cushion bed on the windowsill. Window shows twinkling city lights and the Space Needle in lavender dusk. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.06787,
+    "seconds": 4.4,
+    "stale": false,
+    "at": "2026-10-11T19:46:43.033Z",
+    "regens": 1,
+    "edited": "Make the sky pale lavender and the blue wall below the windowsill a light cream, and change the brown patch behind Pocket's head to lilac-grey."
+   },
+   "edit": {},
+   "inspect": {
+    "in": "ba0bfa87b0dd",
+    "verdict": "proposed",
+    "checks": {
+     "text": "ok",
+     "character": "fur reads grey with brown outlines rather than lilac-grey, and the second ear behind the head is dark brown",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "dark brown shape behind the head looks like an odd object or a mismatched ear"
+    },
+    "action": {
+     "do": "edit",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "Colour the dark brown shape behind Pocket's head the same pale lilac-grey as the rest of the fur, as a second floppy ear, and keep everything else the same.",
+     "reason": "The brown patch behind the head does not match the reference sheet and looks like a stray object. The rest of the page works."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:46:51.242Z"
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "2d2313dfd97a",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-lite-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): evergreen, rain blue, brick red, mustard yellow, latte brown. Animals keep their natural colours. Sky and light over the story: soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights. Cover illustration for the book 'Pocket Goes to Seattle'. Scene: Pocket sits on a bench in front of the Space Needle, with a little yellow umbrella tucked beside and soft rain clouds above. Main character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Match the attached character reference exactly. The cover may use the whole image.",
+    "cost": 0.0339615,
+    "seconds": 6.4,
+    "stale": false,
+    "at": "2026-10-11T19:41:53.899Z",
+    "regens": 0
+   },
+   "edit": {},
+   "inspect": {
+    "in": "9bbdf667f9f9",
+    "verdict": "ok",
+    "checks": {
+     "text": "ok",
+     "character": "ok",
+     "content": "ok",
+     "panel": "ok",
+     "contrast": "ok",
+     "extras": "ok"
+    },
+    "action": {
+     "do": "ok",
+     "to": "",
+     "crop": [],
+     "px": 0,
+     "instruction": "",
+     "reason": "Cover matches the scene and the character reference; it has no stray text, no text panel and no extra animals, and the dark green areas are modest."
+    },
+    "applied": false,
+    "model": "anthropic/claude-sonnet-5.5",
+    "at": "2026-10-11T19:45:00.279Z"
+   }
+  }
+ },
+ "spend": 0.68972255,
+ "plan": {
+  "in": "e5402636d6de",
+  "out": "45205d1abc34",
+  "model": "anthropic/claude-sonnet-5.5",
+  "at": "2026-10-11T19:32:23.503Z"
+ },
+ "package": {
+  "hash": "f0ceaf666fbf",
+  "at": "2026-10-11T19:49:12.039Z",
+  "pages": 12
+ }
+}

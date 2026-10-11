@@ -1,0 +1,92 @@
+{
+ "slug": "seoul",
+ "title": "Pocket Goes to Seoul",
+ "set": "bedtime",
+ "cover": "cover.webp",
+ "pages": [
+  {
+   "n": 1,
+   "image": "p01.webp",
+   "text": "Pocket peeks out of the backpack. Pink blossom drifts down like soft snow. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 2,
+   "image": "p02.webp",
+   "text": "Two guards stand very still at the palace gate. Their robes are red and blue and gold. Pocket stands still, too.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 3,
+   "image": "p03.webp",
+   "text": "Skip, skip, skip! Three children in hanbok skip by. Pink, blue and yellow sleeves swing. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 4,
+   "image": "p04.webp",
+   "text": "Pocket peeks over the roofs of the old hanok houses. The tiles curve up like gentle waves.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 5,
+   "image": "p05.webp",
+   "text": "The Han River sparkles and sparkles in the warm afternoon sun. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 6,
+   "image": "p06.webp",
+   "text": "Mmm! Pocket smells tteokbokki. Warm, red and chewy, it bubbles in a big pan. Puff, puff, goes the steam.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 7,
+   "image": "p07.webp",
+   "text": "Whoosh! The subway train hums along, quiet and smooth. Pocket sits on a seat and rocks, rocks, rocks.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 8,
+   "image": "p08.webp",
+   "text": "Up the hill, up the hill, the sky turns coral and pink. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 9,
+   "image": "p09.webp",
+   "text": "A magpie sits on a branch, black and white and round. He tucks in his tail. Pocket tucks in an ear.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 10,
+   "image": "p10.webp",
+   "text": "N Seoul Tower begins to glow on its hill. Lights come on, one by one. \"Hello, Seoul,\" says Pocket. Look and look.",
+   "text_pos": "top",
+   "word": ""
+  },
+  {
+   "n": 11,
+   "image": "p11.webp",
+   "text": "The lights twinkle and twinkle. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "image": "p12.webp",
+   "text": "Pocket is tucked up in the hotel room, fast asleep. Goodnight, Pocket. Goodnight, Seoul.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}

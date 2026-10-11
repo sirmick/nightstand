@@ -1,0 +1,14 @@
+{
+ "v": 1,
+ "refs": {
+  "char": {
+   "inputs": "6372e94b8196",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image. Palette: . Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Pocket, a small, well-loved plush toy rabbit: pale lilac-grey fur, long floppy ears with one ear always bent over, round black button eyes, a stitched pink nose, a cream tummy patch and a little red neckerchief, slightly squashed from being hugged. Identical colours, markings and proportions in all three.",
+   "cost": 0.033663,
+   "seconds": 3.6,
+   "at": "2026-10-11T19:41:21.705Z"
+  }
+ },
+ "spend": 0.033663
+}

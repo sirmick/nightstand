@@ -1,0 +1,88 @@
+{
+ "slug": "seattle",
+ "series": "cities",
+ "set": "bedtime",
+ "title": "Pocket Goes to Seattle",
+ "character": "",
+ "refrain": "\"Hello, Seattle,\" says Pocket. Look and look.",
+ "palette": "evergreen, rain blue, brick red, mustard yellow, latte brown",
+ "sky": "soft silver-blue drizzly morning → pale gold break in the clouds → peach and rose sunset over the water → lavender dusk with twinkling lights",
+ "cover": "Pocket sits on a bench in front of the Space Needle, with a little yellow umbrella tucked beside and soft rain clouds above.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Pocket peeks out of the backpack. The Space Needle pokes up into the soft grey clouds. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "beat": "Pocket on a railing seen from behind, facing the Space Needle rising into low clouds. Silver-blue drizzly morning light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 2,
+   "text": "Whoosh! At Pike Place Market, a shiny silver fish flies through the air. The fishmonger catches it. Pocket's ears wiggle.",
+   "beat": "Pocket on a market rail at left. A silver fish arcs between two men in green aprons over an ice-filled stall. Drizzly light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 3,
+   "text": "Buckets and buckets of flowers! Pink, yellow, and red. Pocket sniffs and sniffs. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "beat": "Pocket on a market shelf beside many buckets of pink, yellow and red flowers, low in frame. Soft silver-blue light, plain wall above.",
+   "text_pos": "top"
+  },
+  {
+   "n": 4,
+   "text": "Pocket spots a coffee cup on a bench. Steam curls up from the lid, up and up, into the drizzle.",
+   "beat": "Pocket sits on a wooden bench beside one brown paper coffee cup with a curl of steam. Grey-blue drizzly light.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 5,
+   "text": "Pitter, patter, pitter, patter. Umbrellas bloom along the street, red, yellow, and green. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "beat": "Pocket on a lamppost ledge above a street of five bobbing umbrellas, red, yellow and green. Light turning pale gold.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 6,
+   "text": "A big green ferry glides across Puget Sound. Pocket watches it go, slow and steady, across the shining water.",
+   "beat": "Pocket on a pier rail at the bottom of the frame. One green and white ferry on pale gold water. Breaking clouds.",
+   "text_pos": "top"
+  },
+  {
+   "n": 7,
+   "text": "The rain stops. The clouds part, and there is Mount Rainier, big and quiet, with a snowy white top.",
+   "beat": "Pocket on a hilltop bench, small, facing a far-off snowy Mount Rainier above gentle clouds. Pale gold light, plain sky.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 8,
+   "text": "Puff! Far out on the water, an orca rises, black and white and gentle. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "beat": "Pocket small on a waterfront railing. One distant orca with a little spout on calm water. Peach and rose sunset.",
+   "text_pos": "top"
+  },
+  {
+   "n": 9,
+   "text": "Whirr, whirr. Pocket rides the monorail high over the street. Rooftops glow pink and gold below.",
+   "beat": "Pocket on a window seat inside a monorail car, looking out at rooftops. Rose and peach sunset glow.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 10,
+   "text": "The lights come on, one by one. The Space Needle twinkles. \"Hello, Seattle,\" says Pocket. Look and look.",
+   "beat": "Pocket on a hotel windowsill seen from behind, facing the lit Space Needle and tiny city lights. Lavender dusk.",
+   "text_pos": "top"
+  },
+  {
+   "n": 11,
+   "text": "The lights twinkle. Pocket yawns a big, slow yawn. One ear droops. Then the other.",
+   "beat": "Pocket on the windowsill, small and sleepy, ears drooping. Soft twinkling lights through pale lavender dusk.",
+   "text_pos": "bottom"
+  },
+  {
+   "n": 12,
+   "text": "Pocket is tucked up on the windowsill bed, fast asleep. Goodnight, Pocket. Goodnight, Seattle.",
+   "beat": "Pocket asleep on a cream cushion bed on the windowsill. Window shows twinkling city lights and the Space Needle in lavender dusk.",
+   "text_pos": "bottom"
+  }
+ ],
+ "synopsis": "Pocket arrives in Seattle on a soft, drizzly morning and sees the Space Needle poking up into the clouds. Perched on a market rail, Pocket watches fish fly at Pike Place Market, sniffs buckets of flowers, and spots a coffee cup steaming beside a bench. Umbrellas bloom like flowers, a green ferry glides across Puget Sound, and Mount Rainier shows its snowy top when the rain stops. A friendly orca puffs far out on the water. Pocket rides the monorail, then falls asleep on the hotel windowsill bed with the city lights twinkling outside.",
+ "setting": "Seattle: the Space Needle, Pike Place Market with fish and flowers, ferries on Puget Sound, rain and umbrellas, a coffee cup, Mount Rainier in the distance, orcas, a monorail"
+}

@@ -1,0 +1,257 @@
+{
+ "v": 1,
+ "pages": {
+  "p01": {
+   "write": {
+    "in": "c3421e513526",
+    "out": "c0e8739defe5"
+   },
+   "image": {
+    "inputs": "605a4e77c0d5",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 1 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Marlo upright on a boulder, pink-lit snowy peak, fir trees. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.067922,
+    "seconds": 10.2,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p02": {
+   "write": {
+    "in": "0ba999f84c22",
+    "out": "0b4e01c5127d"
+   },
+   "image": {
+    "inputs": "cef598f8ba8f",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 2 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Marlo whistling, small sound marks echoing off the peak. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.06792,
+    "seconds": 10.3,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p03": {
+   "write": {
+    "in": "b14cd4ed3631",
+    "out": "15d5a26f15fa"
+   },
+   "image": {
+    "inputs": "1ae4e63aee90",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 3 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Mother bear and cub walking toward a den beneath a big fir, Marlo watching. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.0679225,
+    "seconds": 9.9,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p04": {
+   "write": {
+    "in": "a41130db1ade",
+    "out": "1ef5076cb586"
+   },
+   "image": {
+    "inputs": "cf12cd715470",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 4 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Two white mountain goats on a ledge, Marlo far below. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.0679205,
+    "seconds": 9.3,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p05": {
+   "write": {
+    "in": "93f75d6c90c2",
+    "out": "bf14d38e3e8f"
+   },
+   "image": {
+    "inputs": "cbe1e3f520e6",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 5 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Small round pika beside a haystack in the rocks, Marlo beside him. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.067922,
+    "seconds": 8.9,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p06": {
+   "write": {
+    "in": "760cdfcbc3ac",
+    "out": "28d1ac1064c7"
+   },
+   "image": {
+    "inputs": "4c756cf4a6ec",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 6 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Three elk lying in a meadow, lavender sky. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.067919,
+    "seconds": 13.3,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p07": {
+   "write": {
+    "in": "02630e47ab7d",
+    "out": "639f73e09f6d"
+   },
+   "image": {
+    "inputs": "93a24cc456e1",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 7 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Two chipmunks at a burrow under a log, Marlo nearby. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.0679215,
+    "seconds": 11.9,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p08": {
+   "write": {
+    "in": "958c84795a9d",
+    "out": "99cba68f0ac7"
+   },
+   "image": {
+    "inputs": "2044e572ebb0",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 8 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Clear creek with two salmon in a still pool, Marlo on the bank. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.067922,
+    "seconds": 12.4,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p09": {
+   "write": {
+    "in": "586040da91c3",
+    "out": "f20392ff0e6e"
+   },
+   "image": {
+    "inputs": "980050d8ec3e",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 9 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Grey jay on a fir branch, head tucked, Marlo below. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.067921,
+    "seconds": 9.9,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p10": {
+   "write": {
+    "in": "f025247e4365",
+    "out": "b3ecc63abfb4"
+   },
+   "image": {
+    "inputs": "4d9dfeba549c",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 10 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Snowy peak with a pale indigo sky full of stars, Marlo small on his rock. Keep the top quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.0679235,
+    "seconds": 10.4,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p11": {
+   "write": {
+    "in": "8a47051e04c4",
+    "out": "645b82d8c5a9"
+   },
+   "image": {
+    "inputs": "98d20e6c7b00",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 11 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Burrow entrance in the rocks with a pile of sleepy marmots. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.067921,
+    "seconds": 9.6,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "p12": {
+   "write": {
+    "in": "0e0a06189272",
+    "out": "81dab391534e"
+   },
+   "image": {
+    "inputs": "2985b03d445d",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. This is page 12 of 12; pick the sky and light for that point in the evening. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly (same colours, markings, proportions), unless the scene does not include the character. Scene: Wide mountain view, meadow, firs, peak, stars, Marlo asleep in the burrow mouth. Keep the bottom quarter of the image simple and uncluttered (plain ground, water or sky) because a text panel will be drawn there.",
+    "cost": 0.067925,
+    "seconds": 10.6,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "char": {
+   "image": {
+    "inputs": "6f4e8ce1f131",
+    "refs": [],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Character reference sheet for a children's picture book. Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette: fir green, slate blue, ochre, rust, cream snow.. Show the same character three times on a plain cream background: standing front view, side view, and curled up asleep. The character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Identical colours, markings and proportions in all three.",
+    "cost": 0.0673165,
+    "seconds": 8.7,
+    "stale": false,
+    "imported": true
+   }
+  },
+  "cover": {
+   "image": {
+    "inputs": "17c81de691e5",
+    "refs": [
+     "char"
+    ],
+    "model": "google/gemini-3.1-flash-image",
+    "prompt": "Children's picture-book illustration for ages 3 to 6 in the style of a vintage national-park screen print: flat overlapping spot colours, simplified geometric shapes for mountains, trees and animals, slight print misregistration and paper grain, a limited palette of five muted colours plus cream, no outlines except where shapes meet, no gradients, no photorealism. Backgrounds are cream with a pale flat sky. Dark colours only for small shapes and accents, never large dark areas. Warm, calm, sleepy mood. Keep the bottom quarter of the image simple and uncluttered (plain cream or flat meadow) so text can be placed there. No text, letters or numbers anywhere in the image. Palette for this book (for skies, ground, buildings and accents): fir green, slate blue, ochre, rust, cream snow.. Animals keep their natural colours. Sky and light over the story: gold alpenglow on the peak → pink → lavender dusk → pale indigo with stars (never black).. Cover illustration for the book 'Goodnight, Mountain'. Scene: Marlo standing up on a boulder in an alpine meadow, a snowy peak behind. Main character: Marlo, a plump young hoary marmot with silver-grey and brown fur, a short bushy tail and small round ears. Match the attached character reference exactly. The cover may use the whole image.",
+    "cost": 0.067899,
+    "seconds": 9.9,
+    "stale": false,
+    "imported": true
+   }
+  }
+ },
+ "spend": 0,
+ "plan": {
+  "in": "0537f0a38e6b",
+  "out": "6afe4760b266"
+ },
+ "package": {
+  "hash": "9bc514d48643",
+  "at": "2026-10-11T19:31:42.203Z",
+  "pages": 12
+ }
+}

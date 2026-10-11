@@ -1,0 +1,102 @@
+{
+ "slug": "r03-sam-the-dog",
+ "series": "reading",
+ "set": "reading",
+ "title": "Sam the Dog",
+ "cast": [
+  "Pip",
+  "Tip",
+  "Sam"
+ ],
+ "refrain": "",
+ "palette": "",
+ "sky": "",
+ "cover": "Sam the big shaggy sheepdog. Big, simple and friendly.",
+ "style": "",
+ "pages": [
+  {
+   "n": 1,
+   "text": "Sam.",
+   "beat": "Sam the big shaggy sheepdog.",
+   "text_pos": "bottom",
+   "word": "Sam"
+  },
+  {
+   "n": 2,
+   "text": "Sam is a dog.",
+   "beat": "Sam standing.",
+   "text_pos": "bottom",
+   "word": "dog"
+  },
+  {
+   "n": 3,
+   "text": "Sam is big.",
+   "beat": "Sam towering next to tiny Tip.",
+   "text_pos": "bottom",
+   "word": "big"
+  },
+  {
+   "n": 4,
+   "text": "Sam sat on the log.",
+   "beat": "Sam sitting on a log.",
+   "text_pos": "bottom",
+   "word": "log"
+  },
+  {
+   "n": 5,
+   "text": "Dig, Pip, dig.",
+   "beat": "Pip digging a hole, dirt flying.",
+   "text_pos": "bottom",
+   "word": "dig"
+  },
+  {
+   "n": 6,
+   "text": "Mud on Pip.",
+   "beat": "Pip covered in mud spots.",
+   "text_pos": "bottom",
+   "word": "mud"
+  },
+  {
+   "n": 7,
+   "text": "Pip is in the tub.",
+   "beat": "Pip in a round tin tub with suds.",
+   "text_pos": "bottom",
+   "word": "tub"
+  },
+  {
+   "n": 8,
+   "text": "Rub, rub, rub.",
+   "beat": "Sam rubbing Pip dry with a towel.",
+   "text_pos": "bottom",
+   "word": "rub"
+  },
+  {
+   "n": 9,
+   "text": "A bug on Tip.",
+   "beat": "A ladybug on Tip's nose, Tip cross-eyed.",
+   "text_pos": "bottom",
+   "word": "bug"
+  },
+  {
+   "n": 10,
+   "text": "Fun, fun, fun!",
+   "beat": "Pip, Tip and Sam playing in soap bubbles.",
+   "text_pos": "bottom",
+   "word": "fun"
+  },
+  {
+   "n": 11,
+   "text": "Sam is big. Pip is in the tub.",
+   "beat": "Sam beside the round grey tin tub with Pip in it.",
+   "text_pos": "bottom",
+   "word": ""
+  },
+  {
+   "n": 12,
+   "text": "Sam, Pip and Tip nap on the mat.",
+   "beat": "The three asleep on the mat.",
+   "text_pos": "bottom",
+   "word": ""
+  }
+ ]
+}
