@@ -1,14 +1,14 @@
 {
  "v": 1,
  "minApp": 2,
- "generated": "2026-10-11T19:49:19.000Z",
+ "generated": "2026-10-11T19:54:00.705Z",
  "books": [
   {
    "slug": "farm",
    "title": "Goodnight, Little Farm",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "e18c1a7cedb1",
+   "hash": "7a342c857bb2",
    "bytes": 663624,
    "pages": 12,
    "files": [
@@ -33,7 +33,7 @@
    "title": "Goodnight, Mountain",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "9bc514d48643",
+   "hash": "729ff6f92893",
    "bytes": 818412,
    "pages": 12,
    "files": [
@@ -58,7 +58,7 @@
    "title": "Goodnight, Kittens",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "701f433c666a",
+   "hash": "eca06071aa70",
    "bytes": 935205,
    "pages": 12,
    "files": [
@@ -83,7 +83,7 @@
    "title": "Pocket Goes to San Francisco",
    "set": "bedtime",
    "series": "cities",
-   "hash": "eb0d94ca3d06",
+   "hash": "0f5090ce6cbb",
    "bytes": 654019,
    "pages": 12,
    "files": [
@@ -108,7 +108,7 @@
    "title": "Pocket Goes to Seattle",
    "set": "bedtime",
    "series": "cities",
-   "hash": "f0ceaf666fbf",
+   "hash": "d1791259016a",
    "bytes": 535801,
    "pages": 12,
    "files": [
@@ -133,7 +133,7 @@
    "title": "Pocket Goes to Brisbane",
    "set": "bedtime",
    "series": "cities",
-   "hash": "d0bc1d23db47",
+   "hash": "bace575bd5a6",
    "bytes": 706252,
    "pages": 12,
    "files": [
@@ -158,7 +158,7 @@
    "title": "Pocket Goes to Seoul",
    "set": "bedtime",
    "series": "cities",
-   "hash": "d002fe536404",
+   "hash": "8d5a5b6d1259",
    "bytes": 673577,
    "pages": 12,
    "files": [
@@ -183,7 +183,7 @@
    "title": "Pocket Goes to New York",
    "set": "bedtime",
    "series": "cities",
-   "hash": "d2b1efc45a29",
+   "hash": "6c786c792791",
    "bytes": 557899,
    "pages": 12,
    "files": [
@@ -208,7 +208,7 @@
    "title": "Sit, Pip",
    "set": "reading",
    "series": "reading",
-   "hash": "65c63dc5d511",
+   "hash": "980f90b3f909",
    "bytes": 506531,
    "pages": 12,
    "files": [
