@@ -82,5 +82,7 @@
    "beat": "Whole farm from a little way off, every window dark but one, moon and stars.",
    "text_pos": "bottom"
   }
- ]
+ ],
+ "framing": "Composition: the picture fills the whole frame edge to edge like a photograph. The scene continues right up to every edge: no border, no margin, no frame line, no vignette, no paper edge, and no blank or plain strip on any side.",
+ "mask": "masks/cream-soft.png"
 }

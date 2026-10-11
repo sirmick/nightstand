@@ -7,10 +7,26 @@
  "style": "Children's picture-book illustration for ages 3 to 6 in the look of modern flat 2D television animation for preschoolers: bold, simple, rounded shapes with no outlines, flat colour fills with at most one soft shadow tone per shape, a bright but gentle palette of five main colours plus cream, warm sunny light, clean simple backgrounds with one or two big recognisable landmarks drawn as simple blocks of colour, lots of open space, no gradients, no texture, no photorealism. The toy rabbit is small and cute with big simple button eyes. Dark colours only in small accents, never large dark areas. Warm, calm, happy mood. No text, letters or numbers anywhere in the image.",
  "timePhrase": "day, from morning to bedtime",
  "books": [
-  { "slug": "san-francisco", "hint": "San Francisco: the Golden Gate Bridge in morning fog, cable cars on steep streets, sea lions at the pier, painted ladies houses, sourdough bread, the bay with sailboats, fog rolling in at night" },
-  { "slug": "seattle", "hint": "Seattle: the Space Needle, Pike Place Market with fish and flowers, ferries on Puget Sound, rain and umbrellas, a coffee cup, Mount Rainier in the distance, orcas, a monorail" },
-  { "slug": "brisbane", "hint": "Brisbane: the river with CityCat ferries, the Story Bridge, the South Bank lagoon beach, purple jacaranda trees, a koala and kangaroos at a sanctuary, white ibis birds, Queenslander houses on stilts, a warm evening" },
-  { "slug": "seoul", "hint": "Seoul: Gyeongbokgung palace with guards in colourful robes, children in hanbok, N Seoul Tower on the hill, the Han River, cherry blossom, hanok houses in Bukchon, tteokbokki and street food, the subway" },
-  { "slug": "new-york", "hint": "New York: yellow taxis, Central Park with a carousel, the Statue of Liberty from a ferry, the Brooklyn Bridge, a pretzel cart, the subway, pigeons, the Empire State Building, skyscrapers lit up at night" }
- ]
+  {
+   "slug": "san-francisco",
+   "hint": "San Francisco: the Golden Gate Bridge in morning fog, cable cars on steep streets, sea lions at the pier, painted ladies houses, sourdough bread, the bay with sailboats, fog rolling in at night"
+  },
+  {
+   "slug": "seattle",
+   "hint": "Seattle: the Space Needle, Pike Place Market with fish and flowers, ferries on Puget Sound, rain and umbrellas, a coffee cup, Mount Rainier in the distance, orcas, a monorail"
+  },
+  {
+   "slug": "brisbane",
+   "hint": "Brisbane: the river with CityCat ferries, the Story Bridge, the South Bank lagoon beach, purple jacaranda trees, a koala and kangaroos at a sanctuary, white ibis birds, Queenslander houses on stilts, a warm evening"
+  },
+  {
+   "slug": "seoul",
+   "hint": "Seoul: Gyeongbokgung palace with guards in colourful robes, children in hanbok, N Seoul Tower on the hill, the Han River, cherry blossom, hanok houses in Bukchon, tteokbokki and street food, the subway"
+  },
+  {
+   "slug": "new-york",
+   "hint": "New York: yellow taxis, Central Park with a carousel, the Statue of Liberty from a ferry, the Brooklyn Bridge, a pretzel cart, the subway, pigeons, the Empire State Building, skyscrapers lit up at night"
+  }
+ ],
+ "mask": "masks/white-soft.png"
 }

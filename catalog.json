@@ -1,15 +1,15 @@
 {
  "v": 1,
  "minApp": 2,
- "generated": "2026-10-11T19:54:00.705Z",
+ "generated": "2026-10-11T20:12:06.624Z",
  "books": [
   {
    "slug": "farm",
    "title": "Goodnight, Little Farm",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "7a342c857bb2",
-   "bytes": 663624,
+   "hash": "b6ef4e37953b",
+   "bytes": 648258,
    "pages": 12,
    "files": [
     "book.json",
@@ -33,8 +33,8 @@
    "title": "Goodnight, Mountain",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "729ff6f92893",
-   "bytes": 818412,
+   "hash": "ce319145266b",
+   "bytes": 750820,
    "pages": 12,
    "files": [
     "book.json",
@@ -58,8 +58,8 @@
    "title": "Goodnight, Kittens",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "eca06071aa70",
-   "bytes": 935205,
+   "hash": "ba6f0b73cb68",
+   "bytes": 849295,
    "pages": 12,
    "files": [
     "book.json",
@@ -83,8 +83,8 @@
    "title": "Pocket Goes to San Francisco",
    "set": "bedtime",
    "series": "cities",
-   "hash": "0f5090ce6cbb",
-   "bytes": 654019,
+   "hash": "8308e878adb9",
+   "bytes": 632397,
    "pages": 12,
    "files": [
     "book.json",
@@ -108,8 +108,8 @@
    "title": "Pocket Goes to Seattle",
    "set": "bedtime",
    "series": "cities",
-   "hash": "d1791259016a",
-   "bytes": 535801,
+   "hash": "188b1d81a48a",
+   "bytes": 524795,
    "pages": 12,
    "files": [
     "book.json",
@@ -133,8 +133,8 @@
    "title": "Pocket Goes to Brisbane",
    "set": "bedtime",
    "series": "cities",
-   "hash": "bace575bd5a6",
-   "bytes": 706252,
+   "hash": "44b504b43c44",
+   "bytes": 670764,
    "pages": 12,
    "files": [
     "book.json",
@@ -158,8 +158,8 @@
    "title": "Pocket Goes to Seoul",
    "set": "bedtime",
    "series": "cities",
-   "hash": "8d5a5b6d1259",
-   "bytes": 673577,
+   "hash": "fda230cf2d22",
+   "bytes": 638763,
    "pages": 12,
    "files": [
     "book.json",
@@ -183,8 +183,8 @@
    "title": "Pocket Goes to New York",
    "set": "bedtime",
    "series": "cities",
-   "hash": "6c786c792791",
-   "bytes": 557899,
+   "hash": "e4c87aaeabfe",
+   "bytes": 547817,
    "pages": 12,
    "files": [
     "book.json",
@@ -208,7 +208,7 @@
    "title": "Sit, Pip",
    "set": "reading",
    "series": "reading",
-   "hash": "980f90b3f909",
+   "hash": "e4ed223ab7f6",
    "bytes": 506531,
    "pages": 12,
    "files": [
