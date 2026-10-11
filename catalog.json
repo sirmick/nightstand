@@ -1,15 +1,15 @@
 {
  "v": 1,
  "minApp": 2,
- "generated": "2026-10-11T20:12:06.624Z",
+ "generated": "2026-10-11T20:23:20.473Z",
  "books": [
   {
    "slug": "farm",
    "title": "Goodnight, Little Farm",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "b6ef4e37953b",
-   "bytes": 648258,
+   "hash": "41fcd6e0c997",
+   "bytes": 687246,
    "pages": 12,
    "files": [
     "book.json",
@@ -33,8 +33,8 @@
    "title": "Goodnight, Mountain",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "ce319145266b",
-   "bytes": 750820,
+   "hash": "0f959d2a6ba0",
+   "bytes": 824350,
    "pages": 12,
    "files": [
     "book.json",
@@ -58,8 +58,8 @@
    "title": "Goodnight, Kittens",
    "set": "bedtime",
    "series": "bedtime",
-   "hash": "ba6f0b73cb68",
-   "bytes": 849295,
+   "hash": "eff20a3272e8",
+   "bytes": 918651,
    "pages": 12,
    "files": [
     "book.json",
@@ -83,8 +83,8 @@
    "title": "Pocket Goes to San Francisco",
    "set": "bedtime",
    "series": "cities",
-   "hash": "8308e878adb9",
-   "bytes": 632397,
+   "hash": "3adaa205a801",
+   "bytes": 708957,
    "pages": 12,
    "files": [
     "book.json",
@@ -108,8 +108,8 @@
    "title": "Pocket Goes to Seattle",
    "set": "bedtime",
    "series": "cities",
-   "hash": "188b1d81a48a",
-   "bytes": 524795,
+   "hash": "def2eacef49c",
+   "bytes": 594337,
    "pages": 12,
    "files": [
     "book.json",
@@ -133,8 +133,8 @@
    "title": "Pocket Goes to Brisbane",
    "set": "bedtime",
    "series": "cities",
-   "hash": "44b504b43c44",
-   "bytes": 670764,
+   "hash": "a3f373d1c9ca",
+   "bytes": 764082,
    "pages": 12,
    "files": [
     "book.json",
@@ -158,8 +158,8 @@
    "title": "Pocket Goes to Seoul",
    "set": "bedtime",
    "series": "cities",
-   "hash": "fda230cf2d22",
-   "bytes": 638763,
+   "hash": "6697c7f0029b",
+   "bytes": 727069,
    "pages": 12,
    "files": [
     "book.json",
@@ -183,8 +183,8 @@
    "title": "Pocket Goes to New York",
    "set": "bedtime",
    "series": "cities",
-   "hash": "e4c87aaeabfe",
-   "bytes": 547817,
+   "hash": "cd77b365c422",
+   "bytes": 617115,
    "pages": 12,
    "files": [
     "book.json",
